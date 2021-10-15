@@ -8,7 +8,9 @@ I started my new growth in the Analytics field with the current Business Insight
 
 I am currently working as a Data Analytics Intern for the Center of Talent in AI company, HCMC (Sai Gon), Vietnam remotely to conduct Sentiment Analysis on customer’s comments through a full cycle of production stages: Project Planning, Data Operations, Model Engineering, Machine Learning Operations and Business Integration/Visualization with multiple languages and tools, including SQL, Python, Tableau & Observable, Docker, DBeaver, Kubeflow, Tensorflow, etc. 
 
-- Technologies: Analytics, Big Data System (Hadoop), BI System (Tableau), Microsoft SQL
-- Professional Skills: Data / Business Insights and Analytics, Big Data Analytics, Data Visualization, Data Engineering, Sales, Marketing, Finance, Accounting, Customer Management, Client Service Management
-- Technical Skills: Microsoft Office (Word, Excel, Powerpoint, Outlook), Python (programming & basic Machine / Deep Learning), SQL, Java, Tableau, Hive, Zeppelin, Spark, Pig
-- Languages: English (professional), Vietnamese (native), French (basic - ongoing), German (basic - reached B1 in 2011)
+- Languages:	English (fluent), French (ongoing intensive A2), German (basic, B1–2011), Vietnamese (native)
+- Programming:	Python (basic Machine & Deep Learning, AI), Java, Sentiment & Text Analytics, API
+- Database:	SQL, Excel, Access, Database Design (ERD, Normalization, Object Relational Mapping), SPSS, Access 
+- Visualization: Tableau, Power BI, Excel, Access, Cognos 
+- Big Data: SQL, Hadoop, Hive, Pig, Zeppelin, NoSQL, Sqoop, MapReduce
+
