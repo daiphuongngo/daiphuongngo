@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning and will finish with the IBM Data Analytics course (SQL, Python, Excel, Cognos) soon.
 - 💞️ I’m also working on projects in Python, SQL and Tableau.
 - 📫 You could reach me via phuong.ngo5595@gmail.com or my Linkedin: https://www.linkedin.com/in/daiphuongngo/
+- Tableau: https://public.tableau.com/app/profile/dai.phuong.ngo
+- HackerRank: https://www.hackerrank.com/phuong_ngo5595
+- GitHub: https://github.com/daiphuongngo
 
 I started my new growth in the Analytics field with the current Business Insights & Analytics Post-Graduate Program in Toronto, Canada (2021-2022), and Data & AI courses with analytical & programming courses and projects to utilize my skillset and provide me the opportunity for further personal development through new challenges & career opportunities of Data/Business Analytics.
 
