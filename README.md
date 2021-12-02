@@ -1,8 +1,8 @@
 # Hi, I’m Dai- Ngo (Liam Ngo) 👋 
 
 - 👀 I’m interested in understanding, processing, analyzing, and visualizing data with different languages and tools.
-- 🌱 I’m currently learning and will finish with the IBM Data Analytics course (SQL, Python, Excel, Cognos) soon.
-- 💞️ I’m also working on projects in Python, SQL and Tableau.
+- 🌱 I’m currently learning Microsoft Power BI, T-SQL, Azure & Tableau.
+- 💞️ I’m also working on projects in Python, SQL and Tableau, Power BI.
 - 📫 You could reach me via phuong.ngo5595@gmail.com or my Linkedin: https://www.linkedin.com/in/daiphuongngo/
 - Tableau Public: https://public.tableau.com/app/profile/dai.phuong.ngo
 - HackerRank: https://www.hackerrank.com/phuong_ngo5595
