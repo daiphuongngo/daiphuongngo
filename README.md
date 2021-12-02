@@ -16,13 +16,17 @@ I worked as a *`Data Analytics Intern`* for the *`Center of Talent in AI`* remot
 + `Python`: conduct EDA, request to, receive from Postman’s API, map files, translate classes to tables in MySQL, process batches
 + `Tableau`: visualize refined datasets for insights of customer’s sentiment on charts, metrics to analyze key features of intentions
 
-LANGUAGES, TECHNOLOGIES & SKILLS
-``Languages:``	
+# LANGUAGES, TECHNOLOGIES & SKILLS
+
+## Languages:
+
 + **English** (fluent)
 + **French** (ongoing intensive B1)
 + **German** (basic, B1 Goethe–2011)
 + **Vietnamese** (native)
-- Programming:	
+
+## Programming:	
+
 + **Python** (Pandas, Numpy, Matplotlib, Keras, Tensorflow, SkLearn)
 + **SQL**
 + **T-SQL**
@@ -31,25 +35,39 @@ LANGUAGES, TECHNOLOGIES & SKILLS
 + **R**
 + API
 + Shell
-- ETL / ELT:	
+
+## ETL / ELT:	
+
 + **Alteryx**
 + **Azure**
 + **Tableau Prep**
 + **Power BI Query Editor**
 + **IBM**
 + **SAS**
-- Database:	
+
+## Database:	
+
 + **MySQL** (Workbench)
 + Design (ERD, Normalization, ORM)
 + **Salesforce** 
-- Big Data:
+
+## Big Data:
+
 + **Azure** (Apache Spark, Databricks, Synapse)
 + **Hadoop** (Hive, Zeppelin, NoSQL, Pig, Sqoop, HBase)
-- Visualization:
+
+## Visualization:
+
 + **Tableau**
 + **Power BI**
 + **Excel, SPSS**
-- Soft Skills:	Communication, Teamwork, Presentation, Negotiation, Sales, Client & Project Management, Consulting
-- Others:	**Microsoft Office Specialist: Word, Excel, Powerpoint, Outlook, SPSS**, Managerial Finance & Accounting (Excel), Big Data (Hadoop, IBM, SAS), Quantitative Research Methods (Statistics, Probability), Data Analytics Tools (Excel, SPSS), Database & SQL, Canadian Business & Strategy, Governance & Ethics in Data, Marketing 
+
+## Soft Skills:	
+
+Communication, Teamwork, Presentation, Negotiation, Sales, Client & Project Management, Consulting
+
+## Others:	
+
+**Microsoft Office Specialist: Word, Excel, Powerpoint, Outlook, SPSS**, Managerial Finance & Accounting (Excel), Big Data (Hadoop, IBM, SAS), Quantitative Research Methods (Statistics, Probability), Data Analytics Tools (Excel, SPSS), Database & SQL, Canadian Business & Strategy, Governance & Ethics in Data, Marketing 
 
 
