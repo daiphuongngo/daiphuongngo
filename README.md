@@ -17,7 +17,7 @@ I worked as a *`Data Analytics Intern`* for the *`Center of Talent in AI`* remot
 + `Tableau`: visualize refined datasets for insights of customer’s sentiment on charts, metrics to analyze key features of intentions
 
 LANGUAGES, TECHNOLOGIES & SKILLS
-- Languages:	
+- `*Languages:*`	
 + **English** (fluent)
 + **French** (ongoing intensive B1)
 + **German** (basic, B1 Goethe–2011)
