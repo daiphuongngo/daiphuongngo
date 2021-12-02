@@ -9,12 +9,12 @@
 
 I started my new growth in the Analytics field with the current *`Business Insights & Analytics Post-Graduate Program in Toronto, Ontario, Canada`* from *`Jan 2021 - Aug 2022)`*, and Data & AI courses with analytical & programming courses and projects to utilize my skillset and provide me the opportunity for further personal development through new challenges & career opportunities of Data/Business Analytics.
 
-I will join the *`iRestify Inc., Toronto, Ontario, Canada`* as *`Data Analyst Intern`* from *`Jan-Apr 2022`* and directly work under the Product Head, support various cross-departmental projects to analyze, integrate trend insights from customer experience survey sources, automate departmental reports, metrics, monitor KPIs in Power BI. I also translate complex problems into simpler terms using basic, intermediate, advanced visualization techniques & support initiatives to contribute to goals & success of the company’s vision. And I also identify key areas of opportunities, establish cause & effect, perform analyses, and communicate key findings to various stakeholders to facilitate data-driven decision-making.
+I will join the *`iRestify Inc., Toronto, Ontario, Canada`* as *`Data Analyst Intern`* from *`Jan-Apr 2022`* and directly work under the Product Head, support various cross-departmental projects to analyze, integrate trend insights from customer experience survey sources, automate departmental reports, metrics, monitor KPIs in **Power BI**. I also translate complex problems into simpler terms using basic, intermediate, advanced visualization techniques & support initiatives to contribute to goals & success of the company’s vision. And I also identify key areas of opportunities, establish cause & effect, perform analyses, and communicate key findings to various stakeholders to facilitate data-driven decision-making.
 
 I worked as a *`Data Analytics Intern`* for the *`Center of Talent in AI`* remotely from *`Aug-Dec 2021`* to conduct Sentiment Analysis on customer’s comments and analyze data generated from a system using Natural Language Processing on Fan Pages’ dialogs of diet products & participate in Data Operations, Visualization to determine top customers, top efficient fan pages, most crucial intentions & demand entities, peak effective contact hours, peak periods of confirmations, common complaints
-+ SQL: create tables, organize data in MySQL Database into chats, intentions, entities (> 4,000,000 rows), generate insights
-+ Python: conduct EDA, request to, receive from Postman’s API, map files, translate classes to tables in MySQL, process batches
-+ Tableau: visualize refined datasets for insights of customer’s sentiment on charts, metrics to analyze key features of intentions
++ **SQL**: create tables, organize data in MySQL Database into chats, intentions, entities (> 4,000,000 rows), generate insights
++ **Python**: conduct EDA, request to, receive from Postman’s API, map files, translate classes to tables in MySQL, process batches
++ `*Tableau*`: visualize refined datasets for insights of customer’s sentiment on charts, metrics to analyze key features of intentions
 
 LANGUAGES, TECHNOLOGIES & SKILLS
 - Languages:	English (fluent), French (ongoing intensive B1), German (basic, B1 Goethe–2011), Vietnamese (native)
