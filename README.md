@@ -1,4 +1,5 @@
-👋 # Hi, I’m Dai- Ngo (Liam Ngo)
+# Hi, I’m Dai- Ngo (Liam Ngo) 👋 
+
 - 👀 I’m interested in understanding, processing, analyzing, and visualizing data with different languages and tools.
 - 🌱 I’m currently learning and will finish with the IBM Data Analytics course (SQL, Python, Excel, Cognos) soon.
 - 💞️ I’m also working on projects in Python, SQL and Tableau.
