@@ -56,6 +56,7 @@ I worked as a `Data Analytics Intern` for the `Center of Talent in AI` remotely 
 ### Database:	
 
 + **MySQL** (Workbench)
++ **Azure**
 + Design (ERD, Normalization, ORM)
 + **Salesforce** 
 
