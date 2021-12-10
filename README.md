@@ -24,6 +24,12 @@ I worked as a `Data Analytics Intern` for the `Center of Talent in AI` remotely 
 + `Python`: conduct EDA, request to, receive from Postman’s API, map files, translate classes to tables in MySQL, process batches
 + `Tableau`: visualize refined datasets for insights of customer’s sentiment on charts, metrics to analyze key features of intentions
 
+## Qualifications
+- Attentive-to-details, goal-directed, progressive, passionate, curious, willing to learn & adapt rapidly, problem-solving oriented
+- Humber College - pursuing the Post-Graduate’s Business Insights and Analytics - Dean’s Honour Lists (Winter & Summer’21)
+- Certificates earned: IBM Data Analytics (Python, SQL, Excel), DataCamp SQL Intermediate, Azure Data Fundamentals, Microsoft Office Specialist: Word, Excel, Powerpoint
+- Certificates in progress: DA-100: Analyzing Data with Microsoft Power BI, Azure Database Administrator, Azure Data Engineering, Azure Fundamentals
+
 ## LANGUAGES, TECHNOLOGIES & SKILLS
 
 ### Languages:
