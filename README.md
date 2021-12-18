@@ -27,8 +27,8 @@ I worked as a `Data Analytics Intern` for the `Center of Talent in AI` remotely 
 ## Qualifications
 - Attentive-to-details, goal-directed, progressive, passionate, curious, willing to learn & adapt rapidly, problem-solving oriented
 - Humber College - pursuing the Post-Graduate’s Business Insights and Analytics - Dean’s Honour Lists (Winter & Summer’21)
-- Certificates earned: IBM Data Analytics (Python, SQL, Excel), DataCamp SQL Intermediate, Azure Data Fundamentals, Microsoft Office Specialist: Word, Excel, Powerpoint
-- Certificates in progress: DA-100: Analyzing Data with Microsoft Power BI, Azure Database Administrator, Azure Data Engineering, Azure Fundamentals
+- Certificates earned: IBM Data Analytics (Python, SQL, Excel), DataCamp SQL Intermediate, Microsoft Office Specialist: Word, Excel, Powerpoint
+- Certificates in progress: DP-900 Azure Data Fundamentals, DA-100 Analyzing Data with Microsoft Power BI, 70-761: Querying Data with Transact-SQL, AZ-900 Azure Fundamentals, AI-900 Azure AI Fundamentals, DP-203 Azure Data Engineering, Udemy Power BI for Business Intelligence
 
 ## LANGUAGES, TECHNOLOGIES & SKILLS
 
