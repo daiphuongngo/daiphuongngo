@@ -1,4 +1,4 @@
-# Hi, I’m Dai- Ngo (Liam Ngo) 👋 👋 👋 
+# Hi, I’m Dai-Phuong Ngo (Liam Ngo) 👋 👋 👋 
 
 - 👀 I’m interested in understanding, processing, analyzing, and visualizing data with different languages and tools.
 - 🌱 I’m currently learning Microsoft Power BI, T-SQL, Azure & Tableau.
