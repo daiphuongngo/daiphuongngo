@@ -1,7 +1,7 @@
 # Hi, I’m Dai-Phuong Ngo (Liam Ngo) 👋 👋 👋 
 
 - 👀 I’m interested in understanding, processing, analyzing, and visualizing data with different languages and tools.
-- 🌱 I’m currently learning Microsoft Power BI, T-SQL, Azure & Tableau.
+- 🌱 I’m currently learning Microsoft Power BI, T-SQL, Azure, Tableau & Alteryx.
 - 💞️ I’m also working on projects in Python, SQL and Tableau, Power BI.
 - 📫 You could reach me via phuong.ngo5595@gmail.com or my Linkedin: https://www.linkedin.com/in/daiphuongngo/
 - Tableau Public: https://public.tableau.com/app/profile/dai.phuong.ngo
