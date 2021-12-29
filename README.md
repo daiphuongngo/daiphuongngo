@@ -39,49 +39,26 @@ Microsoft Office Specialist | **Word, Excel, Powerpoint**
 
 Certificates in progress | Details
 --------|------------
-Microsoft | *DP-900 Azure Data Fundamentals, DA-100 Analyzing Data with Microsoft Power BI, 70-761: Querying Data with Transact-SQL (T-SQL), AZ-900 Azure Fundamentals, AI-900 Azure AI Fundamentals, DP-203 Azure Data Engineering*
+Microsoft | *DP-900 Azure Data Fundamentals*
+Microsoft | *DA-100 Analyzing Data with Microsoft Power BI*
+Microsoft | *70-761: Querying Data with Transact-SQL (T-SQL)* 
+Microsoft | *AZ-900 Azure Fundamentals*
+Microsoft | *AI-900 Azure AI Fundamentals*
+Microsoft | *DP-203 Azure Data Engineering*
 Udemy | *Power BI for Business Intelligence*
 
-## LANGUAGES, TECHNOLOGIES & SKILLS
 
-### Languages:
+LANGUAGES, TECHNOLOGIES, SKILLS | Details
+--------|------------
+Languages | **English** (fluent), **French** (ongoing intensive B1), **German** (basic, B1 Goethe–2011), **Vietnamese** (native)
+Programming | **Python** (Pandas, Numpy, Matplotlib, Keras, Tensorflow, SkLearn), **SQL**, **T-SQL**, **R**, **Java**, **Scala**, API, Shell
+ETL / ELT | **Alteryx**, **Azure**, **Tableau Prep**, **Power BI Query Editor**, **SAS**, **IBM**
+Database | **MySQL** (Workbench), **Azure**, **Microsoft SQL Server**, Design (ERD, Normalization, ORM), Salesforce
+Big Data| **Azure** (Apache Spark, Databricks, Synapse), **Hadoop** (Hive, Zeppelin, NoSQL, Pig, Sqoop, HBase)
+Visualization | **Tableau**, **Power BI**, Excel, SPSS
+Soft Skills | Communication, Teamwork, Presentation, Negotiation, Sales, Client & Project Management, Consulting 
 
-|**English** (fluent)|**French** (ongoing intensive B1)|**German** (basic, B1 Goethe–2011)|**Vietnamese** (native)|
-|-|-|-|-|
-
-### Programming:	
-
-|**Python** (Pandas, Numpy, Matplotlib, Keras, Tensorflow, SkLearn)|**SQL**|**T-SQL**|**R**|**Java**|**Scala**|API|Shell|
-|-|-|-|-|-|-|-|-|
-
-### ETL / ELT:	
-
-|**Alteryx**|**Azure**|**Tableau Prep**|**Power BI Query Editor**|**IBM**|**SAS**|
-|-|-|-|-|-|-|
-
-### Database:	
-
-|**MySQL** (Workbench)|**Azure**|**Microsoft SQL Server**|Design (ERD, Normalization, ORM)|Salesforce|
-|-|-|-|-|-|
-
-### Big Data:
-
-|**Azure** (Apache Spark, Databricks, Synapse)|**Hadoop** (Hive, Zeppelin, NoSQL, Pig, Sqoop, HBase)|
-|-|-|
-
-### Visualization:
-
-|**Tableau**|**Power BI**|Excel|SPSS|
-|-|-|-|-|
-
-### Soft Skills:	
-
-| Communication | Teamwork | Presentation | Negotiation | Sales | Client & Project Management | Consulting |
-|-|-|-|-|-|-|-|
-
-### Others:	
-
-Courses | Details
+COURSES | Details
 --------|------------
 Data Analytics Tools  | **SAS**, **IBM**, **SPSS**, **Excel**
 Managerial Finance & Accounting | Excel ([Investment Analysis of Shopify and Lightspeed in Canada]())
