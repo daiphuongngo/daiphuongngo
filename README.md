@@ -1,6 +1,6 @@
 # Hi, I’m Dai-Phuong Ngo (Liam Ngo) 👋 👋 👋 
 
-👀 I’m interested in understanding, processing, analyzing, and visualizing data with different languages and tools.
+👀 **I’m interested in understanding, processing, analyzing, and visualizing data with different languages and tools.**
 
 Contact/Reference | Details
 --------|------------
