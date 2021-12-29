@@ -26,11 +26,11 @@ I worked as a `Data Analytics Intern` for the `Center of Talent in AI` remotely 
 + `Python`: conduct EDA, request to, receive from Postman’s API, map files, translate classes to tables in MySQL, process batches
 + `Tableau`: visualize refined datasets for insights of customer’s sentiment on charts, metrics to analyze key features of intentions
 
-## Qualifications 🏆🎖🏅
+## Qualifications 🏆🎖
 - Attentive-to-details, goal-directed, progressive, passionate, curious, willing to learn & adapt rapidly, problem-solving oriented
 - Humber College - pursuing the Post-Graduate’s Business Insights and Analytics - Dean’s Honour Lists (Winter & Summer’21)
 
-Certificates earned | Details
+Certificates earned 🏅 | Details
 --------|------------
 IBM Data Analytics | **Python, SQL, Excel**
 DataCamp | **SQL Intermediate**
@@ -50,7 +50,7 @@ Udemy | *Power BI for Business Intelligence*
 
 LANGUAGES, TECHNOLOGIES, SKILLS | Details
 --------|------------
-Languages | **English** (fluent), **French** (ongoing intensive B1), **German** (basic, B1 Goethe–2011), **Vietnamese** (native)
+Languages | **English** (fluent) 🇺🇲, **French** (ongoing intensive B1), **German** (basic, B1 Goethe–2011), **Vietnamese** (native)
 Programming | **Python** (Pandas, Numpy, Matplotlib, Keras, Tensorflow, SkLearn), **SQL**, **T-SQL**, **R**, **Java**, **Scala**, API, Shell
 ETL / ELT | **Alteryx**, **Azure**, **Tableau Prep**, **Power BI Query Editor**, **SAS**, **IBM**
 Database | **MySQL** (Workbench), **Azure**, **Microsoft SQL Server**, Design (ERD, Normalization, ORM), Salesforce
