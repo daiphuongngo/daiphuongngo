@@ -82,6 +82,6 @@ Python, Excel, SQL | IBM Data Analyst
 Python, Java | Algorithms – Big-O Coding, HCMC, Vietnam	
 Python | Data Analysis, Machine Learning, Tableau – Visualization – Nordic Coder, HCMC, Vietnam
 Python for Finance | Investment Fundamentals & Data Analytics
-German –| Goethe Zertifikat B1 Deutsch, Language & Cultural Exchange – Jul-Aug’11 – Goethe Institute, Frankfurt, Germany
+German | Goethe Zertifikat B1 Deutsch, Language & Cultural Exchange – Jul-Aug’11 – Goethe Institute, Frankfurt, Germany
 GMAT | Foundation, Official Guide - Quantitative, Verbal, Integrated Reasoning, Analytical Writing Assessment 
 
