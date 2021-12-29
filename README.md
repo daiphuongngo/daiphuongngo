@@ -1,13 +1,16 @@
 # Hi, I’m Dai-Phuong Ngo (Liam Ngo) 👋 👋 👋 
 
-- 👀 I’m interested in understanding, processing, analyzing, and visualizing data with different languages and tools.
-- 🌱 I’m currently learning Microsoft Power BI, T-SQL, Azure, Tableau & Alteryx.
-- 💞️ I’m also working on projects in Python, SQL and Tableau, Power BI.
-- 📫 You could reach me via phuong.ngo5595@gmail.com or my Linkedin: https://www.linkedin.com/in/daiphuongngo/
-- Tableau Public: https://public.tableau.com/app/profile/dai.phuong.ngo
-- HackerRank: https://www.hackerrank.com/phuong_ngo5595
-- GitHub: https://github.com/daiphuongngo
-- Microsoft Learning: https://docs.microsoft.com/en-us/users/daiphuongngo-3267/achievements
+👀 I’m interested in understanding, processing, analyzing, and visualizing data with different languages and tools.
+
+---------|---------
+🌱 Currently learning | Microsoft Power BI (DAX), T-SQL (Exam 70-761), Azure, Tableau (LODs) & Alteryx (Core and Advanced Designer
+💞️ I’m also working on projects in Python, SQL and Tableau, Power BI.
+📫 Email | phuong.ngo5595@gmail.com 
+Linkedin: | https://www.linkedin.com/in/daiphuongngo/
+Tableau Public | https://public.tableau.com/app/profile/dai.phuong.ngo
+HackerRank | https://www.hackerrank.com/phuong_ngo5595
+GitHub | https://github.com/daiphuongngo
+Microsoft Learning | https://docs.microsoft.com/en-us/users/daiphuongngo-3267/achievements
 
 ## Present:
 
@@ -35,8 +38,8 @@ Microsoft Office Specialist | **Word, Excel, Powerpoint**
 
 Certificates in progress | Details
 --------|------------
-*Microsoft* | *DP-900 Azure Data Fundamentals, DA-100 Analyzing Data with Microsoft Power BI, 70-761: Querying Data with Transact-SQL (T-SQL), AZ-900 Azure Fundamentals, AI-900 Azure AI Fundamentals, DP-203 Azure Data Engineering*
-*Udemy* | *Power BI for Business Intelligence*
+Microsoft | *DP-900 Azure Data Fundamentals, DA-100 Analyzing Data with Microsoft Power BI, 70-761: Querying Data with Transact-SQL (T-SQL), AZ-900 Azure Fundamentals, AI-900 Azure AI Fundamentals, DP-203 Azure Data Engineering*
+Udemy | *Power BI for Business Intelligence*
 
 ## LANGUAGES, TECHNOLOGIES & SKILLS
 
