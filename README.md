@@ -4,10 +4,10 @@
 
 Contact/Reference | Details
 --------|------------
-🌱 Currently learning | Microsoft Power BI (DAX), T-SQL (Exam 70-761), Azure, Tableau (LODs) & Alteryx (Core and Advanced Designer
-💞️ Working on | Projects in Python, SQL and Tableau, Power BI
-📫 Email | phuong.ngo5595@gmail.com 
-Linkedin: | https://www.linkedin.com/in/daiphuongngo/
+Learning 🌱 | Microsoft Power BI (DAX), T-SQL (Exam 70-761), Azure, Tableau (LODs) & Alteryx (Core and Advanced Designer
+Working on 💞️ | Projects in Python, SQL and Tableau, Power BI
+Email 📫 | phuong.ngo5595@gmail.com 
+Linkedin | https://www.linkedin.com/in/daiphuongngo/
 Tableau Public | https://public.tableau.com/app/profile/dai.phuong.ngo
 HackerRank | https://www.hackerrank.com/phuong_ngo5595
 GitHub | https://github.com/daiphuongngo
