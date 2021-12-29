@@ -85,7 +85,7 @@ Python for Finance | Investment Fundamentals & Data Analytics
 German | Goethe Zertifikat B1 Deutsch, Language & Cultural Exchange – Jul-Aug’11 – Goethe Institute, Frankfurt, Germany
 GMAT | Foundation, Official Guide - Quantitative, Verbal, Integrated Reasoning, Analytical Writing Assessment 
 
-PROJECTS | more projects available on [GitHub](https://github.com/daiphuongngo?tab=repositories) | [Tableau Public](https://public.tableau.com/app/profile/dai.phuong.ngo)
+PROJECTS | more projects available on [GitHub](https://github.com/daiphuongngo?tab=repositories) & [Tableau Public](https://public.tableau.com/app/profile/dai.phuong.ngo)
 --------|------------
 [Income Analysis & Classification](https://github.com/daiphuongngo/Income-Analysis-and-Classification-Python-SQL-Tableau-PowerBI) | - Preprocessed, analyzed the Income background of all records in Python, SQL & visualized key variables in Tableau / Power BI to determine highlights, trends & predictions of Income types with ML, DL Classifiers
 [Banking Dataset – Marketing Targets](https://github.com/daiphuongngo/Banking-Dataset-Imbalanced-Learn-Comparison) | - Evaluated performances on imbalanced sets in Python while avoiding fitting & proved RUS Boost with the best Balanced Accuracy, Geometric Mean, F1 metrics, Confusion Matrix among ML, DL classifiers
