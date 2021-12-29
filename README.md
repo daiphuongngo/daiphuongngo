@@ -67,8 +67,9 @@ I worked as a `Data Analytics Intern` for the `Center of Talent in AI` remotely 
 + Design (ERD, Normalization, ORM)
 + Salesforce
 
-|-|-|-|-|-|
 |**MySQL** (Workbench)|**Azure**|**Microsoft SQL Server**|Design (ERD, Normalization, ORM)|Salesforce|
+|-|-|-|-|-|
+
 ### Big Data:
 
 + **Azure** (Apache Spark, Databricks, Synapse)
