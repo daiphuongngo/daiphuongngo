@@ -30,10 +30,10 @@ I worked as a `Data Analytics Intern` for the `Center of Talent in AI` remotely 
 
 Certificates earned | Details
 --------|------------
-`IBM Data Analytics` | `Python, SQL, Excel`
-DataCamp | SQL Intermediate
-HackerRank | SQL Intermediate, SQL Basic, Python Basic
-Microsoft Office Specialist | Word, Excel, Powerpoint
+IBM Data Analytics | **Python, SQL, Excel**
+DataCamp | **SQL Intermediate**
+HackerRank | **SQL Intermediate, SQL Basic, Python Basic**
+Microsoft Office Specialist | **Word, Excel, Powerpoint**
 
 Certificates in progress | Details
 --------|------------
@@ -74,18 +74,19 @@ Certificates in progress | Details
 
 ### Soft Skills:	
 
-Communication, Teamwork, Presentation, Negotiation, Sales, Client & Project Management, Consulting
+| Communication | Teamwork | Presentation | Negotiation | Sales | Client & Project Management | Consulting |
+|-|-|-|-|-|-|-|
 
 ### Others:	
 
 Courses | Details
 --------|------------
-Data Analytics Tools  | **SAS**, **IBM**, **SPSS**, Excel
+Data Analytics Tools  | **SAS**, **IBM**, **SPSS**, **Excel**
 Managerial Finance & Accounting | Excel ([Investment Analysis of Shopify and Lightspeed in Canada]())
-Big Data | Hadoop, IBM, SAS
-Quantitative Research Methods | Statistics, Probability
-Database & SQL | **SQL**, ERD, Normalization
-Governance & Ethics in Data | [Reflection & Integration of Knowledge: Governance & Ethics of Analytics in in Data, AI & Technology](https://hackmd.io/@PhuongDaiNgo/SJT22D1wF) (graded 95/100 & feedbacked by Professor. Kathleen Mcginn: "My goodness Phuong,Thank you for sharing this with me. It is indeed a very deep, intelligent and meaningful piece of writing that deserves an excellent grade - 95 (!) - the highest grade I have given so far. Congratulations - you have tryly earned it.")
+Big Data | **Hadoop, IBM, SAS**
+Quantitative Research Methods | **Statistics, Probability**
+Database & SQL | **SQL**, **ERD, Normalization**
+Governance & Ethics in Data | [Reflection & Integration of Knowledge: Governance & Ethics of Analytics in in Data, AI & Technology](https://hackmd.io/@PhuongDaiNgo/SJT22D1wF) (graded `95/100` & feedbacked by Professor. Kathleen Mcginn: `"My goodness Phuong,Thank you for sharing this with me. It is indeed a very deep, intelligent and meaningful piece of writing that deserves an excellent grade - 95 (!) - the highest grade I have given so far. Congratulations - you have tryly earned it."`)
 Canadian Business & Strategy | TD Bank Analysis & Nucor Corporation Analysis
 Marketing | to be updated
 
