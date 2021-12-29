@@ -69,4 +69,19 @@ Governance & Ethics in Data | [Reflection & Integration of Knowledge: Governance
 Canadian Business & Strategy | TD Bank Analysis & Nucor Corporation Analysis
 Marketing | to be updated
 
+SKILL ENHANCEMENT COURSES & ACTIVITIES | Details
+--------|------------
+SQL Fundamentals | Introduction, Joining Data, Intermediate, ongoing PostgreSQL Summary Stats & Window Functions
+SQL HackerRank | Basic/Advanced Select, Basic/Advanced Join, Basic Aggregation, Alternative Queries
+Tableau | eLearning for Data Analytics, Fundamentals, Intermediate levels
+Microsoft Power BI, Azure, T-SQL | Data Analysis, Azure Database Administrator, Data Engineering, Data Fundamentals
+Python | CoTAI: Machine, Deep Learning, AI (Decision Making	, Visual Understanding, Natural Language)
+MySQL | MySQL Explorer, MySQL Database Service Explorer by Oracle University
+Alteryx | Designer Core & Advanced Designer Certification Exam Prep
+Python, Excel, SQL | IBM Data Analyst 
+Python, Java | Algorithms – Big-O Coding, HCMC, Vietnam	
+Python | Data Analysis, Machine Learning, Tableau – Visualization – Nordic Coder, HCMC, Vietnam
+Python for Finance | Investment Fundamentals & Data Analytics
+German –| Goethe Zertifikat B1 Deutsch, Language & Cultural Exchange – Jul-Aug’11 – Goethe Institute, Frankfurt, Germany
+GMAT | Foundation, Official Guide - Quantitative, Verbal, Integrated Reasoning, Analytical Writing Assessment 
 
