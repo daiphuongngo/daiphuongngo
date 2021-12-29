@@ -13,8 +13,6 @@
 
 I started my new growth in the Analytics field with the current `Business Insights & Analytics Post-Graduate Program at Humber College, Toronto, Ontario, Canada` from `Jan 2021 - Aug 2022)`, and Data & AI courses with analytical & programming courses and projects to utilize my skillset and provide me the opportunity for further personal development through new challenges & career opportunities of Data/Business Analytics.
 
-## Future:
-
 I will join the `iRestify Inc., Toronto, Ontario, Canada` as `Data Analyst Intern` from `Jan-Apr 2022` and directly work under the Product Head, support various cross-departmental projects to analyze, integrate trend insights from customer experience survey sources, automate departmental reports, metrics, monitor KPIs in `Power BI`. I also translate complex problems into simpler terms using basic, intermediate, advanced visualization techniques & support initiatives to contribute to goals & success of the company’s vision. And I also identify key areas of opportunities, establish cause & effect, perform analyses, and communicate key findings to various stakeholders to facilitate data-driven decision-making.
 
 ## Past:
