@@ -50,7 +50,7 @@ Udemy | *Power BI for Business Intelligence*
 
 LANGUAGES, TECHNOLOGIES, SKILLS | Details
 --------|------------
-Languages | **English** (fluent) 🇺🇲, **French** (ongoing intensive B1), **German** (basic, B1 Goethe–2011), **Vietnamese** (native)
+Languages | **English** (fluent) Google (Noto Emoji v2.028), **French** (ongoing intensive B1), **German** (basic, B1 Goethe–2011), **Vietnamese** (native)
 Programming | **Python** (Pandas, Numpy, Matplotlib, Keras, Tensorflow, SkLearn), **SQL**, **T-SQL**, **R**, **Java**, **Scala**, API, Shell
 ETL / ELT | **Alteryx**, **Azure**, **Tableau Prep**, **Power BI Query Editor**, **SAS**, **IBM**
 Database | **MySQL** (Workbench), **Azure**, **Microsoft SQL Server**, Design (ERD, Normalization, ORM), Salesforce
