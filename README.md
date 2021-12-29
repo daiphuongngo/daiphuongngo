@@ -27,59 +27,50 @@ I worked as a `Data Analytics Intern` for the `Center of Talent in AI` remotely 
 ## Qualifications
 - Attentive-to-details, goal-directed, progressive, passionate, curious, willing to learn & adapt rapidly, problem-solving oriented
 - Humber College - pursuing the Post-Graduate’s Business Insights and Analytics - Dean’s Honour Lists (Winter & Summer’21)
-- Certificates earned: `IBM Data Analytics (Python, SQL, Excel), DataCamp SQL Intermediate, HackerRank SQL Intermediate & Basic & Python Basic, Microsoft Office Specialist: Word, Excel, Powerpoint`
-- Certificates in progress: *DP-900 Azure Data Fundamentals, DA-100 Analyzing Data with Microsoft Power BI, 70-761: Querying Data with Transact-SQL (T-SQL), AZ-900 Azure Fundamentals, AI-900 Azure AI Fundamentals, DP-203 Azure Data Engineering, Udemy Power BI for Business Intelligence*
+
+Certificates earned | Details
+--------|------------
+`IBM Data Analytics` | `Python, SQL, Excel`
+DataCamp | SQL Intermediate
+HackerRank | SQL Intermediate, SQL Basic, Python Basic
+Microsoft Office Specialist | Word, Excel, Powerpoint
+
+Certificates in progress | Details
+--------|------------
+*Microsoft* | *DP-900 Azure Data Fundamentals, DA-100 Analyzing Data with Microsoft Power BI, 70-761: Querying Data with Transact-SQL (T-SQL), AZ-900 Azure Fundamentals, AI-900 Azure AI Fundamentals, DP-203 Azure Data Engineering*
+*Udemy* | *Power BI for Business Intelligence*
 
 ## LANGUAGES, TECHNOLOGIES & SKILLS
 
 ### Languages:
 
-+ **English** (fluent)
-+ **French** (ongoing intensive B1)
-+ **German** (basic, B1 Goethe–2011)
-+ **Vietnamese** (native)
+|**English** (fluent)|**French** (ongoing intensive B1)|**German** (basic, B1 Goethe–2011)|**Vietnamese** (native)|
+|-|-|-|-|
 
 ### Programming:	
 
-+ **Python** (Pandas, Numpy, Matplotlib, Keras, Tensorflow, SkLearn)
-+ **SQL**
-+ **T-SQL**
-+ **Java**
-+ **Scala**
-+ **R**
-+ API
-+ Shell
+|**Python** (Pandas, Numpy, Matplotlib, Keras, Tensorflow, SkLearn)|**SQL**|**T-SQL**|**R**|**Java**|**Scala**|API|Shell|
+|-|-|-|-|-|-|-|-|
 
 ### ETL / ELT:	
 
-+ **Alteryx**
-+ **Azure**
-+ **Tableau Prep**
-+ **Power BI Query Editor**
-+ **IBM**
-+ **SAS**
+|**Alteryx**|**Azure**|**Tableau Prep**|**Power BI Query Editor**|**IBM**|**SAS**|
+|-|-|-|-|-|-|
 
 ### Database:	
-
-+ **MySQL** (Workbench)
-+ **Azure**
-+ **Microsoft SQL Server**
-+ Design (ERD, Normalization, ORM)
-+ Salesforce
 
 |**MySQL** (Workbench)|**Azure**|**Microsoft SQL Server**|Design (ERD, Normalization, ORM)|Salesforce|
 |-|-|-|-|-|
 
 ### Big Data:
 
-+ **Azure** (Apache Spark, Databricks, Synapse)
-+ **Hadoop** (Hive, Zeppelin, NoSQL, Pig, Sqoop, HBase)
+|**Azure** (Apache Spark, Databricks, Synapse)|**Hadoop** (Hive, Zeppelin, NoSQL, Pig, Sqoop, HBase)|
+|-|-|
 
 ### Visualization:
 
-+ **Tableau**
-+ **Power BI**
-+ **Excel, SPSS**
+|**Tableau**|**Power BI**|Excel|SPSS|
+|-|-|-|-|
 
 ### Soft Skills:	
 
@@ -87,6 +78,15 @@ Communication, Teamwork, Presentation, Negotiation, Sales, Client & Project Mana
 
 ### Others:	
 
-**Microsoft Office Specialist: Word, Excel, Powerpoint, Outlook, SPSS**, Managerial Finance & Accounting (Excel), Big Data (Hadoop, IBM, SAS), Quantitative Research Methods (Statistics, Probability), Data Analytics Tools (Excel, SPSS), Database & SQL, Canadian Business & Strategy, Governance & Ethics in Data, Marketing 
+Courses | Details
+--------|------------
+Data Analytics Tools  | **SAS**, **IBM**, **SPSS**, Excel
+Managerial Finance & Accounting | Excel ([Investment Analysis of Shopify and Lightspeed in Canada]())
+Big Data | Hadoop, IBM, SAS
+Quantitative Research Methods | Statistics, Probability
+Database & SQL | **SQL**, ERD, Normalization
+Governance & Ethics in Data | [Reflection & Integration of Knowledge: Governance & Ethics of Analytics in in Data, AI & Technology](https://hackmd.io/@PhuongDaiNgo/SJT22D1wF) (graded 95/100 & feedbacked by Professor. Kathleen Mcginn: "My goodness Phuong,Thank you for sharing this with me. It is indeed a very deep, intelligent and meaningful piece of writing that deserves an excellent grade - 95 (!) - the highest grade I have given so far. Congratulations - you have tryly earned it.")
+Canadian Business & Strategy | TD Bank Analysis & Nucor Corporation Analysis
+Marketing | to be updated
 
 
