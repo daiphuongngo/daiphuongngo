@@ -2,7 +2,8 @@
 
 👀 I’m interested in understanding, processing, analyzing, and visualizing data with different languages and tools.
 
----------|---------
+Contact/Reference | Details
+--------|------------
 🌱 Currently learning | Microsoft Power BI (DAX), T-SQL (Exam 70-761), Azure, Tableau (LODs) & Alteryx (Core and Advanced Designer
 💞️ I’m also working on projects in Python, SQL and Tableau, Power BI.
 📫 Email | phuong.ngo5595@gmail.com 
