@@ -47,8 +47,9 @@ Microsoft | *AI-900 Azure AI Fundamentals*
 Microsoft | *DP-203 Azure Data Engineering*
 Udemy | *Power BI for Business Intelligence*
 
+## Languages, Technologies, Skills
 
-LANGUAGES, TECHNOLOGIES, SKILLS | Details
+Criteria | Details
 --------|------------
 Languages | **English** (fluent) , **French** (ongoing intensive B1), **German** (basic, B1 Goethe–2011), **Vietnamese** (native)
 Programming | **Python** (Pandas, Numpy, Matplotlib, Keras, Tensorflow, SkLearn), **SQL**, **T-SQL**, **R**, **Java**, **Scala**, API, Shell
@@ -58,7 +59,9 @@ Big Data| **Azure** (Apache Spark, Databricks, Synapse), **Hadoop** (Hive, Zeppe
 Visualization | **Tableau**, **Power BI**, Excel, SPSS
 Soft Skills | Communication, Teamwork, Presentation, Negotiation, Sales, Client & Project Management, Consulting 
 
-COURSES | Details
+## Academic Progress
+
+Courses | Details
 --------|------------
 Data Analytics Tools ✅ | **SAS**, **IBM**, **SPSS**, **Excel**
 Managerial Finance & Accounting ✅ | Excel ([Investment Analysis of Shopify and Lightspeed in Canada]())
@@ -76,7 +79,9 @@ Capstone Course | to be updated
 Project Management | to be updated
 Business Intelligence | to be updated
 
-SKILL ENHANCEMENT COURSES & ACTIVITIES ✅ | Details 
+## Self Study
+
+SKill Enhancement Courses & Activities ✅ | Details 
 --------|------------
 SQL Fundamentals | Introduction, Joining Data, Intermediate, ongoing PostgreSQL Summary Stats & Window Functions
 SQL HackerRank | Basic/Advanced Select, Basic/Advanced Join, Basic Aggregation, Alternative Queries
