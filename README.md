@@ -91,6 +91,7 @@ Microsoft Power BI, Azure, T-SQL | Data Analysis, Azure Database Administrator, 
 Python | CoTAI: Machine, Deep Learning, AI (Decision Making	, Visual Understanding, Natural Language)
 MySQL | MySQL Explorer, MySQL Database Service Explorer by Oracle University
 Alteryx | Designer Core & Advanced Designer Certification Exam Prep
+French | B1 L'Atelier, TEF Canada B1 / CLB 5-6
 Python, Excel, SQL | IBM Data Analyst 
 Python, Java | Algorithms – Big-O Coding, HCMC, Vietnam	
 Python | Data Analysis, Machine Learning, Tableau – Visualization – Nordic Coder, HCMC, Vietnam
