@@ -46,7 +46,7 @@ Microsoft | *AZ-900 Azure Fundamentals*
 Microsoft | *AI-900 Azure AI Fundamentals*
 Microsoft | *DP-203 Azure Data Engineering*
 Udemy | *Power BI for Business Intelligence*
-French | TEF Canada B1 / CLB 5-6
+French | *TEF Canada B1 / CLB 5-6*
 
 ## Languages, Technologies, Skills
 
