@@ -36,6 +36,7 @@ IBM Data Analytics | **Python, SQL, Excel**
 DataCamp | **SQL Intermediate**
 HackerRank | **SQL Intermediate, SQL Basic, Python Basic**
 Microsoft Office Specialist | **Word, Excel, Powerpoint**
+Udemy | **Power BI for Business Intelligence**
 
 Certificates in progress 🧗 | Details
 --------|------------
@@ -45,7 +46,6 @@ Microsoft | *70-761: Querying Data with Transact-SQL (T-SQL)*
 Microsoft | *AZ-900 Azure Fundamentals*
 Microsoft | *AI-900 Azure AI Fundamentals*
 Microsoft | *DP-203 Azure Data Engineering*
-Udemy | *Power BI for Business Intelligence*
 French | *TEF Canada B1 / CLB 5-6* 🇨🇦
 
 ## Languages, Technologies, Skills
