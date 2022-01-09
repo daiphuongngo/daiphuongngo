@@ -4,7 +4,7 @@
 
 Contact/Reference | Details
 --------|------------
-Learning 🌱 | Microsoft Power BI (DAX), T-SQL (Exam 70-761), Azure, Tableau (LODs) & Alteryx (Core and Advanced Designer)
+Learning 🌱 | Microsoft Power BI (DAX), T-SQL (Exam 70-761), Azure (DP-900), Tableau (LODs) & Alteryx (Core and Advanced Designer)
 Working on 💞️ | Projects in Python, SQL, Tableau, Power BI and upcoming ones in R, SAS, IBM, Machine Learning
 Email 📫 | phuong.ngo5595@gmail.com 
 Linkedin | https://www.linkedin.com/in/daiphuongngo/
