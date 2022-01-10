@@ -70,7 +70,7 @@ Big Data ✅ | **Hadoop, IBM, SAS**
 Quantitative Research Methods ✅ | **Statistics, Probability**
 Database & SQL ✅ | **SQL**, **ERD, Normalization**
 Governance & Ethics in Data ✅ | [Reflection & Integration of Knowledge: Governance & Ethics of Analytics in in Data, AI & Technology](https://hackmd.io/@PhuongDaiNgo/SJT22D1wF) (graded `95/100` & feedbacked by Professor. Kathleen Mcginn 😧 : `"My goodness Phuong,Thank you for sharing this with me. It is indeed a very deep, intelligent and meaningful piece of writing that deserves an excellent grade - 95 (!) - the highest grade I have given so far. Congratulations - you have truly earned it."`)
-Canadian Business & Strategy ✅ | TD Bank Analysis & Nucor Corporation Analysis
+Canadian Business & Strategy ✅ | [TD Bank Analysis](https://hackmd.io/@PhuongDaiNgo/HJpUbXK3F) & Nucor Corporation Analysis
 Marketing ✅ | to be updated
 Predictive Analytics | linear and multiple regression, decision trees, linear programming, factor analysis, cluster analysis, modelling - including transportation, waiting line and learning curve - and simulation, with an emphasis on practical applications and interpretation
 Machine Learning and Programming 1 | Python, processes, scientific analytical models, statistical methods, and e-business applications in intelligence and analytics
