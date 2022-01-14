@@ -68,13 +68,13 @@ Courses | Details
 Data Analytics Tools ✅ | **SAS**, **IBM**, **SPSS**, **Excel**
 Managerial Finance & Accounting ✅ | Excel ([Investment Analysis of Shopify and Lightspeed in Canada]())
 Big Data ✅ | **Hadoop, IBM, SAS**
-Quantitative Research Methods ✅ | **Statistics, Probability**
+Quantitative Research Methods I & II ✅ | **Descriptive & Inferential Statistics, Probability, Normal Distribution, Estimation, Hypothesis Testing**
 Database & SQL ✅ | **SQL**, **ERD, Normalization**
 Governance & Ethics in Data ✅ | Reflection & Integration of Knowledge: Governance & Ethics of Analytics in in Data, AI & Technology - *only available from hyperlink in my Resume* - (graded `95/100` & feedbacked by Professor. Kathleen Mcginn 😧 : `"My goodness Phuong,Thank you for sharing this with me. It is indeed a very deep, intelligent and meaningful piece of writing that deserves an excellent grade - 95 (!) - the highest grade I have given so far. Congratulations - you have truly earned it."`)
 Canadian Business & Strategy ✅ | [TD Bank Analysis](https://hackmd.io/@PhuongDaiNgo/HJpUbXK3F) & Nucor Corporation Analysis
 Marketing ✅ | to be updated
-Predictive Analytics | linear and multiple regression, decision trees, linear programming, factor analysis, cluster analysis, modelling - including transportation, waiting line and learning curve - and simulation, with an emphasis on practical applications and interpretation
-Machine Learning and Programming 1 | Python, processes, scientific analytical models, statistical methods, and e-business applications in intelligence and analytics
+Predictive Analytics 🚧 | linear and multiple regression, decision trees, linear programming, factor analysis, cluster analysis, modelling - including transportation, waiting line and learning curve - and simulation, with an emphasis on practical applications and interpretation
+Machine Learning and Programming 1 🚧 | Python: Data Mining, Data Science, Data Visualization, Dimension Reduction, CRM, Evaluation Predictive Performance, Multiple Linear Regression, K-NN, Naives Bayes Classifier, Classification, Regression Trees, Logistic Regression, Cluster Analysis
 Communication & Data Visualization | MS Word, Excel, Cognos Analytics, and Tableau
 Machine Learning and Programming 2 | Python, Scala
 Capstone Course | to be updated
@@ -92,6 +92,7 @@ Microsoft Power BI, Azure, T-SQL | Data Analysis, Azure Database Administrator, 
 Python | CoTAI: Machine, Deep Learning, AI (Decision Making	, Visual Understanding, Natural Language)
 MySQL | MySQL Explorer, MySQL Database Service Explorer by Oracle University
 Alteryx | Designer Core & Advanced Designer Certification Exam Prep
+English | IELTS General C1
 French | B1 L'Atelier, TEF Canada B1 / CLB 5-6
 Python, Excel, SQL | IBM Data Analyst 
 Python, Java | Algorithms – Big-O Coding, HCMC, Vietnam	
