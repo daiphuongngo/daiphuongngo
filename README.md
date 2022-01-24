@@ -66,7 +66,7 @@ Soft Skills | Communication, Teamwork, Presentation, Negotiation, Sales, Client 
 
 Courses | Details
 --------|------------
-Data Analytics Tools ✅ | **SAS**, **IBM**, **SPSS**, **Excel**
+Data Analytics Tools ✅ | [**SAS**, **SPSS Modeler**](https://github.com/daiphuongngo/Data-Analysis-SPSS-Modeler-SAS), **SPSS**, **Excel**
 Managerial Finance & Accounting ✅ | Excel ([Investment Analysis of Shopify and Lightspeed in Canada]())
 Big Data ✅ | **Hadoop, R, Neo4j**
 Quantitative Research Methods I & II ✅ | **Descriptive & Inferential Statistics, Probability, Normal Distribution, Estimation, Hypothesis Testing**
