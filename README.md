@@ -5,7 +5,7 @@
 Contact/Reference | Details
 --------|------------
 Learning 🌱 | Microsoft Power BI (DAX), T-SQL (Exam 70-761), Azure (DP-900), Tableau (LODs) & Alteryx (Core and Advanced Designer)
-Working on 💞️ | Projects in Python, SQL, Tableau, Power BI and upcoming ones in R, SAS, IBM, Machine Learning
+Working on 💞️ | Projects in 2022 Safe Roads Competition | SAS](https://www.sas.com/en_ca/events/2021/q4/safe-roads-competition.html), Python, SQL, Tableau, Power BI and upcoming ones in R, SAS, SPSS, Machine Learning
 Email 📫 | phuong.ngo5595@gmail.com 
 Linkedin | https://www.linkedin.com/in/daiphuongngo/
 Tableau Public | https://public.tableau.com/app/profile/dai.phuong.ngo
@@ -18,7 +18,9 @@ Interests | Basketball 🏀, Aikido 🥋, Swimming 🤿, Photography 📸, Digit
 
 I started my new growth in the Analytics field with the current `Business Insights & Analytics Post-Graduate Program at Humber College, Toronto, Ontario, Canada` 🍁🇨🇦 from `Jan 2021 - Aug 2022` 👨‍🎓, and Data & AI courses with analytical & programming courses and projects to utilize my skillset and provide me the opportunity for further personal development through new challenges & career opportunities of Data/Business Analytics.
 
-I will join the `iRestify Inc., Toronto, Ontario, Canada` 🇨🇦 as `Data Analyst Intern` from `Jan-Apr 2022` 🗽 and directly work under the Product Head, support various cross-departmental projects to analyze, integrate trend insights from customer experience survey sources, automate departmental reports, metrics, monitor KPIs in `Power BI`, `Salesforce`, `Excel` through `Amazon Redshift Data Warehouse`, `Athena`, `Salesforce`, automate departmental reports, metrics, monitor KPIs on Desktop and App Service. I also translate complex problems into simpler terms using basic, intermediate, advanced visualization techniques, DAX calculations on connected refined datasets & support initiatives to contribute to the goals & success of the company’s vision. And I am responsible to identify key areas of opportunities, establish cause & effect, perform analyses, and communicate key findings to various stakeholders to facilitate data-driven decision-making. Hevo is used in the process to transfer data from Google Sheets formats & from APIs to S3 in JSON format to the AWS Redshift Data Warehouse to be accessed by Power BI.
+I currently work in the `iRestify Inc., Toronto, Ontario, Canada` 🇨🇦 as `Data Analyst Intern` from `Jan-Apr 2022` 🗽 and directly work under the Product Head, support various cross-departmental projects to analyze, integrate trend insights from customer experience survey sources, automate departmental reports, metrics, monitor KPIs in `Power BI`, `Salesforce`, `Excel` through `Amazon Redshift Data Warehouse`, `Athena`, `Salesforce`, automate departmental reports, metrics, monitor KPIs on Desktop and App Service. I also translate complex problems into simpler terms using basic, intermediate, advanced visualization techniques, DAX calculations on connected refined datasets & support initiatives to contribute to the goals & success of the company’s vision. And I am responsible to identify key areas of opportunities, establish cause & effect, perform analyses, and communicate key findings to various stakeholders to facilitate data-driven decision-making. Hevo is used in the process to transfer data from Google Sheets formats & from APIs to S3 in JSON format to the AWS Redshift Data Warehouse to be accessed by Power BI.
+
+I am also participating in the [2022 Safe Roads Competition | SAS - January 28 - March 11, 2022](https://www.sas.com/en_ca/events/2021/q4/safe-roads-competition.html) with a team of 6 (5 from Seneca, me from Humber) mentored by the Professor Richard Boire and Professor Rita Obaji of Seneca College on the project for the Toronto Police Service.
 
 ## Past:
 
