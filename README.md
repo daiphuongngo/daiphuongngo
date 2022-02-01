@@ -5,7 +5,7 @@
 Contact/Reference | Details
 --------|------------
 Learning 🌱 | Microsoft Power BI (DAX), T-SQL (Exam 70-761), Azure (DP-900), Tableau (LODs) & Alteryx (Core and Advanced Designer)
-Working on 💞️ | [Projects in 2022 Safe Roads Competition | SAS](https://www.sas.com/en_ca/events/2021/q4/safe-roads-competition.html), Python, SQL, Tableau, Power BI and upcoming ones in R, SAS, SPSS, Machine Learning
+Working on 💞️ | Projects in [2022 Safe Roads Competition | SAS](https://www.sas.com/en_ca/events/2021/q4/safe-roads-competition.html), Python, SQL, Tableau, Power BI and upcoming ones in R, SAS, SPSS, Machine Learning
 Email 📫 | phuong.ngo5595@gmail.com 
 Linkedin | https://www.linkedin.com/in/daiphuongngo/
 Tableau Public | https://public.tableau.com/app/profile/dai.phuong.ngo
