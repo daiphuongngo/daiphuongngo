@@ -83,7 +83,7 @@ Communication & Data Visualization | MS Word, Excel, Cognos Analytics, and Table
 Machine Learning and Programming 2 | Python, Scala
 Capstone Course | to be updated
 Project Management | to be updated
-Business Intelligence | to be updated
+Business Intelligence | Power BI
 
 ## Self Study
 
