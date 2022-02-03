@@ -12,7 +12,7 @@ Tableau Public | https://public.tableau.com/app/profile/dai.phuong.ngo
 HackerRank | https://www.hackerrank.com/phuong_ngo5595
 GitHub | https://github.com/daiphuongngo
 Microsoft Learning | https://docs.microsoft.com/en-us/users/daiphuongngo-3267/achievements
-Interests | Basketball 🏀, Aikido 🥋, Swimming 🤿, Photography 📸, Digital Painting 🖌, Travelling ✈, Coding 🔍, Visualization 🪄
+Interests | Basketball 🏀, Aikido (3rd Kyu) 🥋, Swimming 🤿, Photography 📸, Digital Painting 🖌, Travelling ✈, Coding 🔍, Visualization 🪄
 
 ## Present:
 
