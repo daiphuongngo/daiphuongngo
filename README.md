@@ -43,6 +43,7 @@ Udemy | **Power BI for Business Intelligence**
 
 Certificates in progress 🧗 | Details
 --------|------------
+SAS | SAS Programming 1: Essentials
 Microsoft | *DP-900 Azure Data Fundamentals*
 Microsoft | *DA-100 Analyzing Data with Microsoft Power BI*
 Microsoft | *70-761: Querying Data with Transact-SQL (T-SQL)* 
@@ -89,6 +90,7 @@ Business Intelligence | Power BI
 
 SKill Enhancement Courses & Activities ✅ | Details 
 --------|------------
+SAS | SAS Programming 1: Essentials
 SQL Fundamentals | Introduction, Joining Data, Intermediate, ongoing PostgreSQL Summary Stats & Window Functions
 SQL HackerRank | Basic/Advanced Select, Basic/Advanced Join, Basic Aggregation, Alternative Queries
 Tableau | eLearning for Data Analytics, Fundamentals, Intermediate levels
