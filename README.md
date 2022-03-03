@@ -64,6 +64,7 @@ ETL / ELT | **Alteryx**, **Azure**, **Tableau Prep**, **Power BI Query Editor**,
 Database | **MySQL** (Workbench), **Azure**, **Microsoft SQL Server**, Design (ERD, Normalization, ORM), Salesforce
 Big Data| **Azure** (Apache Spark, Databricks, Synapse), **Hadoop** (Hive, Zeppelin, NoSQL, Pig, Sqoop, HBase), **Splunk**, **Neo4j**
 Visualization | **Tableau**, **Power BI**, Excel, SPSS
+Collaboration wiki | Atlassian Confluence, Trello
 Soft Skills | Communication, Teamwork, Presentation, Negotiation, Sales, Client & Project Management, Consulting 
 
 ## Projects
