@@ -22,7 +22,7 @@ I started my new growth in the Analytics field with the current `Business Insigh
 
 I currently work in the `iRestify Inc., Toronto, Ontario, Canada` 🇨🇦 as `Data Analyst Intern` 🗽 and directly work under the Product Head, support various cross-departmental projects to analyze, integrate trend insights from customer experience survey sources, automate departmental reports, metrics, monitor KPIs in `Power BI`, `Salesforce`, `Excel` through `Amazon Redshift Data Warehouse`, `Athena`, `Salesforce`, automate departmental reports, metrics, monitor KPIs on Desktop and App Service. I also translate complex problems into simpler terms using basic, intermediate, advanced visualization techniques, `DAX`, `M` calculations, queries on connected refined datasets & support initiatives to contribute to the goals & success of the company’s vision. And I am responsible to identify key areas of opportunities, establish cause & effect, perform analyses, and communicate key findings to various stakeholders to facilitate data-driven decision-making. Hevo is used in the process to transfer data from Google Sheets formats & from APIs to S3 in JSON format to the AWS Redshift Data Warehouse to be accessed by Power BI.
 
-I am also participating solo in the [2022 Safe Roads Competition | SAS - January 28 - March 11, 2022](https://www.sas.com/en_ca/events/2021/q4/safe-roads-competition.html) using `Python`, `Power BI`, `AzureML` on the project for the Toronto Police Service.
+I have recently completed solo in the [2022 Safe Roads Competition | SAS - January 28 - March 11, 2022](https://www.sas.com/en_ca/events/2021/q4/safe-roads-competition.html) using `Python`, `Power BI`, `AzureML` on the project for the Toronto Police Service.
 
 ## Past:
 
