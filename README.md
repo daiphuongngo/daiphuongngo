@@ -5,7 +5,9 @@
 Contact/Reference | Details
 --------|------------
 Learning 🌱 | MichiganX - Azure & SQL, Microsoft Power BI (DAX, M Language), T-SQL (Exam 70-761), Azure (DP-900 Data Fundamentals), Tableau (LODs, Data Analyst Certificate) & Alteryx (Core and Advanced Designer)
-Working on 💞️ | Projects in [2022 Safe Roads Competition SAS](https://www.sas.com/en_ca/events/2021/q4/safe-roads-competition.html), Python, SQL, Tableau, Power BI, Azure ML, SAS and upcoming ones in R, SAS, SPSS, Machine Learning
+Learning 💞️ | Python, SQL, Tableau, Power BI, Azure ML, SAS 
+Working on | Better Working World in Python, Azure Studio
+Recent finished | [2022 Safe Roads Competition SAS](https://www.sas.com/en_ca/events/2021/q4/safe-roads-competition.html) in AzureML, SQL, Python, Power BI
 Email 📫 | phuong.ngo5595@gmail.com 
 Linkedin | https://www.linkedin.com/in/daiphuongngo/
 Tableau Public | https://public.tableau.com/app/profile/dai.phuong.ngo
