@@ -18,11 +18,11 @@ Interests | Basketball 🏀, Aikido (3rd Kyu) 🥋, Swimming 🤿, Photography �
 
 ## Present:
 
-I started my new growth in the Analytics field with the current `Business Insights & Analytics Post-Graduate Program at Humber College, Toronto, Ontario, Canada` 🍁🇨🇦 from `Jan 2021 - Aug 2022` 👨‍🎓, and Data & AI courses with analytical & programming courses and projects to utilize my skillset and provide me the opportunity for further personal development through new challenges & career opportunities of Data/Business Analytics.
+I started my new growth in the Analytics field with the current `Business Insights & Analytics Post-Graduate Program at Humber College, Toronto, Ontario, Canada` 🍁🇨🇦 from `Jan 2021 - current` 👨‍🎓, and Data & AI courses with analytical & programming courses and projects to utilize my skillset and provide me the opportunity for further personal development through new challenges & career opportunities of Data/Business Analytics.
 
 I currently work in the `iRestify Inc., Toronto, Ontario, Canada` 🇨🇦 as `Data Analyst Intern` 🗽 and directly work under the Product Head, support various cross-departmental projects to analyze, integrate trend insights from customer experience survey sources, automate departmental reports, metrics, monitor KPIs in `Power BI`, `Salesforce`, `Excel` through `Amazon Redshift Data Warehouse`, `Athena`, `Salesforce`, automate departmental reports, metrics, monitor KPIs on Desktop and App Service. I also translate complex problems into simpler terms using basic, intermediate, advanced visualization techniques, `DAX`, `M` calculations, queries on connected refined datasets & support initiatives to contribute to the goals & success of the company’s vision. And I am responsible to identify key areas of opportunities, establish cause & effect, perform analyses, and communicate key findings to various stakeholders to facilitate data-driven decision-making. Hevo is used in the process to transfer data from Google Sheets formats & from APIs to S3 in JSON format to the AWS Redshift Data Warehouse to be accessed by Power BI.
 
-I have recently completed solo in the [2022 Safe Roads Competition | SAS - January 28 - March 11, 2022](https://www.sas.com/en_ca/events/2021/q4/safe-roads-competition.html) using `Python`, `Power BI`, `AzureML` on the project for the Toronto Police Service.
+I am participating in the Better Working World hosted by EY and examined by EY, NASA and Microsoft for 3 months for 3 challenges at 3 different difficulty levels using Python and Azure on Machine Learnign/AI models.
 
 ## Past:
 
@@ -30,6 +30,8 @@ I worked as a `Data Analytics Intern` for the `Center of Talent in AI` remotely 
 + `SQL`: create tables, organize data in MySQL Database into chats, intentions, entities (> 4,000,000 rows), generate insights
 + `Python`: conduct EDA, request to, receive from Postman’s API, map files, translate classes to tables in MySQL, process batches
 + `Tableau`: visualize refined datasets for insights of customer’s sentiment on charts, metrics to analyze key features of intentions
+
+I have recently completed solo in the [2022 Safe Roads Competition | SAS - January 28 - March 11, 2022](https://www.sas.com/en_ca/events/2021/q4/safe-roads-competition.html) using `Python`, `Power BI`, `AzureML` on the project for the Toronto Police Service.
 
 ## Qualifications 🏆🎖
 - Attentive-to-details, goal-directed, progressive, passionate, curious, willing to learn & adapt rapidly, problem-solving oriented
