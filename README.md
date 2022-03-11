@@ -2,6 +2,8 @@
 
 👀 **I’m interested in understanding, processing, analyzing, and visualizing data with different languages and tools.** 🦾
 
+3 keywords about me: progressive, hardcore, adaptive
+
 Contact/Reference | Details
 --------|------------
 Learning 🌱 | MichiganX - Azure & SQL, Microsoft Power BI (DAX, M Language), T-SQL (Exam 70-761), Azure (DP-900 Data Fundamentals), Tableau (LODs, Data Analyst Certificate) & Alteryx (Core and Advanced Designer)
