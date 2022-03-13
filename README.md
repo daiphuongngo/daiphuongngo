@@ -7,7 +7,7 @@
 Contact/Reference | Details
 --------|------------
 Learning 🌱 | MichiganX - Azure & SQL, Microsoft Power BI (DAX, M Language), T-SQL (Exam 70-761), Azure (DP-900 Data Fundamentals), Tableau (LODs, Data Analyst Certificate) & Alteryx (Core and Advanced Designer)
-Learning 💞️ | Python, SQL, Tableau, Power BI, Azure ML, SAS 
+Learning 💞️ | Python, SQL, Tableau, Power BI, Azure ML, SAS, Cognos 
 Working on | Better Working World in Python, Azure Studio
 Recent finished | [2022 Safe Roads Competition SAS](https://www.sas.com/en_ca/events/2021/q4/safe-roads-competition.html) in AzureML, SQL, Python, Power BI
 Email 📫 | phuong.ngo5595@gmail.com 
@@ -69,7 +69,7 @@ Programming | **Python** (Pandas, Numpy, Matplotlib, Keras, Tensorflow, SkLearn)
 ETL / ELT | **Alteryx**, **Azure**, **Tableau Prep**, **Power BI Query Editor**, **SAS**, **IBM**
 Database | **MySQL** (Workbench), **Azure**, **Microsoft SQL Server**, Design (ERD, Normalization, ORM), Salesforce
 Big Data| **Azure** (Apache Spark, Databricks, Synapse), **Hadoop** (Hive, Zeppelin, NoSQL, Pig, Sqoop, HBase), **Splunk**, **Neo4j**
-Visualization | **Tableau**, **Power BI**, Excel, SPSS
+Visualization | **Tableau**, **Power BI**, **Qlik**, Cognos, Excel, SPSS
 Collaboration wiki | Atlassian Confluence, Trello
 Soft Skills | Communication, Teamwork, Presentation, Negotiation, Sales, Client & Project Management, Consulting 
 
