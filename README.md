@@ -65,9 +65,9 @@ French | *TEF Canada B1 / CLB 5-6* 🇨🇦
 Criteria | Details
 --------|------------
 Languages | **English** 🇺🇲 (fluent) , **French** 🇨🇦🇨🇵 (ongoing intensive B1), **German** 🇩🇪 (basic, B1 Goethe–2011), **Vietnamese** (native)
-Programming | **Python** (Pandas, Numpy, Matplotlib, Keras, Tensorflow, SkLearn), **SQL**, **T-SQL**, **R**, **Java**, **Scala**, API, Shell, UNIX, Ubuntu
+Programming | **Python** (Pandas, Numpy, Matplotlib, Keras, Tensorflow, SkLearn), **SQL**, **T-SQL**, **R**, **Java**, **Scala**, Cypher, API, Shell, UNIX, Ubuntu
 ETL / ELT | **Alteryx**, **Azure**, **Tableau Prep**, **Power BI Query Editor**, **SAS**, **IBM**
-Database | **MySQL** (Workbench), **Azure**, **Microsoft SQL Server**, Design (ERD, Normalization, ORM), Salesforce
+Database | **MySQL** (Workbench), **Azure**, **Microsoft SQL Server**, Neo4j, Design (ERD, Normalization, ORM), Salesforce
 Big Data| **Azure** (Apache Spark, Databricks, Synapse), **Hadoop** (Hive, Zeppelin, NoSQL, Pig, Sqoop, HBase), **Splunk**, **Neo4j**
 Visualization | **Tableau**, **Power BI**, **Qlik**, Cognos, Excel, SPSS
 Collaboration wiki | Atlassian Confluence, Trello
