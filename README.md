@@ -8,7 +8,7 @@ Contact/Reference | Details
 --------|------------
 Learning 🌱 | MichiganX - Azure & SQL, Microsoft Power BI (DAX, M Language), T-SQL (Exam 70-761), Azure (DP-900 Data Fundamentals), Tableau (LODs, Data Analyst Certificate) & Alteryx (Core and Advanced Designer)
 Learning 💞️ | Python, SQL, Tableau, Power BI, Azure ML, SAS, Cognos 
-Working on | Better Working World in Python, Azure Studio
+Working on | [EY Better Working World](https://github.com/daiphuongngo/Better-Working-World-Python-Machine-Learning-Azure) in Python, Azure Studio
 Recent finished | [2022 Safe Roads Competition SAS](https://www.sas.com/en_ca/events/2021/q4/safe-roads-competition.html) in AzureML, SQL, Python, Power BI
 Email 📫 | phuong.ngo5595@gmail.com 
 Linkedin | https://www.linkedin.com/in/daiphuongngo/
@@ -24,7 +24,7 @@ I started my new growth in the Analytics field with the current `Business Insigh
 
 I currently work in the `iRestify Inc., Toronto, Ontario, Canada` 🇨🇦 as `Data Analyst Intern` 🗽 and directly work under the Product Head, support various cross-departmental projects to analyze, integrate trend insights from customer experience survey sources, automate departmental reports, metrics, monitor KPIs in `Power BI`, `Salesforce`, `Excel` through `Amazon Redshift Data Warehouse`, `Athena`, `Salesforce`, automate departmental reports, metrics, monitor KPIs on Desktop and App Service. I also translate complex problems into simpler terms using basic, intermediate, advanced visualization techniques, `DAX`, `M` calculations, queries on connected refined datasets & support initiatives to contribute to the goals & success of the company’s vision. And I am responsible to identify key areas of opportunities, establish cause & effect, perform analyses, and communicate key findings to various stakeholders to facilitate data-driven decision-making. Hevo is used in the process to transfer data from Google Sheets formats & from APIs to S3 in JSON format to the AWS Redshift Data Warehouse to be accessed by Power BI.
 
-I am participating in the Better Working World hosted by EY and examined by EY, NASA and Microsoft for 3 months for 3 challenges at 3 different difficulty levels using Python and Azure on Machine Learning/AI models.
+I am participating in the [Better Working World](https://github.com/daiphuongngo/Better-Working-World-Python-Machine-Learning-Azure) hosted by EY and examined by EY, NASA and Microsoft for 3 months for 3 challenges at 3 different difficulty levels using Python and Azure on Machine Learning/AI models.
 
 ## Past:
 
