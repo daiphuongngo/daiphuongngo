@@ -35,6 +35,19 @@ I worked as a `Data Analytics Intern` for the `Center of Talent in AI, HCMC, Vie
 
 I have recently completed solo in the [2022 Safe Roads Competition | SAS - January 28 - March 11, 2022](https://www.sas.com/en_ca/events/2021/q4/safe-roads-competition.html) using `Python`, `Power BI`, `AzureML` on the project for the Toronto Police Service.
 
+## Languages, Technologies, Skills
+
+Criteria | Details
+--------|------------
+Programming | **Python** (Pandas, Numpy, Matplotlib, Keras, Tensorflow, SkLearn), **SQL**, **T-SQL**, **R**, **Java**, **Cypher**, Scala,  API, Shell, UNIX, Ubuntu
+ETL / ELT | **Alteryx**, **Azure**, **Tableau Prep**, **Power BI Query Editor**, **SAS**, **IBM**
+Database | **MySQL** (Workbench), **Azure**, **Microsoft SQL Server**, Neo4j, Design (ERD, Normalization, ORM), Salesforce
+Big Data| **Azure** (Apache Spark, Databricks, Synapse), **Hadoop** (Hive, Zeppelin, NoSQL, Pig, Sqoop, HBase), **Splunk**, **Neo4j**
+Visualization | **Tableau**, **Power BI**, **Qlik**, Cognos, Excel, SPSS
+Collaboration wiki | Atlassian Confluence, JIRA, Trello
+Languages | **English** 🇺🇲 (fluent) , **French** 🇨🇦🇨🇵 (ongoing intensive B1), **German** 🇩🇪 (basic, B1 Goethe–2011), **Vietnamese** (native)
+Soft Skills | Communication, Teamwork, Presentation, Negotiation, Sales, Client & Project Management, Consulting 
+
 ## Qualifications 🏆🎖
 - Attentive-to-details, goal-directed, progressive, passionate, curious, willing to learn & adapt rapidly, problem-solving oriented
 - Humber College - pursuing the Post-Graduate’s Business Insights and Analytics - Dean’s Honour Lists (Winter & Summer’21)
@@ -59,19 +72,6 @@ Microsoft | *AI-900 Azure AI Fundamentals*
 Microsoft | *DP-203 Azure Data Engineering*
 English | *IELTS General C1* 
 French | *TEF Canada B1 / CLB 5-6* 🇨🇦
-
-## Languages, Technologies, Skills
-
-Criteria | Details
---------|------------
-Languages | **English** 🇺🇲 (fluent) , **French** 🇨🇦🇨🇵 (ongoing intensive B1), **German** 🇩🇪 (basic, B1 Goethe–2011), **Vietnamese** (native)
-Programming | **Python** (Pandas, Numpy, Matplotlib, Keras, Tensorflow, SkLearn), **SQL**, **T-SQL**, **R**, **Java**, **Scala**, Cypher, API, Shell, UNIX, Ubuntu
-ETL / ELT | **Alteryx**, **Azure**, **Tableau Prep**, **Power BI Query Editor**, **SAS**, **IBM**
-Database | **MySQL** (Workbench), **Azure**, **Microsoft SQL Server**, Neo4j, Design (ERD, Normalization, ORM), Salesforce
-Big Data| **Azure** (Apache Spark, Databricks, Synapse), **Hadoop** (Hive, Zeppelin, NoSQL, Pig, Sqoop, HBase), **Splunk**, **Neo4j**
-Visualization | **Tableau**, **Power BI**, **Qlik**, Cognos, Excel, SPSS
-Collaboration wiki | Atlassian Confluence, JIRA, Trello
-Soft Skills | Communication, Teamwork, Presentation, Negotiation, Sales, Client & Project Management, Consulting 
 
 ## Projects
 
