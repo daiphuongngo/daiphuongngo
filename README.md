@@ -44,7 +44,7 @@ ETL / ELT | **Alteryx**, **Azure**, **Tableau Prep**, **Power BI Query Editor**,
 Database | **MySQL** (Workbench), **Azure**, **Microsoft SQL Server**, Neo4j, Design (ERD, Normalization, ORM), Salesforce
 Big Data| **Azure** (Apache Spark, Databricks, Synapse), **Hadoop** (Hive, Zeppelin, NoSQL, Pig, Sqoop, HBase), **Splunk**, **Neo4j**
 Visualization | **Tableau**, **Power BI**, **Qlik**, Cognos, Excel, SPSS
-Collaboration wiki | Atlassian Confluence, JIRA, Trello
+Collaboration wiki | Atlassian Confluence, Jira, Trello
 Languages | **English** 🇺🇲 (fluent) , **French** 🇨🇦🇨🇵 (ongoing intensive B1), **German** 🇩🇪 (basic, B1 Goethe–2011), **Vietnamese** (native)
 Soft Skills | Communication, Teamwork, Presentation, Negotiation, Sales, Client & Project Management, Consulting 
 
