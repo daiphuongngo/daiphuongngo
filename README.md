@@ -8,7 +8,7 @@ Contact/Reference | Details
 --------|------------
 Learning 🌱 | MichiganX - Azure & SQL, Microsoft Power BI (DAX, M Language), T-SQL (Exam 70-761), Azure (DP-900 Data Fundamentals), Tableau (LODs, Data Analyst Certificate) & Alteryx (Core and Advanced Designer)
 Learning 💞️ | Python, SQL, Tableau, Power BI, Azure ML, SAS, Cognos 
-Working on | [EY Better Working World](https://github.com/daiphuongngo/Better-Working-World-Python-Machine-Learning-Azure) in Python, Azure Studio
+Working on | [EY Better Working World](https://github.com/daiphuongngo/Better-Working-World-Python-Machine-Learning-Azure) in Python, Azure Studio, Azure Machine Leanring Studio
 Recent finished | [2022 Safe Roads Competition SAS](https://www.sas.com/en_ca/events/2021/q4/safe-roads-competition.html) in AzureML, SQL, Python, Power BI
 Email 📫 | phuong.ngo5595@gmail.com 
 Linkedin | https://www.linkedin.com/in/daiphuongngo/
@@ -39,8 +39,8 @@ I have recently completed solo in the [2022 Safe Roads Competition | SAS - Janua
 
 Criteria | Details
 --------|------------
-Programming | **Python** (Pandas, Numpy, Matplotlib, Keras, Tensorflow, SkLearn), **SQL**, **T-SQL**, **R**, **Java**, **Cypher**, Scala,  API, Shell, UNIX, Ubuntu
-ETL / ELT | **Alteryx**, **Azure**, **Tableau Prep**, **Power BI Query Editor**, **SAS**, **IBM**
+Programming | **Python** (Pandas, Numpy, Matplotlib, Keras, Tensorflow, SkLearn), **SQL**, **T-SQL**, **R**, **Java**, **Cypher**, Scala,  API, SAS Studio, Shell, UNIX, Ubuntu
+ETL / ELT | **Alteryx**, **Azure**, **Tableau Prep**, **Power BI Query Editor**, **SAS Enterprise Miner**, **IBM**
 Database | **MySQL** (Workbench), **Azure**, **Microsoft SQL Server**, Neo4j, Design (ERD, Normalization, ORM), Salesforce
 Big Data| **Azure** (Apache Spark, Databricks, Synapse), **Hadoop** (Hive, Zeppelin, NoSQL, Pig, Sqoop, HBase), **Splunk**, **Neo4j**
 Visualization | **Tableau**, **Power BI**, **Qlik**, Cognos, Excel, SPSS
