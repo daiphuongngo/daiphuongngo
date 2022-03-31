@@ -99,7 +99,7 @@ Courses | Details
 --------|------------
 Data Analytics Tools ✅ | [**SAS**, **SPSS Modeler**](https://github.com/daiphuongngo/Data-Analysis-SPSS-Modeler-SAS), **SPSS**, **Excel**
 Managerial Finance & Accounting ✅ | Excel ([Investment Analysis of Shopify and Lightspeed in Canada]())
-Big Data ✅ | **Hadoop, R, Neo4j**
+Big Data ✅ | **Hadoop, R, Neo4j, Cypher, Graph**
 Quantitative Research Methods I & II ✅ | **Descriptive & Inferential Statistics, Probability, Normal Distribution, Estimation, Hypothesis Testing**
 Database & SQL ✅ | **SQL**, **ERD, Normalization**
 Governance & Ethics in Data ✅ | Reflection & Integration of Knowledge: Governance & Ethics of Analytics in in Data, AI & Technology - *only available from hyperlink in my Resume* - (graded `95/100` & feedbacked by Professor. Kathleen Mcginn 😧 : `"My goodness Phuong,Thank you for sharing this with me. It is indeed a very deep, intelligent and meaningful piece of writing that deserves an excellent grade - 95 (!) - the highest grade I have given so far. Congratulations - you have truly earned it."`)
