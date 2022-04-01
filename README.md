@@ -30,7 +30,7 @@ I am participating in the [Better Working World](https://github.com/daiphuongngo
 
 ## Past:
 
-I worked as a `Data Analytics Intern` for the `Center of Talent in AI, HCMC, Viet Nam` remotely from `Toronto, Canada` from `Aug-Dec 2021` 🧑‍💻 to conduct Sentiment Analysis on customer’s comments and analyze data generated from a system using Natural Language Processing on Fan Pages’ dialogs of diet products & participate in Data Operations, Visualization to determine top customers, top efficient fan pages, most crucial intentions & demand entities, peak effective contact hours, peak periods of confirmations, common complaints
+I worked as a `Data Analytics Intern` for the `Center of Talent in AI, HCMC, Viet Nam` remotely from `Toronto, Canada` from `Aug-Dec 2021` 🧑‍💻 to conduct Sentiment Analysis on customer’s comments and analyze data generated from a system using Conversational AI system APIs (Natural Language Processing AI model's) on Fan Pages’ dialogs of diet products & participate in Data Operations, Visualization to determine top customers, top efficient fan pages, most crucial intentions & demand entities, peak effective contact hours, peak periods of confirmations, common complaints
 + `SQL`: create tables, organize data in MySQL Database into chats, intentions, entities (> 4,000,000 rows), generate insights
 + `Python`: conduct EDA, request to, receive from Postman’s API, map files, translate classes to tables in MySQL, process batches
 + `Tableau`: visualize refined datasets for insights of customer’s sentiment on charts, metrics to analyze key features of intentions
