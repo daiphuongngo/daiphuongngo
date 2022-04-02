@@ -1,5 +1,7 @@
 # Hi, I’m Dai-Phuong Ngo (Liam Ngo) 👋 👋 👋 
 
+## "What's impossible or can't be done, that's where to get to work." -my motto-
+
 ![iStock-1206796363-1200x500](https://user-images.githubusercontent.com/70437668/161065148-dae81e75-88ec-4984-8438-97ca0ae95c25.jpg)
 
 👀 **I’m interested in understanding, processing, analyzing, modelizing and visualizing data with different languages and tools.** 🦾
