@@ -1,4 +1,4 @@
-# Hi, I’m Dai-Phuong Ngo (Liam Ngo) 👋 👋 👋 
+# Hi, I’m Dai-Phuong Ngo (Liam Ngo) 👋 🇨🇦 🍁 👏 
 
 ### "What's impossible or can't be done, that's where to get to work." -my motto-
 
