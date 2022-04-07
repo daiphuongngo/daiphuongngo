@@ -32,12 +32,16 @@ I am participating in the [Better Working World](https://github.com/daiphuongngo
 
 ## Past:
 
-I worked as a `Data Analytics Intern` for the `Center of Talent in AI, HCMC, Viet Nam` remotely from `Toronto, Canada` from `Aug-Dec 2021` 🧑‍💻 to conduct Sentiment Analysis on customer’s comments and analyze data generated from a system using Conversational AI system APIs (Natural Language Processing AI model's) on Fan Pages’ dialogs of diet products & participate in Data Operations, Visualization to determine top customers, top efficient fan pages, most crucial intentions & demand entities, peak effective contact hours, peak periods of confirmations, common complaints
+I worked as a `Data Analytics Intern` for the `Center of Talent in AI, HCMC, Viet Nam (CoTAI)` remotely from `Toronto, Canada` from `Aug-Dec 2021` 🧑‍💻 to conduct [Sentiment Analysis on customer’s comments and analyze data generated from a system using Conversational AI system APIs (Natural Language Processing AI model's)](https://github.com/daiphuongngo/Sentiment-Analysis-Python-SQL-Tableau) on Fan Pages’ dialogs of diet products & participate in Data Operations, Visualization to determine top customers, top efficient fan pages, most crucial intentions & demand entities, peak effective contact hours, peak periods of confirmations, common complaints
 + `SQL`: create tables, organize data in MySQL Database into chats, intentions, entities (> 4,000,000 rows), generate insights
 + `Python`: conduct EDA, request to, receive from Postman’s API, map files, translate classes to tables in MySQL, process batches
 + `Tableau`: visualize refined datasets for insights of customer’s sentiment on charts, metrics to analyze key features of intentions
 
+I also learned and practice Python, Data Science, Machine Learning, Deep Learning, AI in Pre-AI and AI Practitioner courses at `CoTAI` in `2021` using `Python`, `Tensorflow`, `Keras`, `H20.ai`, `Pandas`, `Nuympy`, `Algorithms`, `Probability`, `Statistics` on different projects: [Banking Dataset - Marketing Targets - Imbalanced Learn Comparison](https://github.com/daiphuongngo/Banking-Dataset-Imbalanced-Learn-Comparison) and [Porto Seguro Insurance - Comparison of multiple Classfifers on the imbalanced dataset](https://github.com/daiphuongngo/Porto-Seguro-Safe-Driver-Prediction-Imbalanced-Comparison-Classifiers)
+
 I have recently completed solo in the [2022 Safe Roads Competition | SAS - January 28 - March 11, 2022](https://www.sas.com/en_ca/events/2021/q4/safe-roads-competition.html) using `Python`, `Power BI`, `AzureML` on the project for the Toronto Police Service.
+
+I took a summer course of `German Language and Culture` at Goethe Institute, Frankfurt am Main, Germany in 2011, stayed with international friends at Haus der Jugend (DJH Youth Hostel) on Deutschherrnufer Street and visited Mannheim and Koblenz during this term.
 
 ## Languages, Technologies, Skills
 
