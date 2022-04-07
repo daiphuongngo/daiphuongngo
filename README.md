@@ -41,7 +41,7 @@ I also learned and practice Python, Data Science, Machine Learning, Deep Learnin
 
 I have recently completed solo in the [2022 Safe Roads Competition | SAS - January 28 - March 11, 2022](https://www.sas.com/en_ca/events/2021/q4/safe-roads-competition.html) using `Python`, `Power BI`, `AzureML` on the project for the Toronto Police Service.
 
-I took a summer course of `German Language and Culture` at Goethe Institute, Frankfurt am Main, Germany in 2011, stayed with international friends at Haus der Jugend (DJH Youth Hostel) on Deutschherrnufer Street and visited Mannheim and Koblenz during this term.
+I took a summer course of `German Language and Culture` at Goethe Institute, Frankfurt am Main, Germany 🇩🇪 in 2011, stayed with international friends at Haus der Jugend (DJH Youth Hostel) on Deutschherrnufer Street and visited Mannheim and Koblenz during this term.
 
 ## Languages, Technologies, Skills
 
