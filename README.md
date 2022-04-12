@@ -11,7 +11,7 @@
 Contact/Reference | Details
 --------|------------
 Learning 🌱 | MichiganX - Azure & SQL, Microsoft Power BI (DAX, M Language), T-SQL (Exam 70-761), Azure (DP-900 Data Fundamentals), Tableau (LODs, Data Analyst Certificate) & Alteryx (Core and Advanced Designer)
-Learning 💞️ | Python, SQL, Tableau, Power BI, Azure ML, Cypher (Neo4j), SAS, Cognos 
+Learning 💞️ | Python, SQL, Tableau, Power BI, Azure ML, Cypher (Neo4j, Graph), SAS, Cognos 
 Working on | [EY Better Working World](https://github.com/daiphuongngo/Better-Working-World-Python-Machine-Learning-Azure) in Python, Azure Studio, Azure Machine Leanring Studio
 Recent finished | [2022 Safe Roads Competition SAS](https://www.sas.com/en_ca/events/2021/q4/safe-roads-competition.html) in AzureML, SQL, Python, Power BI
 Email 📫 | phuong.ngo5595@gmail.com 
