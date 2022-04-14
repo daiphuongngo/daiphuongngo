@@ -17,18 +17,14 @@ Microsoft Learning | https://docs.microsoft.com/en-us/users/daiphuongngo-3267/ac
 
 `Jan'22 - current`- `Data Analyst Intern` - `iRestify Inc.` - `Toronto, Ontario, Canada` 🍁🇨🇦 
 
-- Directly work under the Product Head, support various cross-departmental projects to analyze, integrate trend insights from customer experience survey sources, automate departmental reports, metrics, monitor KPIs in `Power BI`, `Salesforce`, `Excel` through Amazon Redshift Data Warehouse, Athena
-- Automate departmental reports, metrics, monitor KPIs on Desktop and App Service
-- Translate complex problems into simpler terms using basic, intermediate, advanced visualization techniques, `DAX`, `M` calculations, queries on connected refined datasets & support initiatives to contribute to the goals & success of the company’s vision
-- Identify key areas of opportunities, establish cause & effect, perform analyses, and communicate key findings to stakeholders to facilitate data-driven decision-making
+- Report directly to Product Head, support cross-departmental projects to use `Power BI` to analyze, integrate trend insights from customer experience survey sources through Amazon Redshift, MySQL, Athena and report workflow on Confluence
+- Built and developed daily, weekly, monthly reports using DAX, M for the operations department & support initiatives with new KPIs and variables to increase productivity, solve problems immediately, reduce impacts on client satisfaction
+- Identify client and service’s trends and measure experts, vendors’ compliance for the operations and customer success department to take action with non-compliant stakeholders
 
 `Aug-Dec 2021` - `Data Analytics Intern` - `Center of Talent (CoTAI)` - remotely from `Toronto, Ontario, Canada`
 
-[Sentiment Analysis](https://github.com/daiphuongngo/Sentiment-Analysis-Python-SQL-Tableau): analyzed data generated from a system using Conversational AI system APIs (Natural Language Processing AI model's) on Fan Pages’ dialogs of diet products & participate in Data Operations, Visualization to determine top customers, top efficient fan pages, most crucial intentions & demand entities, peak effective contact hours, peak periods of confirmations, common complaints
-
-+ `SQL`: create tables, organize data in MySQL Database into chats, intentions, entities (> 4,000,000 rows), generate insights
-+ `Python`: conduct EDA, request to, receive from Postman’s API, map files, translate classes to tables in MySQL, process batches
-+ `Tableau`: visualize refined datasets for insights of customer’s sentiment on charts, metrics to analyze key features of intentions
+- Developed Python & SQLAlchemy to retrieve & preprocess big data (> 4 mil rows) generated from Conversational AI system APIs on dialogs of online products with minimized running time & built structure on MySQL in SQL to map data & generate insights preliminarily
+- Identified on Tableau top customers, pages, intentions & demand, effective contact hours, confirmations, common complaints about conversations, services and product qualities to manage operations and clients on fan pages instantly
 
 ## Languages, Technologies, Skills
 
