@@ -13,16 +13,16 @@ Microsoft Learning | https://docs.microsoft.com/en-us/users/daiphuongngo-3267/ac
 
 ## Education and Experience:
 
-`Jan 2021 - current` - `Business Insights & Analytics Post-Graduate Program` - `Humber College`  Toronto, Ontario, Canada 🍁🇨🇦 
+`Jan 2021 - current` - `Business Insights & Analytics Post-Graduate Program` - `Humber College`  - `Toronto, Ontario, Canada` 🍁🇨🇦 
 
-`Jan'22 - current`- `Data Analyst Intern` - `iRestify Inc.` - `Toronto, Ontario, Canada` 🇨🇦 
+`Jan'22 - current`- `Data Analyst Intern` - `iRestify Inc.` - `Toronto, Ontario, Canada` 🍁🇨🇦 
 
 - Directly work under the Product Head, support various cross-departmental projects to analyze, integrate trend insights from customer experience survey sources, automate departmental reports, metrics, monitor KPIs in `Power BI`, `Salesforce`, `Excel` through `Amazon Redshift Data Warehouse`, `Athena`, `Salesforce`, 
 - Automate departmental reports, metrics, monitor KPIs on Desktop and App Service
 - Translate complex problems into simpler terms using basic, intermediate, advanced visualization techniques, `DAX`, `M` calculations, queries on connected refined datasets & support initiatives to contribute to the goals & success of the company’s vision
 - Identify key areas of opportunities, establish cause & effect, perform analyses, and communicate key findings to stakeholders to facilitate data-driven decision-making
 
-`Aug-Dec 2021` - `Data Analytics Intern` - `Center of Talent (CoTAI)` - remotely from `Toronto, Canada`
+`Aug-Dec 2021` - `Data Analytics Intern` - `Center of Talent (CoTAI)` - remotely from `Toronto, Ontario, Canada`
 
 [Sentiment Analysis](https://github.com/daiphuongngo/Sentiment-Analysis-Python-SQL-Tableau): analyzed data generated from a system using Conversational AI system APIs (Natural Language Processing AI model's) on Fan Pages’ dialogs of diet products & participate in Data Operations, Visualization to determine top customers, top efficient fan pages, most crucial intentions & demand entities, peak effective contact hours, peak periods of confirmations, common complaints
 
