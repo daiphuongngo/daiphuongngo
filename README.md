@@ -35,13 +35,13 @@ Microsoft Learning | https://docs.microsoft.com/en-us/users/daiphuongngo-3267/ac
 Criteria | Details
 --------|------------
 Programming | **Python** (Pandas, Numpy, Matplotlib, Keras, Tensorflow, SkLearn), **SQL**, **T-SQL**, **R**, **Java**, **Cypher**, Scala,  API, SAS Studio, Shell, UNIX, Ubuntu
-ETL / ELT | **Alteryx**, **Azure**, **Tableau Prep**, **Power BI Query Editor**, **SAS Enterprise Miner**, **IBM**
-Database | **MySQL** (Workbench), **Azure**, **Microsoft SQL Server**, **Neo4j**, Design (ERD, Normalization, ORM)
-Big Data| **Azure** (Apache Spark, Databricks, Synapse), **Hadoop** (Hive, Zeppelin, NoSQL, Pig, Sqoop, HBase), **Neo4j**
+ETL / ELT | **Alteryx**, **Azure**, **Tableau Prep**, **Power BI Query Editor**, SAS Enterprise Miner
+Database | Azure (Machine Learning Studio), MySQL, Neo4j, Microsoft SQL Server, Design (ERD, Normalization, ORM)
+Big Data| Azure (Apache Spark, Databricks, Synapse), Hadoop (Hive, Zeppelin, NoSQL, Pig, Sqoop, HBase), Neo4j
 Visualization | **Tableau**, **Power BI**, **Qlik**, Cognos, Excel, SPSS
 Collaboration wiki | Atlassian Confluence, Jira, Trello
-Languages | **English** 🇺🇲 (fluent) , **French** 🇨🇦🇨🇵 (ongoing intensive B1), **German** 🇩🇪 (basic, B1 Goethe–2011), **Vietnamese** (native)
-Soft Skills | Communication, Teamwork, Presentation, Negotiation, Sales, Client & Project Management, Consulting 
+Languages | **English** 🇺🇲 (fluent), **Vietnamese** (native), **French** 🇨🇦🇨🇵 (basic), **German** 🇩🇪 (basic) 
+Others | Communication, Teamwork, Presentation, Negotiation, Sales, Data Storytelling, Consulting, Excel Solver
 
 ## Certificates 
 
@@ -74,13 +74,12 @@ Topic | more projects available on [GitHub](https://github.com/daiphuongngo?tab=
 Investment Analysis of Shopify and Lightspeed in Canada | - Managerial Finance & Accounting Report
 Governance & Ethics in Data | - Gained the highest grade of 95% analyzing ethics & governance models about data manipulated in Cybersecurity, COVID-19, Vaccination, etc. - Analyzed 3 aspects of the ethics model, data governance to mitigate potential challenges in the chosen context
 [TD Bank Analysis](https://hackmd.io/@PhuongDaiNgo/HJpUbXK3F) *(available for being shown only in a section)* | - Conducted an analysis of TD Bank over history, vision, mission, strategic and financial objectives, External environment based on PESTEL and Five Forces analysis, Internal environment based on SWOT-analysis, resource and capability analysis, and a value chain analysis, the current strategic approach and its various strategic actions, the staffing practices and strategy execution, Organizational structure.
-etc | etc
 
 ## Academic Progress
 
 Courses | Details
 --------|------------
-Data Analytics Tools ✅ | [**SAS**, **SPSS Modeler**](https://github.com/daiphuongngo/Data-Analysis-SPSS-Modeler-SAS), **SPSS**, **Excel**
+Data Analytics Tools ✅ | SAS, SPSS Modeler, SPSS, Excel
 Managerial Finance & Accounting ✅ | Excel ([Investment Analysis of Shopify and Lightspeed in Canada]())
 Big Data ✅ | **Hadoop, R, Neo4j, Cypher, Graph**
 Quantitative Research Methods I & II ✅ | **Descriptive & Inferential Statistics, Probability, Normal Distribution, Estimation, Hypothesis Testing**
@@ -88,13 +87,14 @@ Database & SQL ✅ | **SQL**, **ERD, Normalization**
 Governance & Ethics in Data ✅ | Reflection & Integration of Knowledge: Governance & Ethics of Analytics in in Data, AI & Technology - *only available from hyperlink in my Resume* - (graded `95/100` & feedbacked by Professor. Kathleen Mcginn 😧 : `"My goodness Phuong,Thank you for sharing this with me. It is indeed a very deep, intelligent and meaningful piece of writing that deserves an excellent grade - 95 (!) - the highest grade I have given so far. Congratulations - you have truly earned it."`)
 Canadian Business & Strategy ✅ | [TD Bank Analysis](https://hackmd.io/@PhuongDaiNgo/HJpUbXK3F) & Nucor Corporation Analysis
 Marketing ✅ | to be updated
-Predictive Analytics 🚧 | linear and multiple regression, decision trees, linear programming, factor analysis, cluster analysis, modelling - including transportation, waiting line and learning curve - and simulation, with an emphasis on practical applications and interpretation
-Machine Learning and Programming 1 🚧 | Python: Data Mining, Data Science, Data Visualization, Dimension Reduction, CRM, Evaluation Predictive Performance, Multiple Linear Regression, K-NN, Naives Bayes Classifier, Classification, Regression Trees, Logistic Regression, Cluster Analysis
+Predictive Analytics ✅ | linear and multiple regression, decision trees, linear programming, factor analysis, cluster analysis, modelling
+Machine Learning and Programming 1 ✅ | Python: Data Mining, Data Science, Data Visualization, Dimension Reduction, CRM, Evaluation Predictive Performance, Multiple Linear Regression, K-NN, Naives Bayes Classifier, Classification, Regression Trees, Logistic Regression, Cluster Analysis
 Communication & Data Visualization | MS Word, Excel, Cognos Analytics, and Tableau
+Business Intelligence | Power BI
 Machine Learning and Programming 2 | Python, Scala
 Capstone Course | to be updated
 Project Management | to be updated
-Business Intelligence | Power BI
+
 
 
 
