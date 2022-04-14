@@ -45,16 +45,12 @@ Criteria | Details
 --------|------------
 Programming | **Python** (Pandas, Numpy, Matplotlib, Keras, Tensorflow, SkLearn), **SQL**, **T-SQL**, **R**, **Java**, **Cypher**, Scala,  API, SAS Studio, Shell, UNIX, Ubuntu
 ETL / ELT | **Alteryx**, **Azure**, **Tableau Prep**, **Power BI Query Editor**, **SAS Enterprise Miner**, **IBM**
-Database | **MySQL** (Workbench), **Azure**, **Microsoft SQL Server**, **Neo4j**, Design (ERD, Normalization, ORM), Salesforce
-Big Data| **Azure** (Apache Spark, Databricks, Synapse), **Hadoop** (Hive, Zeppelin, NoSQL, Pig, Sqoop, HBase), **Splunk**, **Neo4j**
+Database | **MySQL** (Workbench), **Azure**, **Microsoft SQL Server**, **Neo4j**, Design (ERD, Normalization, ORM)
+Big Data| **Azure** (Apache Spark, Databricks, Synapse), **Hadoop** (Hive, Zeppelin, NoSQL, Pig, Sqoop, HBase), **Neo4j**, Splunk
 Visualization | **Tableau**, **Power BI**, **Qlik**, Cognos, Excel, SPSS
 Collaboration wiki | Atlassian Confluence, Jira, Trello
 Languages | **English** 🇺🇲 (fluent) , **French** 🇨🇦🇨🇵 (ongoing intensive B1), **German** 🇩🇪 (basic, B1 Goethe–2011), **Vietnamese** (native)
 Soft Skills | Communication, Teamwork, Presentation, Negotiation, Sales, Client & Project Management, Consulting 
-
-## Qualifications 🏆🎖
-- Attentive-to-details, goal-directed, progressive, passionate, curious, willing to learn & adapt rapidly, problem-solving oriented
-- Humber College - pursuing the Post-Graduate’s Business Insights and Analytics - Dean’s Honour Lists (Winter & Summer’21)
 
 Certificates earned 🏅 | Details
 --------|------------
@@ -63,19 +59,6 @@ DataCamp | **SQL Intermediate**
 HackerRank | **SQL Intermediate, SQL Basic, Python Basic**
 Microsoft Office Specialist | **Word, Excel, Powerpoint**
 Udemy | **Power BI for Business Intelligence**
-
-Certificates in progress 🧗 | Details
---------|------------
-SAS | SAS Programming 1: Essentials
-Microsoft | *DP-900 Azure Data Fundamentals*
-Microsoft | *DA-100 Analyzing Data with Microsoft Power BI*
-Microsoft | *70-761: Querying Data with Transact-SQL (T-SQL)* 
-Splunk | *Splunk Core Certified User* 
-Microsoft | *AZ-900 Azure Fundamentals*
-Microsoft | *AI-900 Azure AI Fundamentals*
-Microsoft | *DP-203 Azure Data Engineering*
-English | *IELTS General C1* 
-French | *TEF Canada B1 / CLB 5-6* 🇨🇦
 
 ## Projects
 
@@ -95,7 +78,8 @@ Topic | more projects available on [GitHub](https://github.com/daiphuongngo?tab=
 [Income Analysis & Classification](https://github.com/daiphuongngo/Income-Analysis-and-Classification-Python-SQL-Tableau-PowerBI) | - Preprocessed, analyzed the Income background of all records in `Python`, `SQL` & visualized key variables in `Tableau` / `Power BI` to determine highlights, trends & predictions of Income types with ML, DL Classifiers
 [Eden Hotels & Resorts Group](https://github.com/daiphuongngo/Eden-Hotels-Resorts-Group-Sales-Incentive-Plan-Revenue-Management-Database-Analysis-Java-Excel-SQL) | - Created a Sales Incentive Plan in `Java`: input, check password, calculate Salespersons, Revenues & export reports, calculated Hotel Revenue’s metrics in `Excel` to analyze, visualize different types of KPIs - Designed Database and inserted sample data into tables of hotels, guests, employees & bookings in `SQL` queries
 [University Admission](https://github.com/daiphuongngo/University-Admission) | - Led a team & built a `Java` program (< 150 coding lines) to store information of the newly admitted students, prompted user to enter the student name & high school grades, calculated GPA & assigned to the University’s schools
-Investment Analysis of Shopify and Lightspeed in Canada | - Managerial Finance & Accounting Report: - Gained the highest grade of 95% analyzing ethics & governance models about data manipulated in Cybersecurity, COVID-19, Vaccination, etc. - Analyzed 3 aspects of the ethics model, data governance to mitigate potential challenges in the chosen context
+Investment Analysis of Shopify and Lightspeed in Canada | - Managerial Finance & Accounting Report
+Governance & Ethics in Data | - Gained the highest grade of 95% analyzing ethics & governance models about data manipulated in Cybersecurity, COVID-19, Vaccination, etc. - Analyzed 3 aspects of the ethics model, data governance to mitigate potential challenges in the chosen context
 [TD Bank Analysis](https://hackmd.io/@PhuongDaiNgo/HJpUbXK3F) *(available for being shown only in a section)* | - Conducted an analysis of TD Bank over history, vision, mission, strategic and financial objectives, External environment based on PESTEL and Five Forces analysis, Internal environment based on SWOT-analysis, resource and capability analysis, and a value chain analysis, the current strategic approach and its various strategic actions, the staffing practices and strategy execution, Organizational structure.
 etc | etc
 
@@ -119,27 +103,6 @@ Capstone Course | to be updated
 Project Management | to be updated
 Business Intelligence | Power BI
 
-## Self Study
 
-SKill Enhancement Courses & Activities ✅ | Details 
---------|------------
-Azure, SQL | MichiganX Introduction to Data ANalytics for Manages by University of Michigan
-SAS | SAS Programming 1: Essentials
-SQL Fundamentals | Introduction, Joining Data, Intermediate, ongoing PostgreSQL Summary Stats & Window Functions
-SQL HackerRank | Basic/Advanced Select, Basic/Advanced Join, Basic Aggregation, Alternative Queries
-Tableau | eLearning for Data Analytics, Fundamentals, Intermediate levels
-Microsoft Power BI, Azure, T-SQL | Data Analysis, Azure Database Administrator, Data Engineering, Data Fundamentals
-Python | CoTAI: Machine, Deep Learning, AI (Decision Making	, Visual Understanding, Natural Language)
-MySQL | MySQL Explorer, MySQL Database Service Explorer by Oracle University
-Alteryx | Designer Core & Advanced Designer Certification Exam Prep
-Splunk | Splunk Core Certified User
-English | IELTS General C1
-French | B1 L'Atelier, TEF Canada B1 / CLB 5-6
-Python, Excel, SQL | IBM Data Analyst 
-Python, Java | Algorithms – Big-O Coding, HCMC, Vietnam	
-Python | Data Analysis, Machine Learning, Tableau – Visualization – Nordic Coder, HCMC, Vietnam
-Python for Finance | Investment Fundamentals & Data Analytics
-German | Goethe Zertifikat B1 Deutsch, Language & Cultural Exchange – Jul-Aug’11 – Goethe Institute, Frankfurt, Germany
-GMAT | Foundation, Official Guide - Quantitative, Verbal, Integrated Reasoning, Analytical Writing Assessment 
 
 
