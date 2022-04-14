@@ -1,12 +1,6 @@
 # Hi, I’m Dai-Phuong Ngo (Liam Ngo) 👋 🇨🇦 🍁 👏 
 
-### "What's impossible or can't be done, that's where to get to work." -my motto-
-
-![iStock-1206796363-1200x500](https://user-images.githubusercontent.com/70437668/161065148-dae81e75-88ec-4984-8438-97ca0ae95c25.jpg)
-
-👀 **I’m interested in understanding, processing, analyzing, modelizing and visualizing data with different languages and tools.** 🦾
-
-3 keywords about me: `progressive`, `hardcore`, `adaptive`, `willing-to-learn`
+3 keywords about me: `progressive`, `hardcore`, `willing-to-learn`
 
 Contact/Reference | Details
 --------|------------
@@ -16,28 +10,28 @@ Tableau Public | https://public.tableau.com/app/profile/dai.phuong.ngo
 HackerRank | https://www.hackerrank.com/phuong_ngo5595
 GitHub | https://github.com/daiphuongngo
 Microsoft Learning | https://docs.microsoft.com/en-us/users/daiphuongngo-3267/achievements
-Interests | Basketball 🏀, Aikido (3rd Kyu) 🥋, Swimming 🤿, Photography 📸, Digital Painting 🖌, Travelling ✈, Coding 🔍, Visualization 🪄
 
 ## Present:
 
-I started my new growth in the Analytics field with the current `Business Insights & Analytics Post-Graduate Program at Humber College, Toronto, Ontario, Canada` 🍁🇨🇦 from `Jan 2021 - current` 👨‍🎓, and Data & AI courses with analytical & programming courses and projects to utilize my skillset and provide me the opportunity for further personal development through new challenges & career opportunities of Data/Business Analytics.
+`Jan 2021 - current` - `Business Insights & Analytics Post-Graduate Program` - `Humber College`  Toronto, Ontario, Canada 🍁🇨🇦 
 
-I currently work in the `iRestify Inc., Toronto, Ontario, Canada` 🇨🇦 from `Jan'21` as `Data Analyst Intern` 🗽 and directly work under the Product Head, support various cross-departmental projects to analyze, integrate trend insights from customer experience survey sources, automate departmental reports, metrics, monitor KPIs in `Power BI`, `Salesforce`, `Excel` through `Amazon Redshift Data Warehouse`, `Athena`, `Salesforce`, automate departmental reports, metrics, monitor KPIs on Desktop and App Service. I also translate complex problems into simpler terms using basic, intermediate, advanced visualization techniques, `DAX`, `M` calculations, queries on connected refined datasets & support initiatives to contribute to the goals & success of the company’s vision. And I am responsible to identify key areas of opportunities, establish cause & effect, perform analyses, and communicate key findings to various stakeholders to facilitate data-driven decision-making. Hevo is used in the process to transfer data from Google Sheets formats & from APIs to S3 in JSON format to the AWS Redshift Data Warehouse to be accessed by Power BI. `Confluence Atlassian` and `JIRA` are used to update and track tasks, assignments and progress.
+`Jan'22 - current`- `Data Analyst Intern` - `iRestify Inc.` - `Toronto, Ontario, Canada` 🇨🇦 
 
-I am participating in the [Better Working World](https://github.com/daiphuongngo/Better-Working-World-Python-Machine-Learning-Azure) hosted by EY and examined by EY, NASA and Microsoft for 3 months for 3 challenges at 3 different difficulty levels using `Python` and `Azure` (`Azure Studio` & `Azure Machine Learning Studio`) on Machine Learning/AI models.
+- Directly work under the Product Head, support various cross-departmental projects to analyze, integrate trend insights from customer experience survey sources, automate departmental reports, metrics, monitor KPIs in `Power BI`, `Salesforce`, `Excel` through `Amazon Redshift Data Warehouse`, `Athena`, `Salesforce`, 
+- Automate departmental reports, metrics, monitor KPIs on Desktop and App Service
+- Translate complex problems into simpler terms using basic, intermediate, advanced visualization techniques, `DAX`, `M` calculations, queries on connected refined datasets & support initiatives to contribute to the goals & success of the company’s vision
+- Identify key areas of opportunities, establish cause & effect, perform analyses, and communicate key findings to stakeholders to facilitate data-driven decision-making
 
-## Past:
 
-I worked as a `Data Analytics Intern` for the `Center of Talent in AI, HCMC, Viet Nam (CoTAI)` remotely from `Toronto, Canada` from `Aug-Dec 2021` 🧑‍💻 to conduct [Sentiment Analysis on customer’s comments and analyze data generated from a system using Conversational AI system APIs (Natural Language Processing AI model's)](https://github.com/daiphuongngo/Sentiment-Analysis-Python-SQL-Tableau) on Fan Pages’ dialogs of diet products & participate in Data Operations, Visualization to determine top customers, top efficient fan pages, most crucial intentions & demand entities, peak effective contact hours, peak periods of confirmations, common complaints
+`Aug-Dec 2021` - `Data Analytics Intern` - `Center of Talent (CoTAI)` - remotely from `Toronto, Canada`
+
+[Sentiment Analysis](https://github.com/daiphuongngo/Sentiment-Analysis-Python-SQL-Tableau): analyzed data generated from a system using Conversational AI system APIs (Natural Language Processing AI model's) on Fan Pages’ dialogs of diet products & participate in Data Operations, Visualization to determine top customers, top efficient fan pages, most crucial intentions & demand entities, peak effective contact hours, peak periods of confirmations, common complaints
+
 + `SQL`: create tables, organize data in MySQL Database into chats, intentions, entities (> 4,000,000 rows), generate insights
++ 
 + `Python`: conduct EDA, request to, receive from Postman’s API, map files, translate classes to tables in MySQL, process batches
++ 
 + `Tableau`: visualize refined datasets for insights of customer’s sentiment on charts, metrics to analyze key features of intentions
-
-I also learned and practice Python, Data Science, Machine Learning, Deep Learning, AI in Pre-AI and AI Practitioner courses at `CoTAI` in `2021` using `Python`, `Tensorflow`, `Keras`, `H20.ai`, `Pandas`, `Nuympy`, `Algorithms`, `Probability`, `Statistics` on different projects: [Banking Dataset - Marketing Targets - Imbalanced Learn Comparison](https://github.com/daiphuongngo/Banking-Dataset-Imbalanced-Learn-Comparison) and [Porto Seguro Insurance - Comparison of multiple Classfifers on the imbalanced dataset](https://github.com/daiphuongngo/Porto-Seguro-Safe-Driver-Prediction-Imbalanced-Comparison-Classifiers)
-
-I have recently completed solo in the [2022 Safe Roads Competition | SAS - January 28 - March 11, 2022](https://www.sas.com/en_ca/events/2021/q4/safe-roads-competition.html) using `Python`, `Power BI`, `AzureML` on the project for the Toronto Police Service.
-
-I took a summer course of `German Language and Culture` at Goethe Institute, Frankfurt am Main, Germany 🇩🇪 in 2011, stayed with international friends at Haus der Jugend (DJH Youth Hostel) on Deutschherrnufer Street and visited Mannheim and Koblenz during this term.
 
 ## Languages, Technologies, Skills
 
@@ -46,13 +40,15 @@ Criteria | Details
 Programming | **Python** (Pandas, Numpy, Matplotlib, Keras, Tensorflow, SkLearn), **SQL**, **T-SQL**, **R**, **Java**, **Cypher**, Scala,  API, SAS Studio, Shell, UNIX, Ubuntu
 ETL / ELT | **Alteryx**, **Azure**, **Tableau Prep**, **Power BI Query Editor**, **SAS Enterprise Miner**, **IBM**
 Database | **MySQL** (Workbench), **Azure**, **Microsoft SQL Server**, **Neo4j**, Design (ERD, Normalization, ORM)
-Big Data| **Azure** (Apache Spark, Databricks, Synapse), **Hadoop** (Hive, Zeppelin, NoSQL, Pig, Sqoop, HBase), **Neo4j**, Splunk
+Big Data| **Azure** (Apache Spark, Databricks, Synapse), **Hadoop** (Hive, Zeppelin, NoSQL, Pig, Sqoop, HBase), **Neo4j**
 Visualization | **Tableau**, **Power BI**, **Qlik**, Cognos, Excel, SPSS
 Collaboration wiki | Atlassian Confluence, Jira, Trello
 Languages | **English** 🇺🇲 (fluent) , **French** 🇨🇦🇨🇵 (ongoing intensive B1), **German** 🇩🇪 (basic, B1 Goethe–2011), **Vietnamese** (native)
 Soft Skills | Communication, Teamwork, Presentation, Negotiation, Sales, Client & Project Management, Consulting 
 
-Certificates earned 🏅 | Details
+## Certificates 
+
+Earned 🏅 | Details
 --------|------------
 IBM Data Analytics | **Python, SQL, Excel**
 DataCamp | **SQL Intermediate**
