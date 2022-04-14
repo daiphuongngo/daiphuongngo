@@ -17,7 +17,7 @@ Microsoft Learning | https://docs.microsoft.com/en-us/users/daiphuongngo-3267/ac
 
 `Jan'22 - current`- `Data Analyst Intern` - `iRestify Inc.` - `Toronto, Ontario, Canada` 🍁🇨🇦 
 
-- Directly work under the Product Head, support various cross-departmental projects to analyze, integrate trend insights from customer experience survey sources, automate departmental reports, metrics, monitor KPIs in `Power BI`, `Salesforce`, `Excel` through `Amazon Redshift Data Warehouse`, `Athena`, `Salesforce`, 
+- Directly work under the Product Head, support various cross-departmental projects to analyze, integrate trend insights from customer experience survey sources, automate departmental reports, metrics, monitor KPIs in `Power BI`, `Salesforce`, `Excel` through Amazon Redshift Data Warehouse, Athena
 - Automate departmental reports, metrics, monitor KPIs on Desktop and App Service
 - Translate complex problems into simpler terms using basic, intermediate, advanced visualization techniques, `DAX`, `M` calculations, queries on connected refined datasets & support initiatives to contribute to the goals & success of the company’s vision
 - Identify key areas of opportunities, establish cause & effect, perform analyses, and communicate key findings to stakeholders to facilitate data-driven decision-making
