@@ -11,7 +11,7 @@ HackerRank | https://www.hackerrank.com/phuong_ngo5595
 GitHub | https://github.com/daiphuongngo
 Microsoft Learning | https://docs.microsoft.com/en-us/users/daiphuongngo-3267/achievements
 
-## Present:
+## Education and Experience:
 
 `Jan 2021 - current` - `Business Insights & Analytics Post-Graduate Program` - `Humber College`  Toronto, Ontario, Canada 🍁🇨🇦 
 
@@ -22,15 +22,12 @@ Microsoft Learning | https://docs.microsoft.com/en-us/users/daiphuongngo-3267/ac
 - Translate complex problems into simpler terms using basic, intermediate, advanced visualization techniques, `DAX`, `M` calculations, queries on connected refined datasets & support initiatives to contribute to the goals & success of the company’s vision
 - Identify key areas of opportunities, establish cause & effect, perform analyses, and communicate key findings to stakeholders to facilitate data-driven decision-making
 
-
 `Aug-Dec 2021` - `Data Analytics Intern` - `Center of Talent (CoTAI)` - remotely from `Toronto, Canada`
 
 [Sentiment Analysis](https://github.com/daiphuongngo/Sentiment-Analysis-Python-SQL-Tableau): analyzed data generated from a system using Conversational AI system APIs (Natural Language Processing AI model's) on Fan Pages’ dialogs of diet products & participate in Data Operations, Visualization to determine top customers, top efficient fan pages, most crucial intentions & demand entities, peak effective contact hours, peak periods of confirmations, common complaints
 
 + `SQL`: create tables, organize data in MySQL Database into chats, intentions, entities (> 4,000,000 rows), generate insights
-+ 
 + `Python`: conduct EDA, request to, receive from Postman’s API, map files, translate classes to tables in MySQL, process batches
-+ 
 + `Tableau`: visualize refined datasets for insights of customer’s sentiment on charts, metrics to analyze key features of intentions
 
 ## Languages, Technologies, Skills
