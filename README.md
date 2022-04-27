@@ -11,7 +11,7 @@ HackerRank | https://www.hackerrank.com/phuong_ngo5595
 GitHub | https://github.com/daiphuongngo
 Microsoft Learning | https://docs.microsoft.com/en-us/users/daiphuongngo-3267/achievements
 
-## Education and Experience:
+## Education & Experience:
 
 `Jan 2021 - current` - `Business Insights & Analytics Post-Graduate Program` - `Humber College`  - `Toronto, Ontario, Canada` 🍁🇨🇦 
 
@@ -26,7 +26,7 @@ Microsoft Learning | https://docs.microsoft.com/en-us/users/daiphuongngo-3267/ac
 - Developed Python & SQLAlchemy to retrieve & preprocess big data (> 4 mil rows) generated from Conversational AI system APIs on dialogs of online products with minimized running time & built structure on MySQL in SQL to map data & generate insights preliminarily
 - Identified on Tableau top customers, pages, intentions & demand, effective contact hours, confirmations, common complaints about conversations, services and product qualities to manage operations and clients on fan pages instantly
 
-## Languages, Technologies, Skills
+## Languages, Technologies, Skills:
 
 Criteria | Details
 --------|------------
@@ -39,7 +39,7 @@ Collaboration wiki | Atlassian Confluence, Jira, Trello
 Languages | **English** 🇺🇲 (fluent), **Vietnamese** (native), **French** 🇨🇦🇨🇵 (basic), **German** 🇩🇪 (basic) 
 Others | Communication, Teamwork, Presentation, Negotiation, Sales, Data Storytelling, Consulting, Excel Solver
 
-## Certificates 
+## Certificates:
 
 Earned 🏅 | Details
 --------|------------
@@ -49,7 +49,7 @@ HackerRank | **SQL Intermediate, SQL Basic, Python Basic**
 Microsoft Office Specialist | **Word, Excel, Powerpoint**
 Udemy | **Power BI for Business Intelligence**
 
-## Projects
+## Projects:
 
 Topic | more projects available on [GitHub](https://github.com/daiphuongngo?tab=repositories) & [Tableau Public](https://public.tableau.com/app/profile/dai.phuong.ngo)
 --------|------------
@@ -71,7 +71,7 @@ Investment Analysis of Shopify and Lightspeed in Canada | - Managerial Finance &
 Governance & Ethics in Data | - Gained the highest grade of 95% analyzing ethics & governance models about data manipulated in Cybersecurity, COVID-19, Vaccination, etc. - Analyzed 3 aspects of the ethics model, data governance to mitigate potential challenges in the chosen context
 [TD Bank Analysis](https://hackmd.io/@PhuongDaiNgo/HJpUbXK3F) *(available for being shown only in a section)* | - Conducted an analysis of TD Bank over history, vision, mission, strategic and financial objectives, External environment based on PESTEL and Five Forces analysis, Internal environment based on SWOT-analysis, resource and capability analysis, and a value chain analysis, the current strategic approach and its various strategic actions, the staffing practices and strategy execution, Organizational structure.
 
-## Academic Progress
+## Academic Progress:
 
 Courses | Details
 --------|------------
