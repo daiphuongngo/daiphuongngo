@@ -75,7 +75,7 @@ Governance & Ethics in Data | - Gained the highest grade of 95% analyzing ethics
 
 Courses | Details
 --------|------------
-Data Analytics Tools ✅ | SAS, SPSS Modeler, SPSS, Excel
+Data Analytics Tools ✅ | SAS, SPSS Modeler, SPSS, Excel, Cognos
 Managerial Finance & Accounting ✅ | Excel ([Investment Analysis of Shopify and Lightspeed in Canada]())
 Big Data ✅ | **Hadoop, R, Neo4j, Cypher, Graph**
 Quantitative Research Methods I & II ✅ | **Descriptive & Inferential Statistics, Probability, Normal Distribution, Estimation, Hypothesis Testing**
@@ -85,7 +85,7 @@ Canadian Business & Strategy ✅ | [TD Bank Analysis](https://hackmd.io/@PhuongD
 Marketing ✅ | to be updated
 Predictive Analytics ✅ | linear and multiple regression, decision trees, linear programming, factor analysis, cluster analysis, modelling
 Machine Learning and Programming 1 ✅ | Python: Data Mining, Data Science, Data Visualization, Dimension Reduction, CRM, Evaluation Predictive Performance, Multiple Linear Regression, K-NN, Naives Bayes Classifier, Classification, Regression Trees, Logistic Regression, Cluster Analysis
-Communication & Data Visualization | MS Word, Excel, Cognos Analytics, and Tableau
+Communication & Data Visualization | Excel, Tableau
 Business Intelligence | Power BI
 Machine Learning and Programming 2 | Python, Scala
 Capstone Course | to be updated
