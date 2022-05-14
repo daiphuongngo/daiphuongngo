@@ -1,6 +1,6 @@
 # Hi, I’m Dai-Phuong Ngo (Liam Ngo) 👋 🇨🇦 🍁 👏 
 
-3 keywords about me: `progressive`, `hardcore`, `willing-to-learn`
+3 keywords about me: `progressive`, `attentive`, `adaptive`
 
 Contact/Reference | Details
 --------|------------
