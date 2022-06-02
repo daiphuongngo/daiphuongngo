@@ -13,9 +13,11 @@ Microsoft Learning | https://docs.microsoft.com/en-us/users/daiphuongngo-3267/ac
 
 ## Education & Experience:
 
-`Jan 2021 - current` - `Business Insights & Analytics Post-Graduate Program` - `Humber College`  - `Toronto, Ontario, Canada` 🍁🇨🇦 
+`Jan 2021 - Aug 2022` - `Business Insights & Analytics Post-Graduate Program` - `Humber College`  - `Toronto, Ontario, Canada` 🍁🇨🇦 
 
-`Jan'22 - current`- `Data Analyst Intern` - `iRestify Inc.` - `Toronto, Ontario, Canada` 🍁🇨🇦 
+`Jan 2021 - Aug 2022` - `Data Science Intern` - `Cohost AI` - `San Francisco, California, USA` | `Ha Noi, Viet Nam`
+
+`Jan'22 - Apr 2022`- `Data Analyst Intern` - `iRestify Inc.` - `Toronto, Ontario, Canada` 🍁🇨🇦 
 
 - Report directly to Product Head, support cross-departmental projects to use `Power BI` to analyze, integrate trend insights from customer experience survey sources through Amazon Redshift, MySQL, Athena and report workflow on Confluence
 - Built and developed daily, weekly, monthly reports using DAX, M for the operations department & support initiatives with new KPIs and variables to increase productivity, solve problems immediately, reduce impacts on client satisfaction
