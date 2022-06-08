@@ -23,7 +23,7 @@ Microsoft Learning | https://docs.microsoft.com/en-us/users/daiphuongngo-3267/ac
 - Built and developed daily, weekly, monthly reports using DAX, M for the operations department & support initiatives with new KPIs and variables to increase productivity, solve problems immediately, reduce impacts on client satisfaction
 - Identify client and service’s trends and measure experts, vendors’ compliance for the operations and customer success department to take action with non-compliant stakeholders
 
-`Aug-Dec 2021` - `Data Analytics Intern` (remote, part-time evening) - `Center of Talent (CoTAI)` - remotely from `Toronto, Ontario, Canada`
+`Aug-Dec 2021` - `Data Analytics Intern` (remote, part-time evening) - `Center of Talent in AI (CoTAI)` - remotely from `Toronto, Ontario, Canada`
 
 - Developed Python & SQLAlchemy to retrieve & preprocess big data (> 4 mil rows) generated from Conversational AI system APIs on dialogs of online products with minimized running time & built structure on MySQL in SQL to map data & generate insights preliminarily
 - Identified on Tableau top customers, pages, intentions & demand, effective contact hours, confirmations, common complaints about conversations, services and product qualities to manage operations and clients on fan pages instantly
