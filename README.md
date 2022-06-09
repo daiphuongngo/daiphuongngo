@@ -19,8 +19,8 @@ Microsoft Learning | https://docs.microsoft.com/en-us/users/daiphuongngo-3267/ac
 
 - Execute analytical work such as segmentation, forecasting, simulation, and mathematical programming to research & develop custom insights & support in mapping a network to identify potential investors/customers
 - Explore and validate new techniques for pricing insights and price recommendations, and simulate pricing concepts to assess the potential value and analyze in-market behavior
-- Utilize Python, Machine Learning, Deep Learning in Keras, Tensorflow, PyTorch for descriptive, diagnostic, predictive analysis
-- Develop metrics, models, reports, and dashboards in Power BI, Tableau, Python to provide insights to hosts, cohosts of Airbnb and other stakeholders
+- Utilize `Python, Machine Learning, Deep Learning` in Keras, Tensorflow, PyTorch for descriptive, diagnostic, predictive analysis
+- Develop metrics, models, reports, and dashboards in `Power BI, Tableau, Python` to provide insights to hosts, cohosts of Airbnb and other stakeholders
 
 `Jan'22 - Apr 2022`- `Data Analyst Intern` - `iRestify Inc.` - `Toronto, Ontario, Canada` 🍁🇨🇦 
 
@@ -30,8 +30,8 @@ Microsoft Learning | https://docs.microsoft.com/en-us/users/daiphuongngo-3267/ac
 
 `Aug-Dec 2021` - `Data Analytics Intern` (remote, part-time evening) - `Center of Talent in AI (CoTAI)` - remotely from `Toronto, Ontario, Canada`
 
-- Developed Python & SQLAlchemy to retrieve & preprocess big data (> 4 mil rows) generated from Conversational AI system APIs on dialogs of online products with minimized running time & built structure on MySQL in SQL to map data & generate insights preliminarily
-- Identified on Tableau top customers, pages, intentions & demand, effective contact hours, confirmations, common complaints about conversations, services and product qualities to manage operations and clients on fan pages instantly
+- Developed `Python & SQLAlchemy` to retrieve & preprocess big data (> 4 mil rows) generated from Conversational AI system APIs on dialogs of online products with minimized running time & built structure on MySQL in SQL to map data & generate insights preliminarily
+- Identified on ``Tableau`` top customers, pages, intentions & demand, effective contact hours, confirmations, common complaints about conversations, services and product qualities to manage operations and clients on fan pages instantly
 
 ## Languages, Technologies, Skills:
 
