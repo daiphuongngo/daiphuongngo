@@ -11,6 +11,8 @@ HackerRank | https://www.hackerrank.com/phuong_ngo5595
 GitHub | https://github.com/daiphuongngo
 Microsoft Learning | https://docs.microsoft.com/en-us/users/daiphuongngo-3267/achievements
 
+"Don't let what you think you can’t do interfere with what you can do."
+
 ## Education & Experience:
 
 `Jan 2021 - Aug 2022` - `Business Insights & Analytics Post-Graduate Program` - `Humber College`  - `Toronto, Ontario, Canada` 🍁🇨🇦 
