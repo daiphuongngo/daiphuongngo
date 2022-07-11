@@ -17,7 +17,7 @@ Microsoft Learning | https://docs.microsoft.com/en-us/users/daiphuongngo-3267/ac
 
 `Jan 2021 - Aug 2022` - `Business Insights & Analytics Post-Graduate Program` - `Humber College`  - `Toronto, Ontario, Canada` 🍁🇨🇦 
 
-`Jan 2021 - Aug 2022` - `Data Science Intern` (remote, part-time evening) - `Cohost AI` - `San Francisco, California, USA` | `Ha Noi, Viet Nam`
+`Jan 2021 - Aug 2022` - `Data Science Intern` (remote, part-time evening) - `Cohost AI` - `San Francisco, California, USA` 🇺🇸 | `Ha Noi, Viet Nam`
 
 - Execute analytical work such as segmentation, forecasting, simulation, and mathematical programming to research & develop custom insights & support in mapping a network to identify potential investors/customers
 - Explore and validate new techniques for pricing insights and price recommendations, and simulate pricing concepts to assess the potential value and analyze in-market behavior
