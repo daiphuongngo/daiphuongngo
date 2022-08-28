@@ -21,8 +21,8 @@ Microsoft Learning | https://docs.microsoft.com/en-us/users/daiphuongngo-3267/ac
 
 - Execute analytical work such as segmentation, forecasting, simulation, and mathematical programming to research & develop custom insights & support in mapping a network to identify potential investors/customers
 - Explore and validate new techniques for pricing insights and price recommendations, and simulate pricing concepts to assess the potential value and analyze in-market behavior
-- Utilize `Python, Machine Learning, Deep Learning` in Keras, Tensorflow, PyTorch for descriptive, diagnostic, predictive analysis
-- Develop metrics, models, reports, and dashboards in `Power BI, Tableau, Python` to provide insights to hosts, cohosts of Airbnb and other stakeholders
+- Utilize `Python, SQL, MySQL, Machine Learning, Deep Learning` in Keras, Tensorflow, PyTorch for descriptive, diagnostic, predictive analysis
+- Develop metrics, models, reports, and dashboards in `Power BI, Python, SQL, Tableau` to provide insights to hosts, cohosts of Airbnb and other stakeholders
 
 `Jan'22 - Apr 2022`- `Data Analyst Intern` - `iRestify Inc.` - `Toronto, Ontario, Canada` 🍁🇨🇦 
 
