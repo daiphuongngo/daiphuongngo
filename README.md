@@ -27,13 +27,13 @@ Microsoft Learning | https://docs.microsoft.com/en-us/users/daiphuongngo-3267/ac
 `Jan'22 - Apr 2022`- `Data Analyst Intern` - `iRestify Inc.` - `Toronto, Ontario, Canada` 🍁🇨🇦 
 
 - Report directly to Product Head, support cross-departmental projects to use `Power BI` to analyze, integrate trend insights from customer experience survey sources through Amazon Redshift, MySQL, Athena and report workflow on Confluence
-- Built and developed daily, weekly, monthly reports using DAX, M for the departments & supported initiatives with new KPIs and variables to increase productivity by reducing impacts on client satisfaction & 50% of daily shift for report preparation
+- Built and developed daily, weekly, monthly reports using DAX, M for the departments & supported initiatives with new KPIs and variables to increase productivity by reducing impacts on client satisfaction & 70% of daily shift for report preparation
 - Identify client and service’s trends and measure experts, vendors’ compliance for the operations and customer success department to take action with non-compliant stakeholders
 
 `Aug-Dec 2021` - `Data Analytics Intern` (remote, part-time evening) - `Center of Talent in AI (CoTAI)` - remotely from `Toronto, Ontario, Canada`
 
-- Developed `Python & SQLAlchemy` to retrieve & preprocess big data (> 4 mil rows) generated from Conversational AI system APIs on dialogs of online products with minimized running time by 8-10 hours per function load 
-- Identified on ``Tableau`` top customers, pages, intentions & demand, effective contact hours, confirmations, common complaints about conversations, services and product qualities to manage operations and clients on fan pages instantly
+- Developed `Python & SQLAlchemy` to retrieve & preprocess big data (> 4 million rows) generated from Conversational AI system APIs on dialogs of online products with minimized running time by 8-10 hours per function load & built MySQL structure in SQL to map & conduct EDA, input data to database for the [Sentiment Analysis](https://github.com/daiphuongngo/Sentiment-Analysis-Python-SQL-Tableau)
+- Identified on ``Tableau`` top customers, pages, intentions & demand, effective contact hours, confirmations, common complaints services & product qualities to manage operations & clients faster by 80% of procedure speed
 
 ## Languages, Technologies, Skills:
 
