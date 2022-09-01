@@ -19,8 +19,8 @@ Microsoft Learning | https://docs.microsoft.com/en-us/users/daiphuongngo-3267/ac
 
 `Jan 2021 - Aug 2022` - `Data Science Intern` (remote, part-time evening) - `Cohost AI` - `San Francisco, California, USA` 🇺🇸 | `Ha Noi, Viet Nam`
 
-- Execute analytical work such as segmentation, forecasting, simulation, and mathematical programming to research custom insights & develop coding functions to speed up integration and deployment by 80% in working hours
-- Explore and validate brand new techniques, measurements up to 90% of company’s applications for pricing insights, recommendations, and simulate pricing concepts to assess the potential value and analyze in-market behavior
+- Execute analytical work such as segmentation, forecasting, simulation, and mathematical programming to research custom insights & develop coding functions to speed up integration and deployment by 90% in working hours
+- Explore and validate brand new techniques, measurements over 95% of company’s applications for pricing insights, recommendations, and simulate pricing concepts to assess the potential value and analyze in-market behavior
 - Utilize `Python, SQL, MySQL, Machine Learning, Deep Learning` in Keras, Tensorflow, PyTorch for descriptive, diagnostic, predictive analysis
 - Develop metrics, models, reports, and dashboards in `Power BI, Python, SQL, Tableau` to provide insights to hosts, cohosts of Airbnb and other stakeholders
 
