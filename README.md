@@ -19,21 +19,22 @@ Microsoft Learning | https://docs.microsoft.com/en-us/users/daiphuongngo-3267/ac
 
 `Jan 2021 - Aug 2022` - `Data Science Intern` (remote, part-time evening) - `Cohost AI` - `San Francisco, California, USA` 🇺🇸 | `Ha Noi, Viet Nam`
 
-- Execute analytical work such as segmentation, forecasting, simulation, and mathematical programming to research custom insights & develop coding functions to speed up integration and deployment by 90% in working hours
-- Explore and validate brand new techniques, measurements over 95% of company’s applications for pricing insights, recommendations, and simulate pricing concepts to assess the potential value and analyze in-market behavior
-- Utilize `Python, SQL, MySQL, Machine Learning, Deep Learning` in Keras, Tensorflow, PyTorch for descriptive, diagnostic, predictive analysis
-- Develop metrics, models, reports, and dashboards in `Power BI, Python, SQL, Tableau` to provide insights to hosts, cohosts of Airbnb and other stakeholders
+- Completed 2 projects to research insights & develop code functions to speed up deployment by 90% in productivity
+- Explored and validated 95% of new techniques, measurements for pricing insights, recommendations, behavioral analysis
+- Utilized `Python, SQL, Power BI Machine & Deep Learning` in Keras, Scikit-Learn for insights to online travel agencies
 
 `Jan'22 - Apr 2022`- `Data Analyst Intern` - `iRestify Inc.` - `Toronto, Ontario, Canada` 🍁🇨🇦 
 
-- Report directly to Product Head, support cross-departmental projects to use `Power BI` to analyze, integrate trend insights from customer experience survey sources through Amazon Redshift, MySQL, Athena and report workflow on Confluence
-- Built and developed daily, weekly, monthly reports using DAX, M for the departments & supported initiatives with new KPIs and variables to increase productivity by reducing impacts on client satisfaction & 70% of daily shift for report preparation
-- Identify client and service’s trends and measure experts, vendors’ compliance for the operations and customer success department to take action with non-compliant stakeholders
+- Supported cross-departmental projects by `Power BI` to analyze, integrate trend insights from customer experience surveys 
+- Developed daily, weekly, monthly reports using `DAX, MDX` queries with new KPIs, features to increase productivity by 70%
+- Identified trends, and patterns, measured stakeholders’ compliance for the operations & customer success 
 
 `Aug-Dec 2021` - `Data Analytics Intern` (remote, part-time evening) - `Center of Talent in AI (CoTAI)` - remotely from `Toronto, Ontario, Canada`
 
-- Developed `Python & SQLAlchemy` to retrieve & preprocess big data (> 4 million rows) generated from Conversational AI system APIs on dialogs of online products with minimized running time by 8-10 hours per function load & built MySQL structure in SQL to map & conduct EDA, input data to database for the [Sentiment Analysis](https://github.com/daiphuongngo/Sentiment-Analysis-Python-SQL-Tableau)
-- Identified on ``Tableau`` top customers, pages, intentions & demand, effective contact hours, confirmations, common complaints services & product qualities to manage operations & clients faster by 80% of procedure speed
+- Developed `Python & SQLAlchemy` to retrieve big data (greater than 4 million rows) generated from Conversational AI’s APIs
+- Minimized by 10 hours per function load, enhanced database structure in SQL, conducted EDA in Python for [Sentiment Analysis](https://github.com/daiphuongngo/Sentiment-Analysis-Python-SQL-Tableau)
+- Constructed on `Tableau` charts & metrics to analyze key features, top objects to manage faster by 80% of procedure speed
+
 
 ## Languages, Technologies, Skills:
 
