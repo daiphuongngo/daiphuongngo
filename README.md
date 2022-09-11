@@ -15,21 +15,21 @@ Microsoft Learning | https://docs.microsoft.com/en-us/users/daiphuongngo-3267/ac
 
 ## Education & Experience:
 
-`Jan 2021 - Aug 2022` - `Business Insights & Analytics Post-Graduate Program` - `Humber College`  - `Toronto, Ontario, Canada` 🍁🇨🇦 
+`Jan 2021 - Aug 2022` - `Business Insights & Analytics Post-Graduate Program` - Humber College  - Toronto, Ontario, Canada 🍁🇨🇦 
 
-`Jan 2021 - Aug 2022` - `Data Science Intern` (remote, part-time evening) - `Cohost AI` - `San Francisco, California, USA` 🇺🇸 | `Ha Noi, Viet Nam`
+`Jan 2021 - now` - `Data Science Intern` (remote, part-time evening) - Cohost AI - San Francisco, California, USA 🇺🇸 | Ha Noi, Viet Nam
 
 - Completed 2 projects to research insights & develop code functions to speed up deployment by 90% in productivity
 - Explored and validated 95% of new techniques, measurements for pricing insights, recommendations, behavioral analysis
 - Utilized `Python, SQL, Power BI Machine & Deep Learning` in Keras, Scikit-Learn for insights to online travel agencies
 
-`Jan'22 - Apr 2022`- `Data Analyst Intern` - `iRestify Inc.` - `Toronto, Ontario, Canada` 🍁🇨🇦 
+`Jan'22 - Apr 2022` - `Data Analyst Intern` - iRestify Inc. - Toronto, Ontario, Canada 🍁🇨🇦 
 
 - Supported cross-departmental projects by `Power BI` to analyze, integrate trend insights from customer experience surveys 
 - Developed daily, weekly, monthly reports using `DAX, MDX` queries with new KPIs, features to increase productivity by 70%
 - Identified trends, and patterns, measured stakeholders’ compliance for the operations & customer success 
 
-`Aug-Dec 2021` - `Data Analytics Intern` (remote, part-time evening) - `Center of Talent in AI (CoTAI)` - remotely from `Toronto, Ontario, Canada`
+`Aug-Dec 2021` - `Data Analytics Intern` (remote, part-time evening) - Center of Talent in AI (CoTAI) - remotely from Toronto, Ontario, Canada
 
 - Developed `Python & SQLAlchemy` to retrieve big data (greater than 4 million rows) generated from Conversational AI’s APIs
 - Minimized by 10 hours per function load, enhanced database structure in SQL, conducted EDA in Python for [Sentiment Analysis](https://github.com/daiphuongngo/Sentiment-Analysis-Python-SQL-Tableau)
