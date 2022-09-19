@@ -95,7 +95,7 @@ Earned 🏅 | Details
 --------|------------
 IBM Data Analytics | **Python, SQL, Excel**
 DataCamp | **SQL Intermediate**
-HackerRank | **SQL Intermediate, SQL Basic, Python Basic**
+HackerRank | **SQL Advanced Intermediate, Basic & Python Basic**
 Microsoft Office Specialist | **Word, Excel, Powerpoint**
 Udemy | **Power BI for Business Intelligence**
 
