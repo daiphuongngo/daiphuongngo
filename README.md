@@ -7,6 +7,7 @@ Linkedin | https://www.linkedin.com/in/daiphuongngo/
 GitHub | https://github.com/daiphuongngo
 Tableau Public | https://public.tableau.com/app/profile/dai.phuong.ngo
 HackerRank | https://www.hackerrank.com/phuong_ngo5595
+CodeSignal | https://app.codesignal.com/profile/phuong_n_brd
 Microsoft Learning | https://docs.microsoft.com/en-us/users/daiphuongngo-3267/achievements
 
 "Don't let what you think you can’t do interfere with what you can do."
