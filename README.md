@@ -82,11 +82,11 @@ Project Management ✅ | Boeing Aviation Case Report of Sales and Supply Boost
 
 Criteria | Details
 --------|------------
-Programming | **Python** (Pandas, Numpy, Matplotlib, Keras, Tensorflow, SkLearn), **SQL**, **T-SQL**, **Java**, **Cypher**,  **R**,  Scala, API, SAS Studio, Shell, UNIX, Ubuntu
-ETL / ELT | **Alteryx**, **Azure**, **Tableau Prep**, **Power BI Query Editor**, SAS Enterprise Miner
-Database | Azure (Machine Learning Studio), MySQL, Neo4j, Microsoft SQL Server, Design (ERD, Normalization, ORM)
+Programming | **Python** (Pandas, Numpy, Matplotlib, Keras, Tensorflow, SkLearn), **SQL**, **T-SQL**, **Java**, Cypher,  R,  Scala, API, SAS Studio, Shell, UNIX, Ubuntu
+ETL / ELT | **Alteryx (Micro-Credential) **, **Tableau Prep**, **Power BI Query Editor**, SAS Enterprise Miner, SPSS Modeler
+Database | Azure (Data Studio & Machine Learning Studio), MySQL, Neo4j, Microsoft SQL Server, Design (ERD, Normalization, ORM)
 Big Data| Azure (Apache Spark, Databricks, Synapse), Hadoop (Hive, Zeppelin, NoSQL, Pig, Sqoop, HBase), Neo4j
-Visualization | **Tableau**, **Power BI**, **Qlik**, Cognos, Excel, SPSS
+Visualization | **Tableau**, **Power BI**, Qlik, Cognos, Excel, SPSS
 Collaboration wiki | Atlassian Confluence, Jira, Trello
 Languages | **English** 🇺🇲 (fluent), **Vietnamese** (native), **French** 🇨🇦🇨🇵 (basic), **German** 🇩🇪 (basic) 
 Others | Communication, Teamwork, Presentation, Negotiation, Sales, Data Storytelling, Consulting, Excel Solver
@@ -96,8 +96,9 @@ Others | Communication, Teamwork, Presentation, Negotiation, Sales, Data Storyte
 Earned 🏅 | Details
 --------|------------
 IBM Data Analytics | **Python, SQL, Excel**
+Alteryx | **Micro Credential**
+HackerRank | **SQL (Advanced, Intermediate, Basic) & Problem Solving (Intermediate, Basic) & Python, Java (Basic)**
 DataCamp | **SQL Intermediate**
-HackerRank | **SQL Advanced Intermediate, Basic & Python Basic**
 Microsoft Office Specialist | **Word, Excel, Powerpoint**
 Udemy | **Power BI for Business Intelligence**
 
