@@ -8,7 +8,7 @@ GitHub | https://github.com/daiphuongngo
 Tableau Public | https://public.tableau.com/app/profile/dai.phuong.ngo
 HackerRank | https://www.hackerrank.com/phuong_ngo5595
 CodeSignal | https://app.codesignal.com/profile/phuong_n_brd
-Alteryx | https://community.alteryx.com/t5/user/viewprofilepage/user-id/288253
+Alteryx [Micro-Credential](https://www.credly.com/badges/e4915f5f-d70d-4b0a-a61d-e7fc4962c0f3/public_url) | https://community.alteryx.com/t5/user/viewprofilepage/user-id/288253
 Microsoft Learning | https://docs.microsoft.com/en-us/users/daiphuongngo-3267/achievements
 
 "Don't let what you think you can’t do interfere with what you can do."
