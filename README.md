@@ -5,7 +5,7 @@ Contact | BI & ETL | Hackathon | Datathon | E-Learning
 --------|---------|------------|------------|------------
 [Email](phuong.ngo5595@gmail.com) | [Microsoft Certified: Power BI Data Analyst Associate](https://www.credly.com/badges/94d81b5a-fb15-4edf-a31b-6e498ddaf76e/public_url) | [HackerRank](https://www.hackerrank.com/phuong_ngo5595) | [SAS Safe Roads 2022 Competition Participant](https://www.credly.com/badges/e481e0ee-79f2-4b09-9cee-55f3b1da7a56/public_url) | [Microsoft Learning](https://docs.microsoft.com/en-us/users/daiphuongngo-3267/achievements)
 [Linkedin](https://www.linkedin.com/in/daiphuongngo/) | Tableau Desktop Specialist (soon)  | [CodeSignal](https://app.codesignal.com/profile/phuong_n_brd) | [GitHub](https://github.com/daiphuongngo) | [Tableau E-Learning](https://www.credly.com/badges/98eb88fd-e169-4e34-aca1-64b7d06a36a0/public_url)
-|  | [Alteryx Micro-Credential](https://www.credly.com/badges/e4915f5f-d70d-4b0a-a61d-e7fc4962c0f3/public_url) | | [Tableau Public](https://public.tableau.com/app/profile/dai.phuong.ngo) | 
+|  | [Alteryx Micro-Credential](https://www.credly.com/badges/e4915f5f-d70d-4b0a-a61d-e7fc4962c0f3/public_url) | | [Tableau Public](https://public.tableau.com/app/profile/dai.phuong.ngo) | [Alteryx 9-Comet](https://community.alteryx.com/t5/user/viewprofilepage/user-id/288253)
 
 "Don't let what you think you can’t do interfere with what you can do."
 
