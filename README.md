@@ -5,6 +5,7 @@ Contact/Reference | Details
 Email 📫 | phuong.ngo5595@gmail.com 
 Linkedin | https://www.linkedin.com/in/daiphuongngo/
 GitHub | https://github.com/daiphuongngo
+[Microsoft Certified: Power BI Data Analyst Associate](https://www.credly.com/badges/94d81b5a-fb15-4edf-a31b-6e498ddaf76e/public_url) | https://www.credly.com/badges/94d81b5a-fb15-4edf-a31b-6e498ddaf76e/public_url
 Tableau Public | https://public.tableau.com/app/profile/dai.phuong.ngo
 HackerRank | https://www.hackerrank.com/phuong_ngo5595
 CodeSignal | https://app.codesignal.com/profile/phuong_n_brd
