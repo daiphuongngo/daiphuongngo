@@ -1,6 +1,9 @@
 # Hi, I’m Dai-Phuong Ngo (Liam Ngo) 👋 🇨🇦 🍁 👏 
 
-[Email](phuong.ngo5595@gmail.com) | [Linkedin](https://www.linkedin.com/in/daiphuongngo/) | [GitHub](https://github.com/daiphuongngo) | [Microsoft Certified: Power BI Data Analyst Associate](https://www.credly.com/badges/94d81b5a-fb15-4edf-a31b-6e498ddaf76e/public_url) | [Tableau Public](https://public.tableau.com/app/profile/dai.phuong.ngo) | [HackerRank](https://www.hackerrank.com/phuong_ngo5595) | [CodeSignal](https://app.codesignal.com/profile/phuong_n_brd) | [Alteryx Micro-Credential](https://www.credly.com/badges/e4915f5f-d70d-4b0a-a61d-e7fc4962c0f3/public_url) | [Microsoft Learning](https://docs.microsoft.com/en-us/users/daiphuongngo-3267/achievements)
+
+[Email](phuong.ngo5595@gmail.com) | [Linkedin](https://www.linkedin.com/in/daiphuongngo/) | [GitHub](https://github.com/daiphuongngo) | [Microsoft Certified: Power BI Data Analyst Associate](https://www.credly.com/badges/94d81b5a-fb15-4edf-a31b-6e498ddaf76e/public_url) 
+-----|-----
+[Tableau Public](https://public.tableau.com/app/profile/dai.phuong.ngo) | [HackerRank](https://www.hackerrank.com/phuong_ngo5595) | [CodeSignal](https://app.codesignal.com/profile/phuong_n_brd) | [Alteryx Micro-Credential](https://www.credly.com/badges/e4915f5f-d70d-4b0a-a61d-e7fc4962c0f3/public_url) | [Microsoft Learning](https://docs.microsoft.com/en-us/users/daiphuongngo-3267/achievements)
 
 "Don't let what you think you can’t do interfere with what you can do."
 
