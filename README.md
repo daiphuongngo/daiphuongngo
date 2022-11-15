@@ -7,7 +7,7 @@ Contact | BI & ETL | Hackathon | Datathon | E-Learning
 [Linkedin](https://www.linkedin.com/in/daiphuongngo/) | [Tableau Certified: Desktop Specialist](https://github.com/daiphuongngo/daiphuongngo/blob/main/Dai-Phuong%20Ngo%20(Liam)%20-%20Tableau%20Desktop%20Specialist%20-%20Passed%20Score.pdf)  | [Python Certified Problem Solving Intermediate HackerRank](https://www.hackerrank.com/certificates/b9463ba337a6) | [GitHub](https://github.com/daiphuongngo) | [Tableau Creator](https://www.credly.com/badges/98eb88fd-e169-4e34-aca1-64b7d06a36a0/public_url)
 |  | [Alteryx Certificed: Core Designer](https://www.credly.com/badges/7a6ab86f-9d3d-4cf3-9d0f-62db4ef7424b/public_url) | R Certified Intermediate HackerRank (soon) | [Tableau Public](https://public.tableau.com/app/profile/dai.phuong.ngo) | [Alteryx 9-Comet](https://community.alteryx.com/t5/user/viewprofilepage/user-id/288253)
 | | [Alteryx Certificed: Foundational Micro-Credential](https://www.credly.com/badges/e4915f5f-d70d-4b0a-a61d-e7fc4962c0f3/public_url) | [HackerRank](https://www.hackerrank.com/phuong_ngo5595) | | [Credly](https://www.credly.com/users/dai-phuong-ngo/badges)
-| | Tableau Data Analyst (soon) | [CodeSignal](https://app.codesignal.com/profile/phuong_n_brd) |  | [Certified White Belt Six Sigma](https://github.com/daiphuongngo/daiphuongngo/blob/main/Six%20Sigma%20White%20Belt%20-%20Dai-Phuong%20Ngo%20(Liam).jpg)
+| | Tableau Data Analyst (soon) | [CodeSignal](https://app.codesignal.com/profile/phuong_n_brd) |  | [Six Sigma Certified White Belt](https://github.com/daiphuongngo/daiphuongngo/blob/main/Six%20Sigma%20White%20Belt%20-%20Dai-Phuong%20Ngo%20(Liam).jpg)
 
 "Don't let what you think you can’t do interfere with what you can do."
 
