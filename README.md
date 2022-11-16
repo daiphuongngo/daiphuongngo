@@ -27,11 +27,12 @@ Contact | BI & ETL | Hackathon | Datathon | E-Learning
 - Developed daily, weekly, monthly reports using `DAX, MDX` queries with new KPIs, features to increase productivity by 70%
 - Identified trends, and patterns, measured stakeholders’ compliance for the operations & customer success 
 
-`Aug-Dec 2021` - `Data Analytics Intern` (remote, part-time evening) - Center of Talent in AI (CoTAI) - remotely from Toronto, Ontario, Canada
+`Aug-Dec 2021` - `Data Engineering & Analytics Intern` (remote, part-time evening) - Center of Talent in AI (CoTAI) - remotely from Toronto, Ontario, Canada
 
-- Developed `Python & SQLAlchemy` to retrieve big data (greater than 4 million rows) generated from Conversational AI’s APIs
-- Minimized by 10 hours per function load, enhanced database structure in SQL, conducted EDA in Python for [Sentiment Analysis](https://github.com/daiphuongngo/Sentiment-Analysis-Python-SQL-Tableau)
-- Constructed on `Tableau` charts & metrics to analyze key features, top objects to manage faster by 80% of procedure speed
+- Developed Data Engineering pipeline & database structure in `Python, SQLAlchemy, SQL` to retrieve, preprocess big data (greater than 4 million rows), & generate it from API faster by 10h per load, & function loops in Python for [Sentiment Analysis](https://github.com/daiphuongngo/Sentiment-Analysis-Python-SQL-Tableau)
+- Built 90% new Tableau charts & metrics to discover driven factors & intentions, minimize complaints, & negative feedback
+- Compiled Machine & Deep Learning classifiers tackling imbalanced datasets to detect fraud for [Banking’s Marketing Targets](https://github.com/daiphuongngo/Banking-Dataset-Imbalanced-Learn-Comparison)
+
 
 ## Projects:
 
