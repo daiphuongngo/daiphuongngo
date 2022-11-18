@@ -27,7 +27,7 @@ Contact | BI & ETL | Hackathon | Datathon | E-Learning
 - Identified & reported trends, & patterns, measured stakeholders’ compliance, early, late, and on-time completeness for the operations & customer success to increase productivity by 70% for users to reuse, update, & interact on `Power BI Service App`
 
 
-`Aug-Dec 2021` - `Data Engineering & Analytics Intern` (remote) - Center of Talent in AI (CoTAI) - Toronto, Ontario, Canada
+`Aug-Dec 2021` - `Data Engineering & Analytics Intern` (remote) - Center of Talent in AI (CoTAI) - Toronto, Ontario, Canada 🍁🇨🇦 
 
 - Brainstormed with AI Scientist & developed Data Engineering pipeline & database structure in `Python, SQLAlchemy, SQL` to retrieve, preprocess big data in million rows, & generate it from API faster by 10h per load, & function loops in Python for [Sentiment Analysis](https://github.com/daiphuongngo/Sentiment-Analysis-Python-SQL-Tableau)
 - Built 90% new Tableau charts & metrics to discover driven factors & intentions, minimize complaints, & negative feedback
