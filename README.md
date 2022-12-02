@@ -83,14 +83,12 @@ Project Management ✅ | Boeing Aviation Case Report of Sales and Supply Boost
 
 Criteria | Details
 --------|------------
-Programming | **Python** (Pandas, Numpy, Matplotlib, Keras, Tensorflow, SkLearn), **SQL**, **T-SQL**, **Java**, Cypher,  R,  Scala, API, SAS Studio, Shell, UNIX, Ubuntu
-ETL / ELT | **Alteryx (Micro-Credential) **, **Tableau Prep**, **Power BI Query Editor**, SAS Enterprise Miner, SPSS Modeler
-Database | Azure (Data Studio & Machine Learning Studio), MySQL, Neo4j, Microsoft SQL Server, Design (ERD, Normalization, ORM)
-Big Data| Azure (Apache Spark, Databricks, Synapse), Hadoop (Hive, Zeppelin, NoSQL, Pig, Sqoop, HBase), Neo4j
-Visualization | **Tableau**, **Power BI**, Qlik, Cognos, Excel, SPSS
+Programming	| [Certified SQL](https://www.hackerrank.com/certificates/e1435c1487c7), [Python](https://www.hackerrank.com/certificates/b9463ba337a6) (Pandas, Numpy, Matplotlib, Keras, SkLearn), T-SQL, PL/pgSQL, Java, Scala, R, HTML
+Viz & ETL	| [Certified Power BI](https://www.credly.com/badges/94d81b5a-fb15-4edf-a31b-6e498ddaf76e/public_url), [Tableau Desktop](https://www.credly.com/badges/e273971c-ae48-4fc3-9b5d-2191f5ef2db0/public_url), [Alteryx Advanced Designer](https://www.credly.com/badges/1dc1ca90-0e57-4b96-8561-637c2bd1558b/public_url), [Alteryx Machine Learning Fundamentals](https://www.credly.com/badges/af9d92fe-1e6e-4107-8411-df8a712936c3/public_url), Tableau Prep, SPSS (Modeler, Stats), SAS (Studio, Enterprise Miner), Cognos, Qlik
+Big Data | MySQL, Azure (Data & ML Studios), SQL Server, PostgreSQL, Hadoop (Hive, Zeppelin, Spark), Neo4j
 Collaboration wiki | Atlassian Confluence, Jira, Trello
-Languages | **English** 🇺🇲 (fluent), **Vietnamese** (native), **French** 🇨🇦🇨🇵 (basic), **German** 🇩🇪 (basic) 
-Others | Communication, Teamwork, Presentation, Negotiation, Sales, Data Storytelling, Consulting, Excel Solver
+Languages | **English** 🇺🇲 (fluent), **Vietnamese** (native), **French** 🇨🇦🇨🇵 (basic overall, intermediate reading), **German** 🇩🇪 (basic overall, intermediate reading) 
+Others | [Certified Six Sigma White Belt](https://github.com/daiphuongngo/daiphuongngo/blob/main/Six%20Sigma%20White%20Belt%20-%20Dai-Phuong%20Ngo%20(Liam).jpg), Excel (Solver), Confluence, Jira, Trello, Machine & Deep Learning, Teamwork, Statistics, Sales, Accounting, Finance, Project Management, Hospitality, Presentation, Communication
 
 ## Other Certificates:
 
