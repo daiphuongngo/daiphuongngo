@@ -92,13 +92,12 @@ Collaboration wiki | Atlassian Confluence, Jira, Trello
 Languages | **English** 🇺🇲 (fluent), **Vietnamese** (native), **French** 🇨🇦🇨🇵 (basic), **German** 🇩🇪 (basic) 
 Others | Communication, Teamwork, Presentation, Negotiation, Sales, Data Storytelling, Consulting, Excel Solver
 
-## Certificates:
+## Other Certificates:
 
 Earned 🏅 | Details
 --------|------------
-IBM Data Analytics | **Python, SQL, Excel**
-Alteryx | **Micro Credential**
-HackerRank | **SQL (Advanced, Intermediate, Basic) & Problem Solving (Intermediate, Basic) & Python, Java (Basic)**
+Center of Talent in AI | Python, Machine Learning, Deep Learning, AI, Reinforcement Learning
+Nordic Coder | Python, Tableau
 DataCamp | **SQL Intermediate**
 Microsoft Office Specialist | **Word, Excel, Powerpoint**
 Udemy | **Power BI for Business Intelligence**
