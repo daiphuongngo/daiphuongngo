@@ -14,6 +14,8 @@ Contact | BI | ETL | ML | Hackathon | Datathon | E- Learning
 
 ## Education & Experience:
 
+`Jan 2023 - now` - `Junior Alteryx Admin` - Billennium IT Inc for Roche (Swiss pharma)  - Toronto, Ontario, Canada 🍁🇨🇦 
+
 `Jan 2021 - Aug 2022` - `Business Insights & Analytics Post-Graduate Program` - Humber College  - Toronto, Ontario, Canada 🍁🇨🇦 
 
 `Jan 2021 - now` - `Data Science Intern` (remote) - Cohost AI - Toronto, Ontario, Canada
