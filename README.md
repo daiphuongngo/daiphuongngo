@@ -16,6 +16,11 @@ Contact | BI | ETL | Data Analysis / ML | Hackathon | Datathon | E- Learning
 
 `Jan 2023 - now` - `Junior Alteryx Admin`, AWS Cloud Ops Data Migration - [Billennium IT Inc](https://billennium.com/) for [Roche](https://www.roche.com/) (Swiss BioTech), Data Engineering - Integration, Data Services & Insights Foundational Domain  - Toronto, Ontario, Canada 🍁🇨🇦 
 
+- Translate business needs to technical requirements & synthesize insights, solutions through ServiceNow to technical & non-technical global Roche stakeholders while researching new tools & technologies in business intelligence & ETL areas
+- Perform maintenance, upgrade, backup, installation of Designer workflows from Roche on Alteryx Server, MongoDB, AWS
+- Develop batch scripting, Rest API in Python, R with complex, efficient SQL queries & extract insights from Tableau reports
+- [Alteryx User ID 288253](https://community.alteryx.com/t5/user/viewprofilepage/user-id/288253): working towards Alteryx Designer Expert Exam and participating in multiple weekly challenges
+
 `Jan 2021 - Aug 2022` - `Business Insights & Analytics Post-Graduate Program` - Humber College  - Toronto, Ontario, Canada 🍁🇨🇦 
 
 `Jan 2021 - now` - `Data Science Intern` (remote) - Cohost AI - Toronto, Ontario, Canada
