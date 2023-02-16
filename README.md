@@ -23,19 +23,19 @@ Contact | BI | ETL | Data Analysis / ML | Hackathon | Datathon | E- Learning
 
 `Jan 2021 - Aug 2022` - `Business Insights & Analytics Post-Graduate Program` - Humber College  - Toronto, Ontario, Canada 🍁🇨🇦 
 
-`Jan 2021 - now` - `Data Science Intern` (remote) - Cohost AI - Toronto, Ontario, Canada
+`Jan 2021 - now` - `Data Science Intern` (remote) - Cohost AI (founded in San Francisco, USA, based in Ha Noi, Viet Nam) - Toronto, Ontario, Canada 🍁🇨🇦 
 
 - Completed 2 projects using `Python, SQL, Power BI` to research hidden patterns, trends, insights for travel agencies & refactor the code base by developing functions, discussing with stakeholders for each topic to optimize reuse & navigation by 90% 
 - Validated 95% of new metrics: Inventory, Room Night & Sold, Average Daily, Occupancy, RevPAR specialized on each topic for pricing recommendations, & growing seasonal sales, analysis of sources, properties, booking behavior, stay period & length 
 
 
-`Jan'22 - Apr 2022` - `Data Analyst Intern` - iRestify Inc. - Toronto, Ontario, Canada 🍁🇨🇦 
+`Jan'22 - Apr 2022` - `Data Analyst Intern` - iRestify Inc. (based in Toronto, Canada) - Toronto, Ontario, Canada 🍁🇨🇦 
 
 - Supported cross-departmental projects by `Power BI` to analyze insights, & performance from customer surveys & end-user discussion with customized charts, tables, reports using `DAX, MDX` queries with engineered KPIs, ratios, & conditional features 
 - Identified & reported trends, & patterns, measured stakeholders’ compliance, early, late, and on-time completeness for the operations & customer success to increase productivity by 70% for users to reuse, update, & interact on `Power BI Service App`
 
 
-`Aug-Dec 2021` - `Data Engineering & Analytics Intern` (remote) - Center of Talent in AI (CoTAI) - Toronto, Ontario, Canada 🍁🇨🇦 
+`Aug-Dec 2021` - `Data Engineering & Analytics Intern` (remote) - Center of Talent in AI (CoTAI, based in Ho Chi Minh City, Viet Nam) - Toronto, Ontario, Canada 🍁🇨🇦 
 
 - Brainstormed with AI Scientist & developed Data Engineering pipeline & database structure in `Python, SQLAlchemy, SQL` to retrieve, preprocess big data in million rows, & generate it from API faster by 10h per load, & function loops in Python for [Sentiment Analysis](https://github.com/daiphuongngo/Sentiment-Analysis-Python-SQL-Tableau)
 - Built 90% new Tableau charts & metrics to discover driven factors & intentions, minimize complaints, & negative feedback
