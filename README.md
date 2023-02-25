@@ -88,19 +88,20 @@ Project Management ✅ | Boeing Aviation Case Report of Sales and Supply Boost
 
 Criteria | Details
 --------|------------
-Programming	| [Certified SQL](https://www.hackerrank.com/certificates/e1435c1487c7), [Python](https://www.hackerrank.com/certificates/b9463ba337a6) (Pandas, Numpy, Matplotlib, Keras, SkLearn), T-SQL, PL/pgSQL, Java, Scala, R, HTML
-Viz & ETL	| [Certified Power BI](https://www.credly.com/badges/94d81b5a-fb15-4edf-a31b-6e498ddaf76e/public_url), [Tableau Desktop](https://www.credly.com/badges/e273971c-ae48-4fc3-9b5d-2191f5ef2db0/public_url), [Alteryx Advanced Designer](https://www.credly.com/badges/1dc1ca90-0e57-4b96-8561-637c2bd1558b/public_url), [Alteryx Machine Learning Fundamentals](https://www.credly.com/badges/af9d92fe-1e6e-4107-8411-df8a712936c3/public_url), Tableau Prep, SPSS (Modeler, Stats), SAS (Studio, Enterprise Miner), Cognos, Qlik
-Big Data | MySQL, Azure (Data & ML Studios), SQL Server, PostgreSQL, Hadoop (Hive, Zeppelin, Spark), Neo4j
+Programming	| [Certified SQL](https://www.hackerrank.com/certificates/e1435c1487c7), [Python](https://www.hackerrank.com/certificates/b9463ba337a6) (Pandas, Numpy, Matplotlib, Keras, SkLearn), Tensorflow Developer (in progress), T-SQL, PL/pgSQL, Java, Scala, R, HTML
+Viz & ETL	| [Certified Power BI](https://www.credly.com/badges/94d81b5a-fb15-4edf-a31b-6e498ddaf76e/public_url), [Tableau Desktop](https://www.credly.com/badges/e273971c-ae48-4fc3-9b5d-2191f5ef2db0/public_url), [Alteryx Advanced Designer](https://www.credly.com/badges/1dc1ca90-0e57-4b96-8561-637c2bd1558b/public_url), [Alteryx Designer Cloud Advanced](https://community.alteryx.com/t5/user/viewprofilepage/user-id/288253), [Alteryx Machine Learning Fundamentals](https://www.credly.com/badges/af9d92fe-1e6e-4107-8411-df8a712936c3/public_url), Tableau Prep, SPSS (Modeler, Statistics), SAS (Studio, Enterprise Miner), Cognos, Qlik
+Big Data | [Certified Azure Data Fundamentals](https://www.credly.com/badges/8ac05b83-b541-4f18-9758-710037e24fc6/public_url), [Azure AI Fundamentals](https://www.credly.com/badges/9daa319c-7aa3-4fd4-ad63-a06457014bd9/public_url), [Alteryx Server Administration](https://www.credly.com/badges/38b6970d-5cee-48d0-aad0-0df1e8efe83e/public_url), [Databricks Accredited Lakehouse Fundamentals](https://images.credential.net/embed/h1r895cp.png), AWS (ML & Data Analytics), Azure (ML, Synapse), MySQL, MongoDB, MS SQL, Oracle, PostgreSQL, Hadoop (Hive, Zeppelin), Neo4j, Splunk
 Collaboration wiki | Atlassian Confluence, Jira, Trello
 Languages | **English** 🇺🇲 (fluent), **Vietnamese** (native), **French** 🇨🇦🇨🇵 (basic overall, intermediate reading), **German** 🇩🇪 (basic overall, intermediate reading) 
-Others | [Certified Six Sigma White Belt](https://github.com/daiphuongngo/daiphuongngo/blob/main/Six%20Sigma%20White%20Belt%20-%20Dai-Phuong%20Ngo%20(Liam).jpg), Excel (Solver), Confluence, Jira, Trello, Machine & Deep Learning, Teamwork, Statistics, Sales, Accounting, Finance, Project Management, Hospitality, Presentation, Communication
+Others | [Certified Six Sigma White Belt](https://github.com/daiphuongngo/daiphuongngo/blob/main/Six%20Sigma%20White%20Belt%20-%20Dai-Phuong%20Ngo%20(Liam).jpg), Excel (Solver, GoalSeek, Macros), GDPR, ServiceNow, Confluence, Jira, Trello, Machine & Deep Learning, AI, Teamwork, Statistics, Probability, Sales, Accounting, Finance, Project Management, Hospitality, Presentation, Communication, Marketing
 
 ## Other Certificates:
 
 Earned 🏅 | Details
 --------|------------
-Center of Talent in AI | Python, Machine Learning, Deep Learning, AI, Reinforcement Learning
-Nordic Coder | Python, Tableau
+[ProtonX](https://protonx.ai/en/en-home/) | Tensorflow Developer (Statistics, Probability, Algebra, Machine Learning, Deep Learning, AI)
+[Center of Talent in AI](https://www.cot.ai/) | Python, Machine Learning, Deep Learning, AI, Reinforcement Learning
+[Nordic Coder](https://nordiccoder.com/) | Python, Tableau
 DataCamp | **SQL Intermediate**
 Microsoft Office Specialist | **Word, Excel, Powerpoint**
 Udemy | **Power BI for Business Intelligence**
