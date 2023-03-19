@@ -26,7 +26,7 @@ Contact | BI | ETL | Data Analysis / ML | Hackathon | Datathon | E- Learning
 
 `Jan 2021 - now` - `Data Science Intern` (remote) - Cohost AI (founded in San Francisco, USA, based in Ha Noi, Viet Nam) - Toronto, Ontario, Canada 🍁🇨🇦 
 
-- Completed 2 projects using `Python, SQL, Power BI` to research hidden patterns, trends, insights for travel agencies & refactor the code base by developing functions, discussing with stakeholders for each topic to optimize reuse & navigation by 90% 
+- Completed 2 projects using `Python, SQL, Power BI, Alteryx, Excel` to research hidden patterns, trends, insights for travel agencies & refactor the code base by developing functions, discussing with stakeholders for each topic to optimize reuse & navigation by 90% 
 - Validated 95% of new metrics: Inventory, Room Night & Sold, Average Daily, Occupancy, RevPAR specialized on each topic for pricing recommendations, & growing seasonal sales, analysis of sources, properties, booking behavior, stay period & length 
 
 
