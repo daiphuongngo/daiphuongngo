@@ -15,7 +15,10 @@ Contact | BI | ETL | Data Analysis / ML | Hackathon | Datathon | E- Learning
 
 ## Education & Experience:
 
-`Jan 2023 - now` - `Junior Alteryx Admin`, AWS Cloud Ops Data Migration - [Billennium IT Inc](https://billennium.com/) for [Roche](https://www.roche.com/) (Swiss BioTech), Data Engineering - Integration, Data Services & Insights Foundational Domain  - Toronto, Ontario, Canada 🍁🇨🇦 
+`Apr 2024 - now` - `Analyst, Business Insights`, Accounting, Tax & Finance - [Hudson's Bay Company](https://www.hbc.com/) - Toronto, Ontario, Canada 🍁🇨🇦
+- Skills: Alteryx, Dataiku, Power BI, Tableau, SQL, Python, Machine Learning
+
+`Jan 2023 - Apr 2024` - `Alteryx Administrator`, AWS Cloud Ops Data Migration - [Billennium IT Inc](https://billennium.com/) for [Roche](https://www.roche.com/) (Swiss BioTech), Data Engineering - Integration, Data Services & Insights Foundational Domain  - Toronto, Ontario, Canada 🍁🇨🇦 
 
 - Translate business needs to technical requirements & synthesize insights, solutions through ServiceNow to technical & non-technical global Roche stakeholders while researching new tools & technologies in business intelligence & ETL areas
 - Perform maintenance, upgrade, backup, installation of Designer workflows from Roche on Alteryx Server, MongoDB, AWS
