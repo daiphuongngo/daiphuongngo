@@ -15,6 +15,13 @@ Contact | BI | ETL | Cloud / ML | Hackathon | Server / Automation | E- Learning
 ## Education & Experience:
 
 `Apr 2024 - now` - `Analyst, Business Insights`, Accounting, Tax & Finance - [Hudson's Bay Company](https://www.hbc.com/) - Toronto, Ontario, Canada 🍁🇨🇦
+- Responsible for initiatives, applications and realizations of technologies and languages for multiple US & Canada teams: Indirect Tax, Corporate Tax, Accounting, Operations Logistics, and management of involved member & development, testing and production phases
+- Develop, upgrade, scale up Alteryx workflows to enable automation on complex reporting processes from manual 2-5 working days to 15-30 minutes of running/processing time (in average)
+- Preprocess data in Alteryx, integrate with visualization tool, build up Tableau dashboards to visualize audit of US & Canada business entities' Reconciliation summaries based on locations and states/provinces across multiple dimensions, tax categories
+- Enhance, modify workflows which checking and refactoring codes, configurations, functions, abnormalities to audit and optimize Alteryx performance, Oracle & Snowflake SQL analytical queries and Python codes on monthly basis for different projects: Account Payable Tax Recovery, Provincial Tax Rate Adjustment, Courier's Freight Fee and Tax Reconciliation, Business Unit Tax Computation, Cost Below Sales Analysis, Cash Forecast, Tax Returns, Corporate Tax Provision, Card-Related Loyalty Recoveries, Vendors' Tax Code Compliance, State-wise Tax Validation, etc
+- Integrate, combine Alteryx nodes with Python's (Extract-Transform-Load) ETL, Machine Learning, Natural Language Processing (NLP) using multiple libraries, models, techniques, decision tree diagrams on multi-classifying US & Canada SKU Tax Codes, Use Tax Rates at SKU, POS, product, category, invoice levels
+- Accomplish, perform automatable Alteryx processes to replicate human's traditional accounting tasks, automatically generate sophisticated reports and deliver insights & stories while exchanging discussions with stakeholders across departments, teams and borders
+- Cooperate with IT Teams to access and enable Robotic Processing Automation (RPA) flows using UiPath powered by AI Assistant and business intelligence dashboards for Tax-related activities
 - Skills: Alteryx, Dataiku, Power BI, Tableau, SQL, Python, Machine Learning
 
 `Jan 2023 - Apr 2024` - `Alteryx Administrator`, AWS Cloud Ops Data Migration - [Billennium IT Inc](https://billennium.com/) for [Roche](https://www.roche.com/) (Swiss BioTech), Data Engineering - Integration, Data Services & Insights Foundational Domain  - Toronto, Ontario, Canada 🍁🇨🇦 
