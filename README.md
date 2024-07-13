@@ -14,7 +14,7 @@ Contact | BI | ETL | Cloud / ML | Hackathon | Server / Automation | E- Learning
 
 ## Education & Experience:
 
-`Apr 2024 - now` - `Analyst, Business Insights`, Accounting, Tax & Finance - [Hudson's Bay Company](https://www.hbc.com/) - Toronto, Ontario, Canada 🍁🇨🇦
+`Apr 2024 - now` - `Analyst, Business Insights`, Accounting, Tax & Finance - [Hudson's Bay Company](https://www.hbc.com/) - Toronto, Ontario, Canada 🍁🇨🇦 🇺🇸
 - Responsible for initiatives, applications and realizations of technologies and languages for multiple US & Canada teams: Indirect Tax, Corporate Tax, Accounting, Operations Logistics, and management of involved member & development, testing and production phases
 - Develop, upgrade, scale up Alteryx workflows to enable automation on complex reporting processes from manual 2-5 working days to 15-30 minutes of running/processing time (in average)
 - Preprocess data in Alteryx, integrate with visualization tool, build up Tableau dashboards to visualize audit of US & Canada business entities' Reconciliation summaries based on locations and states/provinces across multiple dimensions, tax categories
@@ -24,7 +24,7 @@ Contact | BI | ETL | Cloud / ML | Hackathon | Server / Automation | E- Learning
 - Cooperate with IT Teams to access and enable Robotic Processing Automation (RPA) flows using UiPath powered by AI Assistant and business intelligence dashboards for Tax-related activities
 - Skills: Alteryx, Dataiku, Power BI, Tableau, SQL, Python, Machine Learning
 
-`Jan 2024 - Aug 2024` - `Master's in Data Science` - [Harvard Univeristy](https://extension.harvard.edu/academics/programs/data-science-graduate-program/) - Cambridge, Massachusetts, USA 
+`Jan 2024 - Aug 2024` - `Master's in Data Science` - [Harvard Univeristy](https://extension.harvard.edu/academics/programs/data-science-graduate-program/) - Cambridge, Massachusetts, USA 🇺🇸
 
 `Jan 2023 - Apr 2024` - `Alteryx Administrator`, AWS Cloud Ops Data Migration - [Billennium IT Inc](https://billennium.com/) for [Roche](https://www.roche.com/) (Swiss BioTech), Data Engineering - Integration, Data Services & Insights Foundational Domain  - Mississauga, Ontario, Canada 🍁🇨🇦 
 
