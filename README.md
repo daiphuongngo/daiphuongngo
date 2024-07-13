@@ -15,14 +15,11 @@ Contact | BI | ETL | Cloud / ML | Hackathon | Server / Automation | E- Learning
 ## Education & Experience:
 
 `Apr 2024 - now` - `Analyst, Business Insights`, Accounting, Tax & Finance - [Hudson's Bay Company](https://www.hbc.com/) - Toronto, Ontario, Canada 🍁🇨🇦 🇺🇸
-- Responsible for initiatives, applications and realizations of technologies and languages for multiple US & Canada teams: Indirect Tax, Corporate Tax, Accounting, Operations Logistics, and management of involved member & development, testing and production phases
-- Develop, upgrade, scale up Alteryx workflows to enable automation on complex reporting processes from manual 2-5 working days to 15-30 minutes of running/processing time (in average)
-- Preprocess data in Alteryx, integrate with visualization tool, build up Tableau dashboards to visualize audit of US & Canada business entities' Reconciliation summaries based on locations and states/provinces across multiple dimensions, tax categories
-- Enhance, modify workflows which checking and refactoring codes, configurations, functions, abnormalities to audit and optimize Alteryx performance, Oracle & Snowflake SQL analytical queries and Python codes on monthly basis for different projects: Account Payable Tax Recovery, Provincial Tax Rate Adjustment, Courier's Freight Fee and Tax Reconciliation, Business Unit Tax Computation, Cost Below Sales Analysis, Cash Forecast, Tax Returns, Corporate Tax Provision, Card-Related Loyalty Recoveries, Vendors' Tax Code Compliance, State-wise Tax Validation, etc
-- Integrate, combine Alteryx nodes with Python's (Extract-Transform-Load) ETL, Machine Learning, Natural Language Processing (NLP) using multiple libraries, models, techniques, decision tree diagrams on multi-classifying US & Canada SKU Tax Codes, Use Tax Rates at SKU, POS, product, category, invoice levels
-- Accomplish, perform automatable Alteryx processes to replicate human's traditional accounting tasks, automatically generate sophisticated reports and deliver insights & stories while exchanging discussions with stakeholders across departments, teams and borders
-- Cooperate with IT Teams to access and enable Robotic Processing Automation (RPA) flows using UiPath powered by AI Assistant and business intelligence dashboards for Tax-related activities
-- Skills: Alteryx, Dataiku, Power BI, Tableau, SQL, Python, Machine Learning
+
+- Oversee, lead initiatives in analytical automation, machine learning (ML), deep learning (DL), natural language processing (NLP), computer vision, and ETL solutions for US and Canadian Indirect Tax, Corporate Tax, Accounting teams 
+- Develop & enhance Alteryx workflows to automate reporting, accounting tasks, generate reports, facilitate insights 
+- Utilize Snowflake SQL, Alteryx, Python to preprocess & leverage data, integrating it with Tableau, Power BI for auditing 
+- Develop Python's ML multiclass classification, NLP: text classification, tax categories classification, & Computer Vision: object detection & extraction to classify SKU Tax Codes, analyze Use Tax Rates, and perform Image Understanding, Text Analysis, ...
 
 `Jan 2024 - Aug 2024` - `Master's in Data Science` - [Harvard Univeristy](https://extension.harvard.edu/academics/programs/data-science-graduate-program/) - Cambridge, Massachusetts, USA 🇺🇸
 
@@ -31,7 +28,6 @@ Contact | BI | ETL | Cloud / ML | Hackathon | Server / Automation | E- Learning
 - Translate business needs to technical requirements & synthesize insights, solutions through ServiceNow to technical & non-technical global Roche stakeholders while researching new tools & technologies in business intelligence & ETL areas
 - Perform maintenance, upgrade, backup, installation of Designer workflows from Roche on Alteryx Server, MongoDB, AWS
 - Develop batch scripting, Rest API in Python, R with complex, efficient SQL queries & extract insights from Tableau reports
-- [Alteryx User ID 288253](https://community.alteryx.com/t5/user/viewprofilepage/user-id/288253): working towards Alteryx Designer Expert Exam and participating in multiple weekly challenges
 
 `Jan 2021 - Aug 2022` - `Business Insights & Analytics Post-Graduate Program` - Humber College  - Toronto, Ontario, Canada 🍁🇨🇦 
 
