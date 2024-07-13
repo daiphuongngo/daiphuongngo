@@ -24,7 +24,9 @@ Contact | BI | ETL | Cloud / ML | Hackathon | Server / Automation | E- Learning
 - Cooperate with IT Teams to access and enable Robotic Processing Automation (RPA) flows using UiPath powered by AI Assistant and business intelligence dashboards for Tax-related activities
 - Skills: Alteryx, Dataiku, Power BI, Tableau, SQL, Python, Machine Learning
 
-`Jan 2023 - Apr 2024` - `Alteryx Administrator`, AWS Cloud Ops Data Migration - [Billennium IT Inc](https://billennium.com/) for [Roche](https://www.roche.com/) (Swiss BioTech), Data Engineering - Integration, Data Services & Insights Foundational Domain  - Toronto, Ontario, Canada 🍁🇨🇦 
+`Jan 2024 - Aug 2024` - `Master's in Data Science` - [Harvard Univeristy](https://extension.harvard.edu/academics/programs/data-science-graduate-program/) - Cambridge, Massachusetts, USA 
+
+`Jan 2023 - Apr 2024` - `Alteryx Administrator`, AWS Cloud Ops Data Migration - [Billennium IT Inc](https://billennium.com/) for [Roche](https://www.roche.com/) (Swiss BioTech), Data Engineering - Integration, Data Services & Insights Foundational Domain  - Mississauga, Ontario, Canada 🍁🇨🇦 
 
 - Translate business needs to technical requirements & synthesize insights, solutions through ServiceNow to technical & non-technical global Roche stakeholders while researching new tools & technologies in business intelligence & ETL areas
 - Perform maintenance, upgrade, backup, installation of Designer workflows from Roche on Alteryx Server, MongoDB, AWS
@@ -33,7 +35,7 @@ Contact | BI | ETL | Cloud / ML | Hackathon | Server / Automation | E- Learning
 
 `Jan 2021 - Aug 2022` - `Business Insights & Analytics Post-Graduate Program` - Humber College  - Toronto, Ontario, Canada 🍁🇨🇦 
 
-`Jan 2021 - now` - `Data Science Intern` (remote) - Cohost AI (founded in San Francisco, USA, based in Ha Noi, Viet Nam) - Toronto, Ontario, Canada 🍁🇨🇦 
+`May 2022 - Aug 2022` - `Data Science Intern` (remote) - Cohost AI (founded in San Francisco, USA, based in Ha Noi, Viet Nam) - Toronto, Ontario, Canada 🍁🇨🇦 
 
 - Completed 2 projects using `Python, SQL, Power BI, Alteryx, Excel` to research hidden patterns, trends, insights for travel agencies & refactor the code base by developing functions, discussing with stakeholders for each topic to optimize reuse & navigation by 90% 
 - Validated 95% of new metrics: Inventory, Room Night & Sold, Average Daily, Occupancy, RevPAR specialized on each topic for pricing recommendations, & growing seasonal sales, analysis of sources, properties, booking behavior, stay period & length 
