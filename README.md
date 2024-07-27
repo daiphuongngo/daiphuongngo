@@ -21,7 +21,7 @@ Contact | BI | ETL | Cloud / ML | Hackathon | Server / Automation | E- Learning
 - Utilize Snowflake SQL, Alteryx, Python to preprocess & leverage data, integrating it with Tableau, Power BI for auditing 
 - Develop Python's ML multiclass classification, NLP: text classification, tax categories classification, & Computer Vision: object detection & extraction to classify SKU Tax Codes, analyze Use Tax Rates, and perform Image Understanding, Text Analysis, ...
 
-`Jan 2024 - Aug 2024` - `Master's in Data Science` - [Harvard Univeristy](https://extension.harvard.edu/academics/programs/data-science-graduate-program/) - Cambridge, Massachusetts, USA 🇺🇸
+`Jan 2024 - Aug 2024` - `Master of Liberal Arts (ALM), Extension Studies, Harvard University, Applicant` - [Harvard Extension School, Harvard University](https://extension.harvard.edu/academics/programs/data-science-graduate-program/) - Cambridge, Massachusetts, USA 🇺🇸
 
 `Jan 2023 - Apr 2024` - `Alteryx Administrator`, AWS Cloud Ops Data Migration - [Billennium IT Inc](https://billennium.com/) for [Roche](https://www.roche.com/) (Swiss BioTech), Data Engineering - Integration, Data Services & Insights Foundational Domain  - Mississauga, Ontario, Canada 🍁🇨🇦 
 
