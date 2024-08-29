@@ -16,38 +16,39 @@ Contact | BI | ETL | Cloud / ML | Hackathon | Server / Automation | E- Learning
 
 `Apr 2024 - now` - `Analyst, Business Insights`, Accounting, Tax & Finance - [Hudson's Bay Company](https://www.hbc.com/) - Toronto, Ontario, Canada 🍁🇨🇦 🇺🇸
 
-- Oversee, lead initiatives in analytical automation, machine learning (ML), deep learning (DL), natural language processing (NLP), computer vision, and ETL solutions for US and Canadian Indirect Tax, Corporate Tax, Accounting teams 
-- Develop & enhance Alteryx workflows to automate reporting, accounting tasks, generate reports, facilitate insights 
-- Utilize Snowflake SQL, Alteryx, Python to preprocess & leverage data, integrating it with Tableau, Power BI for auditing 
-- Develop Python's ML multiclass classification, NLP: text classification, tax categories classification, & Computer Vision: object detection & extraction to classify SKU Tax Codes, analyze Use Tax Rates, and perform Image Understanding, Text Analysis, ...
+- BI Solution Development: Led & coordinated monthly projects with Data Engineer and Architect to reduce processing time by 70-95% through Alteryx, Python, Power BI, saving costs at US$20,000/activity, previously managed by consulting firms.
+- Revenue Optimization: Increased tax recovery chance by 10-30% of presumed yearly recoverable tax at CA$1 million and improved tax compliance by 10-40% per month using data-driven strategies with diagnostic modeling and forecasting.
+- Cross-Platform Integration: Integrated Sales Audit, Online Management, Credit Sales Ledger, Tax Systems, Snowflake, Oracle, Vertex data into a deployable Snowflake Tax Data Hub with Alteryx, Python, Tableau, Power BI, and SQL, enhancing revenue & tax reporting accuracy by 5-30% and increasing tax recovery chance for retail sales and order return data monthly by 2-8%.
+- Advanced Resolutions: Applied multi-layer predictive modeling to guide risk mitigation strategies with AI, achieving 80-95% precision in categorical text analysis and extraction, while increasing Tableau, Power BI viewer engagement by 10-25%.
 
-`Jan 2024 - Aug 2024` - `Master of Liberal Arts (ALM), Extension Studies, Harvard University, Applicant` - [Harvard Extension School, Harvard University](https://extension.harvard.edu/academics/programs/data-science-graduate-program/) - Cambridge, Massachusetts, USA 🇺🇸
+`Jan 2024 - Dec 2027` - `Master of Liberal Arts (ALM), Extension Studies, Harvard University, Admitted Candidate` - [Harvard Extension School, Harvard University](https://extension.harvard.edu/academics/programs/data-science-graduate-program/) (online part-time) - Cambridge, Massachusetts, USA 🇺🇸
 
 `Jan 2023 - Apr 2024` - `Alteryx Administrator`, AWS Cloud Ops Data Migration - [Billennium IT Inc](https://billennium.com/) for [Roche](https://www.roche.com/) (Swiss BioTech), Data Engineering - Integration, Data Services & Insights Foundational Domain  - Mississauga, Ontario, Canada 🍁🇨🇦 
 
-- Translate business needs to technical requirements & synthesize insights, solutions through ServiceNow to technical & non-technical global Roche stakeholders while researching new tools & technologies in business intelligence & ETL areas
-- Perform maintenance, upgrade, backup, installation of Designer workflows from Roche on Alteryx Server, MongoDB, AWS
-- Develop batch scripting, Rest API in Python, R with complex, efficient SQL queries & extract insights from Tableau reports
+- Data Systems Management: Monitored, managed North American and European users' access with workflow hubs, data storages, Alteryx usage while documenting users' activities to ensure compliance with global Roche data protection standards.
+- Technical Solutions: Maintained and upgraded Alteryx servers to optimize performance and ensure data accuracy across the organization, collaborating with stakeholders across North America and Europe.
 
 `Jan 2021 - Aug 2022` - `Business Insights & Analytics Post-Graduate Program` - Humber College  - Toronto, Ontario, Canada 🍁🇨🇦 
 
 `May 2022 - Aug 2022` - `Data Science Intern` (remote) - Cohost AI (founded in San Francisco, USA, based in Ha Noi, Viet Nam) - Toronto, Ontario, Canada 🍁🇨🇦 
 
-- Completed 2 projects using `Python, SQL, Power BI, Alteryx, Excel` to research hidden patterns, trends, insights for travel agencies & refactor the code base by developing functions, discussing with stakeholders for each topic to optimize reuse & navigation by 90% 
-- Validated 95% of new metrics: Inventory, Room Night & Sold, Average Daily, Occupancy, RevPAR specialized on each topic for pricing recommendations, & growing seasonal sales, analysis of sources, properties, booking behavior, stay period & length 
+- Revenue Forecasting: Delivered 40-60% more accurate forecasts, optimizing revenue management metrics & KPIs in Python.
+- Dashboard Innovation: Developed interactive Power BI dashboards, boosting stakeholder and user engagement by 10-25%.
 
+`Jan'22 - Apr 2022` - `Product Data Analyst Intern` - iRestify Inc. (based in Toronto, Canada) - Toronto, Ontario, Canada 🍁🇨🇦 
 
-`Jan'22 - Apr 2022` - `Data Analyst Intern` - iRestify Inc. (based in Toronto, Canada) - Toronto, Ontario, Canada 🍁🇨🇦 
-
-- Supported cross-departmental projects by `Power BI` to analyze insights, & performance from customer surveys & end-user discussion with customized charts, tables, reports using `DAX, MDX` queries with engineered KPIs, ratios, & conditional features 
-- Identified & reported trends, & patterns, measured stakeholders’ compliance, early, late, and on-time completeness for the operations & customer success to increase productivity by 70% for users to reuse, update, & interact on `Power BI Service App`
+- Revenue Forecasting and Visualization: Developed Power BI dashboards to analyze Geographical Information System (GIS) data for revenue management and commercial KPIs, leading to a 15% increase in user productivity and a 20% improvement in stakeholder compliance, which boosted operational standards and increased customer success rates by 15%.
 
 
 `Aug-Dec 2021` - `Data Engineering & Analytics Intern` (remote) - Center of Talent in AI (CoTAI, based in Ho Chi Minh City, Viet Nam) - Toronto, Ontario, Canada 🍁🇨🇦 
 
-- Brainstormed with AI Scientist & developed Data Engineering pipeline & database structure in `Python, SQLAlchemy, SQL` to retrieve, preprocess big data in million rows, & generate it from API faster by 10h per load, & function loops in Python for [Sentiment Analysis](https://github.com/daiphuongngo/Sentiment-Analysis-Python-SQL-Tableau)
-- Built 90% new Tableau charts & metrics to discover driven factors & intentions, minimize complaints, & negative feedback
+- Data Pipeline Optimization: Streamlined data retrieval processes through the development of efficient data pipelines from South East Asia to North America, supporting [Sentiment Analysis](https://github.com/daiphuongngo/Sentiment-Analysis-Python-SQL-Tableau) initiatives in SQL, Python, Tableau while maintaining the organization’s data security and privacy.
 - Compiled Machine & Deep Learning classifiers tackling imbalanced datasets to detect fraud for [Banking’s Marketing Targets](https://github.com/daiphuongngo/Banking-Dataset-Imbalanced-Learn-Comparison)
+
+`Jun 2017 - Jun 2019` - `Sales Executive & Sales Coordinator` - Sofitel Saigon Plaza - Ho Chi Minh City, Viet Nam
+
+- Revenue Forecasting: Prepared, consolidated financial Excel & Power BI reports to track sales performance and forecast departmental revenue targets, supporting executive decision-making and driving quarterly sales growth by 1-10% per account.
+- Revenue Generation: Managed key accounts, segments, and markets, consistently meeting and exceeding team & personal revenue targets for approximately 16 months, contributing to 65% of sales duration while consulting with the Revenue team on target settings.
 
 ## Projects:
 
