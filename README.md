@@ -14,7 +14,9 @@ Contact | BI | ETL | Cloud / ML | Hackathon | Server / Automation | E- Learning
 
 ## Education & Experience:
 
-`Apr 2024 - now` - `Analyst, Business Insights`, Accounting, Tax & Finance - [Hudson's Bay Company](https://www.hbc.com/) - Toronto, Ontario, Canada 🍁🇨🇦 🇺🇸
+`Oct 2024 - now` - `Finance Transformation Analyst`, Finance & Controlling - [Haventree Bank](https://www.haventreebank.com/en/) - Toronto, Ontario, Canada 🍁🇨🇦 
+
+`Apr 2024 - Oct 2024` - `Analyst, Business Insights`, Accounting, Tax & Finance - [Hudson's Bay Company](https://www.hbc.com/) - Toronto, Ontario, Canada 🍁🇨🇦 🇺🇸
 
 - BI Solution Development: Led & coordinated monthly projects with Data Engineer and Architect to reduce processing time by 70-95% through Alteryx, Python, Power BI, saving costs at US$20,000/activity, previously managed by consulting firms.
 - Revenue Optimization: Increased tax recovery chance by 10-30% of presumed yearly recoverable tax at CA$1 million and improved tax compliance by 10-40% per month using data-driven strategies with diagnostic modeling and forecasting.
