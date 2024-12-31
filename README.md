@@ -16,6 +16,10 @@ Contact | BI | ETL | Cloud / ML | Hackathon | Server / Automation | E- Learning
 
 `Oct 2024 - now` - `Finance Transformation Analyst`, Finance & Controlling - [Haventree Bank](https://www.haventreebank.com/en/) - Toronto, Ontario, Canada 🍁🇨🇦 
 
+- Accounting Transformation Management: Lead, troubleshoot, develop over 20 projects of accountant’s reporting for bank accounts’ reconciliation, ensuring connectivity in streamlining daily transactions of mortgage & funding with Alteryx Server.
+- Reporting Optimization and Automation: Drive up performance by 85-95% by designing new reporting templates integrated with consolidated universal business rules, Visio diagrams, simplified & enhanced Alteryx workflows & logic.
+- Compliance & Governance: Control, govern, train accountant’s compliance with newly established automation rules, engagement, generating Alteryx-automated accounting reports & collecting outliers for further diagnosis & enhancement.
+
 `Apr 2024 - Oct 2024` - `Analyst, Business Insights`, Accounting, Tax & Finance - [Hudson's Bay Company](https://www.hbc.com/) - Toronto, Ontario, Canada 🍁🇨🇦 🇺🇸
 
 - BI Solution Development: Led & coordinated monthly projects with Data Engineer and Architect to reduce processing time by 70-95% through Alteryx, Python, Power BI, saving costs at US$20,000/activity, previously managed by consulting firms.
