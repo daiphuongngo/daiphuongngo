@@ -16,39 +16,44 @@ Contact | BI | ETL | Cloud / ML | Hackathon | Server / Automation | E- Learning
 
 `Oct 2024 - now` - `Finance Transformation Analyst`, Finance & Controlling - [Haventree Bank](https://www.haventreebank.com/en/) - Toronto, Ontario, Canada 🍁🇨🇦 
 
-- Accounting Transformation Management: Lead, troubleshoot, develop over 20 projects of accountant’s reporting for bank accounts’ reconciliation, ensuring connectivity in streamlining daily transactions of mortgage & funding with Alteryx Server.
-- Reporting Optimization and Automation: Drive up performance by 85-95% by designing new reporting templates integrated with consolidated universal business rules, Visio diagrams, simplified & enhanced Alteryx workflows & logic.
-- Compliance & Governance: Control, govern, train accountant’s compliance with newly established automation rules, engagement, generating Alteryx-automated accounting reports & collecting outliers for further diagnosis & enhancement.
+- Data Automation & Workflow Optimization: Designed and deployed Alteryx workflows to automate bank account reconciliation, consolidate mortgage & funding transactions, integrating data from SharePoint, Snowflake, and SQL databases, improving reconciliation accuracy and efficiency by 90% and reducing manual reconciliation efforts by 70%.
+- Collaboration & Governance: Worked closely with accounting, finance teams to define data standards and establish best practices for financial data automation and reconciliation on Alteryx Designer workflows deployed to Alteryx Server.
+- Advanced Analytics & Reporting: Supported risk analytics & credit risk team with logical development in Alteryx, Python, Tableau’s KPIs, codes to transform data, plot geospatial visuals, analyze fire weather climate risk, and translate OSFI metrics.
 
-`Apr 2024 - Oct 2024` - `Analyst, Business Insights`, Accounting, Tax & Finance - [Hudson's Bay Company](https://www.hbc.com/) - Toronto, Ontario, Canada 🍁🇨🇦 🇺🇸
+`Apr 2024 - Oct 2024` - `Analyst, Business Insights`, Accounting, Tax & Finance - [Hudson's Bay Company](https://www.hbc.com/) (HBC: Hudson’s Bay, The Bay, Saks Fifth Avenue, Saks Off Fifth) - Toronto, Ontario, Canada 🍁🇨🇦 🇺🇸
 
-- BI Solution Development: Led & coordinated monthly projects with Data Engineer and Architect to reduce processing time by 70-95% through Alteryx, Python, Power BI, saving costs at US$20,000/activity, previously managed by consulting firms.
-- Revenue Optimization: Increased tax recovery chance by 10-30% of presumed yearly recoverable tax at CA$1 million and improved tax compliance by 10-40% per month using data-driven strategies with diagnostic modeling and forecasting.
-- Cross-Platform Integration: Integrated Sales Audit, Online Management, Credit Sales Ledger, Tax Systems, Snowflake, Oracle, Vertex data into a deployable Snowflake Tax Data Hub with Alteryx, Python, Tableau, Power BI, and SQL, enhancing revenue & tax reporting accuracy by 5-30% and increasing tax recovery chance for retail sales and order return data monthly by 2-8%.
-- Advanced Resolutions: Applied multi-layer predictive modeling to guide risk mitigation strategies with AI, achieving 80-95% precision in categorical text analysis and extraction, while increasing Tableau, Power BI viewer engagement by 10-25%.
+- SQL Pipelines & Data Engineering: Built SQL pipelines and automated Alteryx workflows to streamline financial reporting, reducing manual reconciliation efforts by 70-95%, integrated multiple data sources (Sales Audit, Oracle, Snowflake) to enhance data visibility and reporting accuracy for tax compliance teams.
+- Machine Learning & AI: Implemented ML models, NLP, Computer Vision in Python to classify tax codes in SKU items in both the US & Canada, identify features from PDF invoices, increasing tax compliance and reducing manual efforts by 60%.
+- Data Architecture & Analytics: Cooperated with Data Engineer, Architect to design and develop a Snowflake-based Data Hub to centralize tax data for later reporting and analytics, optimizing ETL workflows and reducing reporting errors by 70%.
+- Data Visualization & Business Intelligence: Designed Tableau, Power BI dashboards with advanced LOD, DAX, MDX measures, improving stakeholder engagement and decision-making insights. 
 
 `Jan 2024 - Dec 2027` - `Master of Liberal Arts (ALM), Extension Studies, Harvard University, Admitted Candidate` - [Harvard Extension School, Harvard University](https://extension.harvard.edu/academics/programs/data-science-graduate-program/) (online part-time) - Cambridge, Massachusetts, USA 🇺🇸
 
 `Jan 2023 - Apr 2024` - `Alteryx Administrator`, AWS Cloud Ops Data Migration - [Billennium IT Inc](https://billennium.com/) for [Roche](https://www.roche.com/) (Swiss BioTech), Data Engineering - Integration, Data Services & Insights Foundational Domain  - Mississauga, Ontario, Canada 🍁🇨🇦 
 
-- Data Systems Management: Monitored, managed North American and European users' access with workflow hubs, data storages, Alteryx usage while documenting users' activities to ensure compliance with global Roche data protection standards.
-- Technical Solutions: Maintained and upgraded Alteryx servers to optimize performance and ensure data accuracy across the organization, collaborating with stakeholders across North America and Europe.
+- Data Governance & Log Analysis: Monitored and analyzed IT log data to track user activities, workflow hubs, and server performance across Roche’s North America & Europe operations.  
+- Automation & Performance Optimization: Collaborated with team leader to develop Alteryx-based automation flows to enhance user’s workflow performance and identify bottlenecks in data processing.  
+- System Monitoring & Security: Evaluated user authentication, server logs, and data access patterns to ensure compliance with Roche’s data protection standards and global security policies.  
+- Alteryx Server Administration: Optimized server configurations, managed workflow execution, and collaborated with IT teams to troubleshoot high-performance computing issues.
 
 `Jan 2021 - Aug 2022` - `Business Insights & Analytics Post-Graduate Program` - Humber College  - Toronto, Ontario, Canada 🍁🇨🇦 
 
 `May 2022 - Aug 2022` - `Data Science Intern` (remote) - Cohost AI (founded in San Francisco, USA, based in Ha Noi, Viet Nam) - Toronto, Ontario, Canada 🍁🇨🇦 
 
-- Revenue Forecasting: Delivered 40-60% more accurate forecasts, optimizing revenue management metrics & KPIs in Python.
-- Dashboard Innovation: Developed interactive Power BI dashboards, boosting stakeholder and user engagement by 10-25%.
+- Data Pipeline Automation: Automated data ingestion from multiple APIs & databases into Python, SQL, enabling real-time financial reporting, improving analytics accuracy with domain expertise by 40-60%.
+- Visualization & Reporting: Created domain-based KPIs to embed with developed interactive Power BI dashboards in advanced DAX to support revenue decision-making, boosting user engagement by 10-25%.  
 
 `Jan'22 - Apr 2022` - `Product Data Analyst Intern` - iRestify Inc. (based in Toronto, Canada) - Toronto, Ontario, Canada 🍁🇨🇦 
 
-- Revenue Forecasting and Visualization: Developed Power BI dashboards to analyze Geographical Information System (GIS) data for revenue management and commercial KPIs, leading to a 15% increase in user productivity and a 20% improvement in stakeholder compliance, which boosted operational standards and increased customer success rates by 15%.
-
+- Geospatial & Business Intelligence Analytics: Built GIS-based Power BI dashboards to analyze revenue performance by location, optimizing territory-based pricing and operations.  
+- Data Cleansing & Feature Engineering: Applied Python & SQL for data wrangling, increasing accuracy by 20% for key KPIs.  
+- Data Automation: Designed workflow automations in Power BI’s DAX and MDX, reducing manual reporting efforts by 30%.
 
 `Aug-Dec 2021` - `Data Engineering & Analytics Intern` (remote) - Center of Talent in AI (CoTAI, based in Ho Chi Minh City, Viet Nam) - Toronto, Ontario, Canada 🍁🇨🇦 
 
-- Data Pipeline Optimization: Streamlined data retrieval processes through the development of efficient data pipelines from South East Asia to North America, supporting [Sentiment Analysis](https://github.com/daiphuongngo/Sentiment-Analysis-Python-SQL-Tableau) initiatives in SQL, Python, Tableau while maintaining the organization’s data security and privacy.
+- - Big Data Engineering: Managed 4M+ data records, optimizing ETL pipelines between Vietnam & North America for [Sentiment Analysis](https://github.com/daiphuongngo/Sentiment-Analysis-Python-SQL-Tableau) & behavior detection.  
+- Sentiment Analysis & Fraud Detection: Developed NLP-based classification models in Python to detect sentiment and reaction from customer feedback on e-commerce platforms.  
+- Visualization & Predictive Insights: Designed Tableau dashboards to track consumer sentiment trends and signals.  
 - Compiled Machine & Deep Learning classifiers tackling imbalanced datasets to detect fraud for [Banking’s Marketing Targets](https://github.com/daiphuongngo/Banking-Dataset-Imbalanced-Learn-Comparison)
 
 `Jun 2017 - Jun 2019` - `Sales Executive & Sales Coordinator` - Sofitel Saigon Plaza - Ho Chi Minh City, Viet Nam
@@ -60,6 +65,10 @@ Contact | BI | ETL | Cloud / ML | Hackathon | Server / Automation | E- Learning
 
 Topic | more projects available on [GitHub](https://github.com/daiphuongngo?tab=repositories) & [Tableau Public](https://public.tableau.com/app/profile/dai.phuong.ngo)
 --------|------------
+- Brain Tumor MRI Image Segmentation & Detection (Computer Vision) | - Designed deep learning pipelines (Keras, Pytorch) for MRI image segmentation, leveraging CNNs, U-Net for high-precision tumor detection.
+- Scalable Cloud-Based NLP for Feedback Analysis | - Built a real-time Natural Language Processing feedback processing platform using Python, PySpark, SQL integrated with AWS Redshift, Glue, GCP BigQuery, identifying customer sentiment trends.
+- Housing Affordability Statistical Inferences | - Applied Bayesian models (pooled, unpooled, hierarchical), Linear Regression, and Maximum Likelihood Estimation (MLE) to analyze key housing affordability indicators and posterior distributions.
+- Hotel Daily Room Rate & Booking Cancellation Prediction | - Implemented XGBoost, Random Forest, and Deep Neural Networks (DNNs) to predict ADR (Average Daily Rate) and booking cancellation probability, and applied logistic regression, hypothesis testing, and ensemble models with increased revenue forecast accuracy using grid search hyperparameter tuning
 [IEEE-CIS Fraud Detection (Capstone, Humber College)](https://github.com/daiphuongngo/IEEE-CIS-Fraud-Detection-Python-Machine-Learning) | - Preprocessed data in `Python`, designed architecture solution, analyzed performance between ML classifiers to determine the best performers on the imbalanced dataset, `Balanced Random Forest` with ROC AUC around 0.9 & `Random Forest` with ROC AUC, Precision around 0.9
 [Safe Roads 2022 Competition - Toronto Police Service](https://github.com/daiphuongngo/Safe-Roads-Competition-2022-SAS-Power-BI-Toronto-Police-Services-Geotab) | - Used `Power BI, Python, Azure Machine Learning` to analyze geospatial datasets, provide interpretation, conduct `A/B testing`, determine factors, recommend on road conditions, awareness, top fatal intersections to enhance traffic safety, prevent fatal accidents, achieve prediction using `Random Forest`’s ROC AUC & Precision around 0.8
 [Sentiment Analysis](https://github.com/daiphuongngo/Sentiment-Analysis-Python-SQL-Tableau) | - Conducted Sentiment Analysis on customer’s comments & analyzed data generated from a system using Natural Language Processing through `API` on Fan Pages’ dialogs of diet products & participated in Data Operations, ETL in `Python`, `SQL` in `MySQL`, `Azure`, Visualization in `Tableau` to determine top customers, top efficient fan pages, most crucial intentions & demand entities, peak effective contact hours, peak periods of confirmations, common complaints
