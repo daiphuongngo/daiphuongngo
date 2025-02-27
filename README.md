@@ -52,9 +52,9 @@ Contact | BI | ETL | Cloud / ML | Hackathon | Server / Automation | E- Learning
 `Aug-Dec 2021` - `Data Engineering & Analytics Intern` (remote) - Center of Talent in AI (CoTAI, based in Ho Chi Minh City, Viet Nam) - Toronto, Ontario, Canada 🍁🇨🇦 
 
 - - Big Data Engineering: Managed 4M+ data records, optimizing ETL pipelines between Vietnam & North America for [Sentiment Analysis](https://github.com/daiphuongngo/Sentiment-Analysis-Python-SQL-Tableau) & behavior detection.  
-- Sentiment Analysis & Fraud Detection: Developed NLP-based classification models in Python to detect sentiment and reaction from customer feedback on e-commerce platforms.  
+- Sentiment Analysis & Target Detection: Developed NLP-based classification models in Python to detect sentiment and reaction from customer feedback on e-commerce platforms.  
 - Visualization & Predictive Insights: Designed Tableau dashboards to track consumer sentiment trends and signals.  
-- Compiled Machine & Deep Learning classifiers tackling imbalanced datasets to detect fraud for [Banking’s Marketing Targets](https://github.com/daiphuongngo/Banking-Dataset-Imbalanced-Learn-Comparison)
+- Compiled Machine & Deep Learning classifiers tackling imbalanced datasets to detect target customers for [Banking’s Marketing Targets](https://github.com/daiphuongngo/Banking-Dataset-Imbalanced-Learn-Comparison)
 
 `Jun 2017 - Jun 2019` - `Sales Executive & Sales Coordinator` - Sofitel Saigon Plaza - Ho Chi Minh City, Viet Nam
 
