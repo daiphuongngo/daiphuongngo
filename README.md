@@ -29,6 +29,14 @@ Contact | BI | ETL | Cloud / ML | Hackathon | Server / Automation | E- Learning
 
 `Jan 2024 - Dec 2027` - `Master of Liberal Arts (ALM), Extension Studies, Harvard University, Admitted Candidate` - [Harvard Extension School, Harvard University](https://extension.harvard.edu/academics/programs/data-science-graduate-program/) (online part-time) - Cambridge, Massachusetts, USA 🇺🇸
 
+- Brain Tumor MRI Image Segmentation & Detection (CSCI E-25 Computer Vision): - Designed deep learning pipelines (Keras, Pytorch) for MRI image segmentation, leveraging CNNs, U-Net for high-precision tumor detection.
+  
+- Scalable Cloud-Based NLP for Feedback Analysis (CSCI E-192 Modern Data Analytics): - Built a real-time Natural Language Processing feedback processing platform using Python, PySpark, SQL integrated with AWS Redshift, Glue, GCP BigQuery, identifying customer sentiment trends.
+  
+- Housing Affordability Statistical Inferences (CSCI E-106 Fundamenttals of Data Science in Python): - Applied Bayesian models (pooled, unpooled, hierarchical), Linear Regression, and Maximum Likelihood Estimation (MLE) to analyze key housing affordability indicators and posterior distributions.
+  
+- Hotel Daily Room Rate & Booking Cancellation Prediction (STAT E-109 Statistical Modeling in R): - Implemented XGBoost, Random Forest, and Deep Neural Networks (DNNs) to predict ADR (Average Daily Rate) and booking cancellation probability, and applied logistic regression, hypothesis testing, and ensemble models with increased revenue forecast accuracy using grid search hyperparameter tuning
+
 `Jan 2023 - Apr 2024` - `Alteryx Administrator`, AWS Cloud Ops Data Migration - [Billennium IT Inc](https://billennium.com/) for [Roche](https://www.roche.com/) (Swiss BioTech), Data Engineering - Integration, Data Services & Insights Foundational Domain  - Mississauga, Ontario, Canada 🍁🇨🇦 
 
 - Data Governance & Log Analysis: Monitored and analyzed IT log data to track user activities, workflow hubs, and server performance across Roche’s North America & Europe operations.  
