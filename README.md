@@ -27,15 +27,15 @@ Contact | BI | ETL | Cloud / ML | Hackathon | Server / Automation | E- Learning
 - Data Architecture & Analytics: Cooperated with Data Engineer, Architect to design and develop a Snowflake-based Data Hub to centralize tax data for later reporting and analytics, optimizing ETL workflows and reducing reporting errors by 70%.
 - Data Visualization & Business Intelligence: Designed Tableau, Power BI dashboards with advanced LOD, DAX, MDX measures, improving stakeholder engagement and decision-making insights. 
 
-`Jan 2024 - Dec 2026` - `Master of Liberal Arts (ALM), Extension Studies, Harvard University, Admitted Candidate` - [Harvard Extension School, Harvard University](https://extension.harvard.edu/academics/programs/data-science-graduate-program/) (online part-time evening) - Cambridge, Massachusetts, USA 🇺🇸
+`Jan 2024 - Dec 2026` - `Master of Liberal Arts (ALM), Extension Studies, Admitted Candidate` - [Harvard University](https://extension.harvard.edu/academics/programs/data-science-graduate-program/) (online part-time evening) - Cambridge, Massachusetts, USA 🇺🇸
 
 - Brain Tumor MRI Image Segmentation & Detection (CSCI E-25 Computer Vision): - Designed deep learning pipelines (Keras, Pytorch) for MRI image segmentation, leveraging CNNs, U-Net for high-precision tumor detection.
   
 - Scalable Cloud-Based NLP for Feedback Analysis (CSCI E-192 Modern Data Analytics): - Built a real-time Natural Language Processing feedback processing platform using Python, PySpark, SQL integrated with AWS Redshift, Glue, GCP BigQuery, identifying customer sentiment trends.
   
-- Housing Affordability Statistical Inferences (CSCI E-106 Fundamenttals of Data Science in Python): - Applied Bayesian models (pooled, unpooled, hierarchical), Linear Regression, and Maximum Likelihood Estimation (MLE) to analyze key housing affordability indicators and posterior distributions.
+- [Housing Affordability Statistical Inferences (CSCI E-106 Fundamenttals of Data Science in Python)](https://colab.research.google.com/drive/1gNkXxY6OfcLWn5zHZhHML8VBmNIWeiKl?usp=sharing): - Applied Bayesian models (pooled, unpooled, hierarchical), Linear Regression, and Maximum Likelihood Estimation (MLE) to analyze key housing affordability indicators and posterior distributions.
   
-- Hotel Daily Room Rate & Booking Cancellation Prediction (STAT E-109 Statistical Modeling in R): - Implemented XGBoost, Random Forest, and Deep Neural Networks (DNNs) to predict ADR (Average Daily Rate) and booking cancellation probability, and applied logistic regression, hypothesis testing, and ensemble models with increased revenue forecast accuracy using grid search hyperparameter tuning
+- [Hotel Daily Room Rate & Booking Cancellation Prediction (STAT E-109 Statistical Modeling in R)](https://www.linkedin.com/in/daiphuongngo/overlay/1724907929286/single-media-viewer/?type=DOCUMENT&profileId=ACoAABeYoQQBFQINjIJHXhTLMH3TXMkxkaqdcp0): - Implemented XGBoost, Random Forest, and Deep Neural Networks (DNNs) to predict ADR (Average Daily Rate) and booking cancellation probability, and applied logistic regression, hypothesis testing, and ensemble models with increased revenue forecast accuracy using grid search hyperparameter tuning
 
 `Jan 2023 - Apr 2024` - `Alteryx Administrator`, AWS Cloud Ops Data Migration - [Billennium IT Inc](https://billennium.com/) for [Roche](https://www.roche.com/) (Swiss BioTech), Data Engineering - Integration, Data Services & Insights Foundational Domain  - Mississauga, Ontario, Canada 🍁🇨🇦 
 
