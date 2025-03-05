@@ -27,7 +27,7 @@ Contact | BI | ETL | Cloud / ML | Hackathon | Server / Automation | E- Learning
 - Data Architecture & Analytics: Cooperated with Data Engineer, Architect to design and develop a Snowflake-based Data Hub to centralize tax data for later reporting and analytics, optimizing ETL workflows and reducing reporting errors by 70%.
 - Data Visualization & Business Intelligence: Designed Tableau, Power BI dashboards with advanced LOD, DAX, MDX measures, improving stakeholder engagement and decision-making insights. 
 
-`Jan 2024 - Dec 2027` - `Master of Liberal Arts (ALM), Extension Studies, Harvard University, Admitted Candidate` - [Harvard Extension School, Harvard University](https://extension.harvard.edu/academics/programs/data-science-graduate-program/) (online part-time) - Cambridge, Massachusetts, USA 🇺🇸
+`Jan 2024 - Dec 2026` - `Master of Liberal Arts (ALM), Extension Studies, Harvard University, Admitted Candidate` - [Harvard Extension School, Harvard University](https://extension.harvard.edu/academics/programs/data-science-graduate-program/) (online part-time evening) - Cambridge, Massachusetts, USA 🇺🇸
 
 - Brain Tumor MRI Image Segmentation & Detection (CSCI E-25 Computer Vision): - Designed deep learning pipelines (Keras, Pytorch) for MRI image segmentation, leveraging CNNs, U-Net for high-precision tumor detection.
   
