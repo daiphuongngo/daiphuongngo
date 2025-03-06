@@ -33,7 +33,7 @@ Contact | BI | ETL | Cloud / ML | Hackathon | Server / Automation | E- Learning
   
 - Scalable Cloud-Based NLP for Feedback Analysis (CSCI E-192 Modern Data Analytics): - Built a real-time Natural Language Processing feedback processing platform using Python, PySpark, SQL integrated with AWS Redshift, Glue, GCP BigQuery, identifying customer sentiment trends.
   
-- [Housing Affordability Statistical Inferences](https://colab.research.google.com/drive/1gNkXxY6OfcLWn5zHZhHML8VBmNIWeiKl?usp=sharing) (CSCI E-106 Fundamentals of Data Science in Python): - Applied Bayesian models (pooled, unpooled, hierarchical), Linear Regression, and Maximum Likelihood Estimation (MLE) to analyze key housing affordability indicators and posterior distributions.
+- [Housing Affordability Statistical Inferences](https://colab.research.google.com/drive/1gNkXxY6OfcLWn5zHZhHML8VBmNIWeiKl?usp=sharing) (CSCI E-83 Fundamentals of Data Science in Python): - Applied Bayesian models (pooled, unpooled, hierarchical), Linear Regression, and Maximum Likelihood Estimation (MLE) to analyze key housing affordability indicators and posterior distributions.
   
 - [Hotel Daily Room Rate & Booking Cancellation Prediction](https://www.linkedin.com/in/daiphuongngo/overlay/1724907929286/single-media-viewer/?type=DOCUMENT&profileId=ACoAABeYoQQBFQINjIJHXhTLMH3TXMkxkaqdcp0) (STAT E-109 Statistical Modeling in R): - Implemented XGBoost, Random Forest, and Deep Neural Networks (DNNs) to predict ADR (Average Daily Rate) and booking cancellation probability, and applied logistic regression, hypothesis testing, and ensemble models with increased revenue forecast accuracy using grid search hyperparameter tuning
 
