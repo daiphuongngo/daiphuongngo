@@ -22,10 +22,10 @@ Contact | BI | ETL | Cloud / ML | Hackathon | Server / Automation | E- Learning
 
 `Apr 2024 - Oct 2024` - `Analyst, Business Insights`, Accounting, Tax & Finance - [Hudson's Bay Company](https://www.hbc.com/) (HBC: Hudson’s Bay, The Bay, Saks Fifth Avenue, Saks Off Fifth) - Toronto, Ontario, Canada 🍁🇨🇦 🇺🇸
 
-- SQL Pipelines & Data Engineering: Built SQL pipelines and automated Alteryx workflows to streamline financial reporting, reducing manual reconciliation efforts by 70-95%, integrated multiple data sources (Sales Audit, Oracle, Snowflake) to enhance data visibility and reporting accuracy for tax compliance teams.
+- SQL Pipelines & Data Engineering: Built SQL pipelines and automated Alteryx workflows to streamline high-level reporting, reducing manual reconciliation efforts by 70-95%, integrated sources to enhance accuracy for tax & accounting teams, and discuss directly with VP – Tax, DVP – Indirect Tax for reports to CEO, US & Canadian state & provincial auditors, Big 4 firms
 - Machine Learning & AI: Implemented ML models, NLP, Computer Vision in Python to classify tax codes in SKU items in both the US & Canada, identify features from PDF invoices, increasing tax compliance and reducing manual efforts by 60%.
 - Data Architecture & Analytics: Cooperated with Data Engineer, Architect to design and develop a Snowflake-based Data Hub to centralize tax data for later reporting and analytics, optimizing ETL workflows and reducing reporting errors by 70%.
-- Data Visualization & Business Intelligence: Designed Tableau, Power BI dashboards with advanced LOD, DAX, MDX measures, improving stakeholder engagement and decision-making insights. 
+- Data Visualization & Business Intelligence: Designed Tableau, Power BI dashboards with advanced LOD, DAX, MDX measures, improving engagement and decision-making insights to replace static dashboards provided by Big 4 and save $20K annually.
 
 `Jan 2024 - Dec 2026` - `Master of Liberal Arts (ALM), Extension Studies, Admitted Candidate` - [Harvard University](https://extension.harvard.edu/academics/programs/data-science-graduate-program/) (online part-time evening) - Cambridge, Massachusetts, USA 🇺🇸
 
