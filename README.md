@@ -14,7 +14,7 @@ Contact | BI | ETL | Cloud / ML | Hackathon | Server / Automation | E- Learning
 
 ## Education & Experience:
 
-`Oct 2024 - now` - `Finance Transformation Analyst`, Finance & Controlling - [Haventree Bank](https://www.haventreebank.com/en/) - Toronto, Ontario, Canada 🍁🇨🇦 
+`Oct 2024 - now` - `Data Transformation Analyst`, Finance & Controlling - [Haventree Bank](https://www.haventreebank.com/en/) - Toronto, Ontario, Canada 🍁🇨🇦 
 
 - Data Automation & Workflow Optimization: Designed and deployed Alteryx workflows to automate bank account reconciliation, consolidate mortgage & funding transactions, integrating data from SharePoint, Snowflake, and SQL databases, improving reconciliation accuracy and efficiency by 90% and reducing manual reconciliation efforts by 70%.
 - Collaboration & Governance: Worked closely with accounting, finance teams to define data standards and establish best practices for financial data automation and reconciliation on Alteryx Designer workflows deployed to Alteryx Server.
@@ -37,7 +37,7 @@ Contact | BI | ETL | Cloud / ML | Hackathon | Server / Automation | E- Learning
   
 - [Hotel Daily Room Rate & Booking Cancellation Prediction](https://www.linkedin.com/in/daiphuongngo/overlay/1724907929286/single-media-viewer/?type=DOCUMENT&profileId=ACoAABeYoQQBFQINjIJHXhTLMH3TXMkxkaqdcp0) (STAT E-109 Statistical Modeling in R): - Implemented XGBoost, Random Forest, and Deep Neural Networks (DNNs) to predict ADR (Average Daily Rate) and booking cancellation probability, and applied logistic regression, hypothesis testing, and ensemble models with increased revenue forecast accuracy using grid search hyperparameter tuning
 
-`Jan 2023 - Apr 2024` - `Alteryx Administrator`, AWS Cloud Ops Data Migration - [Billennium IT Inc](https://billennium.com/) for [Roche](https://www.roche.com/) (Swiss BioTech), Data Engineering - Integration, Data Services & Insights Foundational Domain  - Mississauga, Ontario, Canada 🍁🇨🇦 
+`Jan 2023 - Apr 2024` - `Data Administrator`, AWS Cloud Ops Data Migration - [Billennium IT Inc](https://billennium.com/) for [Roche](https://www.roche.com/) (Swiss BioTech), Data Engineering - Integration, Data Services & Insights Foundational Domain  - Mississauga, Ontario, Canada 🍁🇨🇦 
 
 - Data Governance & Log Analysis: Monitored and analyzed IT log data to track user activities, workflow hubs, and server performance across Roche’s North America & Europe operations.  
 - Automation & Performance Optimization: Collaborated with team leader to develop Alteryx-based automation flows to enhance user’s workflow performance and identify bottlenecks in data processing.  
