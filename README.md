@@ -96,7 +96,24 @@ Governance & Ethics in Data | - Gained the highest grade of 95% in all Professor
 [US Medicaid Pharmacy Pricing Analysis](https://github.com/daiphuongngo/US-Medicaid-Pharmacy-Pricing-Analysis) | - Establishing tables by nodes and Graph on Neo4j in Cypher, and on Azure in SQL to predict future prices/quantities and important pharmaceutical products of US Medicaid datasets in Python, AzureML
 [Home Credit Default Risk](https://github.com/daiphuongngo/Home-Credit-Default-Risk-Analysis-on-Big-Data-Hadoop-SQL-Tableau-PowerBI) | - Connected, transformed datasets, conducted EDA in `SQL`, `Scala` on `Hive`, `Zeppelin` on customized datasets on the to analyze the loan applicants' background and help expanding to those unable to access financial services - Determined on Zeppelin/ `Tableau`/ `Power BI` the most significant background check of applicants who got most loan approvals
 
-## Academic Progress:
+## Harvard University - Master, Data Science - Academic Progress: 
+
+Courses | Grade (Max Grade at Harvard University is A) / Progress
+--------|------------
+CSCI E-25 Computer Vision in Python with Deep Learning, Deep CNN, Transfer Learning, Generative Models | In Progress, Grade A
+CSCI E-192 Modern Data Analytics with Spark Core, Spark SQL, Spark MLLib, GraphX, NLP, AWS, GCP, Python | In Progress, Grade A
+CSCI E-63C Elements of Machine Learning in R | Summer'25
+STAT S-103	Introduction to Epidemiology and Biostatistics | Summer'25 (option 1)
+CSCI E-89B Natural Language Processing in Python | Fall'25
+CSCI E-89 Deep Learning in Python | Fall'25
+CSCI E-96 Data Mining, Discovery, and Exploration in Python | Spring'26 (option 2)
+CSCI E-104 Advanced Deep Learning | Spring'26
+CSCI E-597 Pre-Capstone & CSCI E-599A Capstone | Summer'26 & Fall'26
+CSCI E-83 Fundamentals in Data Science in Python (computational statistical inference with maximum likelihood, modern resampling methods, and Bayesian models) | Grade A
+STAT E-109 Introduction to Statistical Modelling in R | Grade A-
+CSCI E-101 Foundations of Data Science & Engineering in Python, SQL, Tableau | Grade A
+
+## Humber College - Post Graduate, Business Insights and Analytics - Academic Progress:
 
 Courses | Details
 --------|------------
