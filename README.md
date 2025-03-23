@@ -73,7 +73,7 @@ Contact | BI | ETL | Cloud / ML | Hackathon | Server / Automation | E- Learning
 
 Topic | more projects available on [GitHub](https://github.com/daiphuongngo?tab=repositories) & [Tableau Public](https://public.tableau.com/app/profile/dai.phuong.ngo)
 --------|------------
-Brain Tumor MRI Image Segmentation & Detection (Computer Vision) | - Designed deep learning pipelines (Keras, Pytorch) for MRI image segmentation, leveraging CNNs, U-Net for high-precision tumor detection.
+[Brain Tumor MRI Image Segmentation & Detection (Computer Vision)](https://github.com/daiphuongngo/Brain-Tumor-Deep-Learning-Detection-CNN-VGG-ResNet50-EfficientNet-ConvNeXt-and-Segmentation-SAM-UNet/tree/main) | - Designed deep learning pipelines (Keras, Pytorch) for MRI image segmentation, leveraging CNNs, U-Net for high-precision tumor detection.
 Scalable Cloud-Based NLP for Feedback Analysis | - Built a real-time Natural Language Processing feedback processing platform using Python, PySpark, SQL integrated with AWS Redshift, Glue, GCP BigQuery, identifying customer sentiment trends.
 [Housing Affordability Statistical Inferences](https://colab.research.google.com/drive/1gNkXxY6OfcLWn5zHZhHML8VBmNIWeiKl?usp=sharing) | - Applied Bayesian models (pooled, unpooled, hierarchical), Linear Regression, and Maximum Likelihood Estimation (MLE) to analyze key housing affordability indicators and posterior distributions.
 Hotel Daily Room Rate & Booking Cancellation Prediction | - Implemented XGBoost, Random Forest, and Deep Neural Networks (DNNs) to predict ADR (Average Daily Rate) and booking cancellation probability, and applied logistic regression, hypothesis testing, and ensemble models with increased revenue forecast accuracy using grid search hyperparameter tuning
