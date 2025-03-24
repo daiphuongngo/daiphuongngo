@@ -37,7 +37,7 @@ Contact | BI | ETL / Automation | Cloud / ML | Hackathon | Server | E- Learning
   
 - [Hotel Daily Room Rate & Booking Cancellation Prediction (STAT E-109 Statistical Modeling in R)](https://www.linkedin.com/in/daiphuongngo/overlay/1724907929286/single-media-viewer/?type=DOCUMENT&profileId=ACoAABeYoQQBFQINjIJHXhTLMH3TXMkxkaqdcp0): - Implemented XGBoost, Random Forest, and Deep Neural Networks (DNNs) to predict ADR (Average Daily Rate) and booking cancellation probability, and applied logistic regression, hypothesis testing, and ensemble models with increased revenue forecast accuracy using grid search hyperparameter tuning
 
-`Jan 2023 - Apr 2024` - `Alteryx Server Administrator`, AWS Cloud Ops Data Migration - [Billennium IT Inc](https://billennium.com/) for [Roche](https://www.roche.com/) (Swiss BioTech), Data Engineering - Integration, Data Services & Insights Foundational Domain  - Mississauga, Ontario, Canada 🍁🇨🇦 
+`Jan 2023 - Apr 2024` - `Alteryx Administrator`, AWS Cloud Ops Data Migration - [Billennium IT Inc](https://billennium.com/) for [Roche](https://www.roche.com/) (Swiss BioTech), Data Engineering - Integration, Data Services & Insights Foundational Domain  - Mississauga, Ontario, Canada 🍁🇨🇦 
 
 - Data Governance & Log Analysis: Monitored and analyzed IT log data to track user activities, workflow hubs, and server performance across Roche’s North America & Europe operations.  
 - Automation & Performance Optimization: Collaborated with team leader to develop Alteryx-based automation flows to enhance user’s workflow performance and identify bottlenecks in data processing.  
