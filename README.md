@@ -98,7 +98,7 @@ Governance & Ethics in Data | - Gained the highest grade of 95% in all Professor
 
 ## Harvard University - Master, Data Science - Academic Progress: 
 
-Courses | Grade (Max Grade at Harvard University is A) / Progress
+Courses | Grade (at Harvard University, the highest grade is an "A," equivalent to a 4.00 on the 4-point scale) / Progress
 --------|------------
 CSCI E-25 Computer Vision in Python with Deep Learning, Deep CNN, Transfer Learning, Generative Models | In Progress, Grade A
 CSCI E-192 Modern Data Analytics with Spark Core, Spark SQL, Spark MLLib, GraphX, NLP, AWS, GCP, Python | In Progress, Grade A
