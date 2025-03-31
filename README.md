@@ -23,7 +23,7 @@ Contact | BI | ETL / Automation | Cloud / ML | Hackathon | Server | E- Learning
 - Collaboration & Governance: Worked closely with accounting, finance teams to define data standards and establish best practices for financial data automation and reconciliation on Alteryx Designer workflows deployed to Alteryx Server.
 - Advanced Analytics & Reporting: Supported risk analytics & credit risk team with logical development in Alteryx, Python, Tableau’s KPIs, codes to transform data, plot geospatial visuals, analyze [fire weather climate risk & OSFI metrics](https://github.com/daiphuongngo/Mortgage-Accounting-and-Risk-Analytics/tree/main).
 
-`Apr 2024 - Oct 2024` - `Analyst, Business Insights`, Accounting, Tax & Finance - [Hudson's Bay Company](https://www.hbc.com/) (HBC: Hudson’s Bay, The Bay, Saks Fifth Avenue, Saks Off Fifth) - Toronto, Ontario, Canada 🍁🇨🇦 🇺🇸
+`Apr 2023 - Oct 2024` - `Analyst, Business Insights`, Accounting, Tax & Finance - [Hudson's Bay Company](https://www.hbc.com/) (HBC: Hudson’s Bay, The Bay, Saks Fifth Avenue, Saks Off Fifth) - Toronto, Ontario, Canada 🍁🇨🇦 🇺🇸
 
 - SQL, APA Pipelines & Data Engineering: Built SQL pipelines and automated Alteryx  Dataiku workflows to streamline high-level reporting, reducing manual reconciliation efforts by 70-95%, integrated sources to enhance accuracy for tax & accounting teams, and discuss directly with VP – Tax, DVP – Indirect Tax for reports to CEO, US & Canadian state & provincial auditors, Big 4 firms
 - Machine Learning & AI: Implemented ML models, NLP, Computer Vision in Python to classify tax codes in SKU items in both the US & Canada, identify features from PDF invoices, increasing tax compliance and reducing manual efforts by 60%.
