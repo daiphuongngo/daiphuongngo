@@ -10,7 +10,9 @@ Contact | BI | ETL / Automation | Cloud / ML | Hackathon | Server | E- Learning
 | |    | [Alteryx Certified: Designer Cloud Core](https://www.credly.com/badges/a900c455-2590-444c-8600-fa3ed0bf8d4b/public_url) | [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/daiphuongngo-3267/certifications) | [CodeSignal](https://app.codesignal.com/profile/phuong_n_brd) |  | [Six Sigma Certified White Belt](https://github.com/daiphuongngo/daiphuongngo/blob/main/Six%20Sigma%20White%20Belt%20-%20Dai-Phuong%20Ngo%20(Liam).jpg)
 |  |  | Microsoft Certified: Azure Fabric Data Engineer (soon)  | [Alteryx Ceritified: Machine Learning Fundamentals](https://www.credly.com/badges/af9d92fe-1e6e-4107-8411-df8a712936c3/public_url) | [SAS Safe Roads 2022 Competition Participant](https://www.credly.com/badges/e481e0ee-79f2-4b09-9cee-55f3b1da7a56/public_url) |  | 
 
-"Don't let what you think you can’t do interfere with what you can do."
+## My Motto:
+
+**"Don't let what you think you can’t do interfere with what you can do."**
 
 ## Education & Experience:
 
