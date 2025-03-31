@@ -1,5 +1,6 @@
 # Hi, I’m Dai-Phuong Ngo (Liam Ngo) 👋 🇨🇦 🍁 👏 
 
+## Permanent Resident of Canada
 
 Contact | BI | ETL / Automation | Cloud / ML | Hackathon | Server | E- Learning
 --------|---------|------------|------------|------------|------------|------------
