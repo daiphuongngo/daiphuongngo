@@ -101,10 +101,10 @@ Governance & Ethics in Data | - Gained the highest grade of 95% in all Professor
 
 ## Harvard University - Master, Data Science - Academic Progress: 
 
-Courses | Grade (at Harvard University, the highest grade is an "A," equivalent to a 4.00 on the 4-point scale) / Progress
+Courses | Grade (at Harvard University, the highest grade is an "A," (93-100%) equivalent to a 4.00 on the 4-point scale) / Progress
 --------|------------
-CSCI E-25 Computer Vision in Python with Deep Learning, Deep CNN, Transfer Learning, Generative Models | In Progress, Grade A
-CSCI E-192 Modern Data Analytics with Spark Core, Spark SQL, Spark MLLib, GraphX, NLP, AWS, GCP, Python | In Progress, Grade A
+CSCI E-25 Computer Vision in Python with Deep Learning, Deep CNN, Transfer Learning, Generative Models | In Progress, Grade A (93-100%)
+CSCI E-192 Modern Data Analytics with Spark Core, Spark SQL, Spark MLLib, GraphX, NLP, AWS, GCP, Python | In Progress, Grade A (93-100%)
 CSCI E-63C Elements of Machine Learning in R | Summer'25
 STAT S-103	Introduction to Epidemiology and Biostatistics | Summer'25 (option 1)
 CSCI E-89B Natural Language Processing in Python | Fall'25
@@ -112,9 +112,9 @@ CSCI E-89 Deep Learning in Python | Fall'25
 CSCI E-96 Data Mining, Discovery, and Exploration in Python | Spring'26 (option 2)
 CSCI E-104 Advanced Deep Learning | Spring'26
 CSCI E-597 Pre-Capstone & CSCI E-599A Capstone | Summer'26 & Fall'26
-CSCI E-83 Fundamentals in Data Science in Python (computational statistical inference with maximum likelihood, modern resampling methods, and Bayesian models) | Grade A
-STAT E-109 Introduction to Statistical Modelling in R | Grade A-
-CSCI E-101 Foundations of Data Science & Engineering in Python, SQL, Tableau | Grade A
+CSCI E-83 Fundamentals in Data Science in Python (computational statistical inference with maximum likelihood, modern resampling methods, and Bayesian models) | Grade A (93-100%)
+STAT E-109 Introduction to Statistical Modelling in R | Grade A- (90-92%)
+CSCI E-101 Foundations of Data Science & Engineering in Python, SQL, Tableau | Grade A (93-100%)
 
 ## Humber College - Post Graduate, Business Insights and Analytics - Academic Progress:
 
