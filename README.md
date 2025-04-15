@@ -106,11 +106,11 @@ Courses | Grade (at Harvard University, the highest grade is an "A," (93-100%) e
 CSCI E-25 Computer Vision in Python with Deep Learning, Deep CNN, Transfer Learning, Generative Models | In Progress, Grade A (93-100%)
 CSCI E-192 Modern Data Analytics with Spark Core, Spark SQL, Spark MLLib, GraphX, NLP, AWS, GCP, Python | In Progress, Grade A (93-100%)
 CSCI E-63C Elements of Machine Learning in R | Summer'25
-CSCI E-96 Data Mining, Discovery, and Exploration in Python | Summer'25 
+DGMD S-14 Wearable Devices and Computer Vision in Python | Summer'25 
 CSCI E-89B Natural Language Processing in Python | Fall'25
 CSCI E-89 Deep Learning in Python | Fall'25
 CSCI E-104 Advanced Deep Learning | Spring'26
-CSCI E-158 Remote Sensing Data and Applications | Spring'26 (non-compulsory, beneficial for @NASA Capstone project)
+CSCI E-102 Econometrics and Causal Inference with R | Spring'26
 CSCI E-597 Pre-Capstone & CSCI E-599A Capstone | Summer'26 & Fall'26
 CSCI E-83 Fundamentals in Data Science in Python (computational statistical inference with maximum likelihood, modern resampling methods, and Bayesian models) | Grade A (93-100%)
 STAT E-109 Introduction to Statistical Modelling in R | Grade A- (90-92%)
