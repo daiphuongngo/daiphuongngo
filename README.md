@@ -51,6 +51,9 @@ Contact | BI | ETL / Automation | Cloud / ML | Hackathon | Server | E- Learning
 
 `Jan 2021 - Aug 2022` - `Business Insights & Analytics Post-Graduate Program` - Humber College  - Toronto, Ontario, Canada 🍁🇨🇦 
 
+- [IEEE-CIS Fraud Detection (Capstone, Humber College)](https://github.com/daiphuongngo/IEEE-CIS-Fraud-Detection-Python-Machine-Learning) | - Preprocessed data in `Python`, designed architecture solution, analyzed performance between ML classifiers to determine the best performers on the imbalanced dataset, `Balanced Random Forest` with ROC AUC around 0.9 & `Random Forest` with ROC AUC, Precision around 0.9
+- [Safe Roads 2022 Competition - Toronto Police Service](https://github.com/daiphuongngo/Safe-Roads-Competition-2022-SAS-Power-BI-Toronto-Police-Services-Geotab) | - Used `Power BI, Python, Azure Machine Learning` to analyze geospatial datasets, provide interpretation, conduct `A/B testing`, determine factors, recommend on road conditions, awareness, top fatal intersections to enhance traffic safety, prevent fatal accidents, achieve prediction using `Random Forest`’s ROC AUC & Precision around 0.8
+
 `May 2022 - Aug 2022` - `Data Science Intern` (remote) - Cohost AI (founded in San Francisco, USA, based in Ha Noi, Viet Nam) - Toronto, Ontario, Canada 🍁🇨🇦 
 
 - Data Pipeline Automation: Automated data ingestion from multiple APIs & databases into Python, SQL, enabling real-time financial reporting, improving analytics accuracy with domain expertise by 40-60%.
