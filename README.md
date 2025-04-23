@@ -13,39 +13,39 @@ Contact | BI | ETL / Automation | Cloud / ML | Hackathon | Server | E- Learning
 
 ## My Motto:
 
-**"Don't let what you think you can’t do interfere with what you can do."**
+#### **"Don't let what you think you can’t do interfere with what you can do."**
 
 ## Education & Experience:
 
 `Oct 2024 - now` - `Finance Data Transformation Analyst`, Finance & Controlling - [Haventree Bank](https://www.haventreebank.com/en/) - Toronto, Ontario, Canada 🍁🇨🇦 
 
-- Advanced Analytics & Reporting: Supported risk analytics & credit risk team with logical development in Alteryx, Python, Tableau’s KPIs, codes to transform data, plot geospatial visuals, analyze [fire weather climate risk & OSFI metrics](https://github.com/daiphuongngo/Mortgage-Accounting-and-Risk-Analytics/tree/main).
-- Data Automation & Workflow Optimization: Designed and deployed Alteryx, Python, SQL workflows to [consolidate accounting logics and automate bank account reconciliation](https://github.com/daiphuongngo/Mortgage-Accounting-and-Risk-Analytics/tree/main), match mortgage, deposit, corporate & funding transactions between banking partners vs. internal general ledger, integrating data from SharePoint, Excel, and SQL databases, improving reconciliation accuracy and efficiency by 90% and reducing manual reconciliation efforts by 70%.
-- Collaboration & Governance: Worked closely with accounting, finance teams to deliver data analytics, insights and establish best translated rule-based logic solutions for financial data automation and reconciliation on Alteryx Designer workflows deployed to Alteryx Server.
+- Advanced Analytics & Reporting: Supported risk analytics & credit risk team with logical development in ``Alteryx``, ``Python``, ``Tableau``’s KPIs, codes to transform data, plot geospatial visuals, analyze [fire weather climate risk & OSFI metrics](https://github.com/daiphuongngo/Mortgage-Accounting-and-Risk-Analytics/tree/main).
+- Data Automation & Workflow Optimization: Designed and deployed Alteryx, Python, SQL workflows to [consolidate accounting logics and automate bank account reconciliation](https://github.com/daiphuongngo/Mortgage-Accounting-and-Risk-Analytics/tree/main), match mortgage, deposit, corporate & funding transactions between banking partners vs. internal general ledger, integrating data from ``SharePoint``, ``Excel``, and ``SQL`` databases, improving reconciliation accuracy and efficiency by 90% and reducing manual reconciliation efforts by 70%.
+- Collaboration & Governance: Worked closely with accounting, finance teams to deliver data analytics, insights and establish best translated rule-based logic solutions for financial data automation and reconciliation on ``Alteryx Designer`` workflows deployed to ``Alteryx Server``.
   
 `Apr 2023 - Oct 2024` - `Analyst, Business Insights`, Accounting, Tax & Finance - [Hudson's Bay Company](https://www.hbc.com/) (HBC: Hudson’s Bay, The Bay, Saks Fifth Avenue, Saks Off Fifth) - Toronto, Ontario, Canada 🍁🇨🇦 🇺🇸
 
-- SQL, APA Pipelines & Data Engineering: Built SQL pipelines and automated Alteryx  Dataiku workflows to streamline high-level reporting, reducing manual reconciliation efforts by 70-95%, integrated sources to enhance accuracy for tax & accounting teams, and discuss directly with VP – Tax, DVP – Indirect Tax for reports to CEO, US, Puerto Rican & Canadian state & provincial auditors, Big 4 firms: Deloitte, KPMG, EY
-- Machine Learning & AI: Implemented ML models, NLP, Computer Vision in Python to classify tax codes in SKU items in both the US & Canada, identify features from PDF invoices, increasing tax compliance and reducing manual efforts by 60%.
-- Data Architecture & Analytics: Cooperated with Data Engineer, Architect to design and develop a Snowflake-based Data Hub to centralize tax data for later reporting and analytics, optimizing ETL workflows and reducing reporting errors by 70%.
-- Data Visualization & Business Intelligence: Designed Tableau, Power BI dashboards with advanced LOD, DAX, MDX measures, improving engagement and decision-making insights to replace static dashboards provided by Big 4 and save $20K annually.
+- SQL, APA Pipelines & Data Engineering: Built ``SQL`` pipelines and automated ``Alteryx``, ``Dataiku`` workflows to streamline high-level reporting, reducing manual reconciliation efforts by 70-95%, integrated sources to enhance accuracy for tax & accounting teams, and discuss directly with VP – Tax, DVP – Indirect Tax for reports to CEO, US 🇺🇸, Puerto Rican 🇵🇷 & Canadian 🇨🇦 state & provincial auditors, Big 4 firms: ``Deloitte, KPMG, EY``
+- Machine Learning & AI: Implemented ``ML models``, ``NLP``, ``Computer Vision`` in ``Python`` to classify tax codes in SKU items in both the US & Canada, identify features from PDF invoices, increasing tax compliance and reducing manual efforts by 60%.
+- Data Architecture & Analytics: Cooperated with Data Engineer, Architect to design and develop a ``Snowflake``-based Data Hub to centralize tax data from Snowflake, ``Oracle`` for later reporting and analytics, optimizing ETL workflows and reducing reporting errors by 70%.
+- Data Visualization & Business Intelligence: Designed ``Tableau``, ``Power BI`` dashboards with advanced LOD, DAX, MDX measures, improving engagement and decision-making insights to replace static dashboards provided by Big 4 and save $20K annually.
 
 `Jan 2024 - Dec 2026` - `Master of Liberal Arts (ALM), Extension Studies, Admitted Candidate` - [Harvard University](https://extension.harvard.edu/academics/programs/data-science-graduate-program/) (online part-time evening) - Cambridge, Massachusetts, USA 🇺🇸
 
-- [Brain Tumor MRI Image Segmentation & Detection (CSCI E-25 Computer Vision)](https://github.com/daiphuongngo/Brain-Tumor-Deep-Learning-Detection-CNN-VGG-ResNet50-EfficientNet-ConvNeXt-and-Segmentation-SAM-UNet/tree/main): - Designed deep learning pipelines (Keras, Pytorch) for MRI image segmentation, leveraging CNNs, U-Net for high-precision tumor detection.
+- [Brain Tumor MRI Image Segmentation & Detection (CSCI E-25 Computer Vision)](https://github.com/daiphuongngo/Brain-Tumor-Deep-Learning-Detection-CNN-VGG-ResNet50-EfficientNet-ConvNeXt-and-Segmentation-SAM-UNet/tree/main): - Designed ``Deep Learning pipelines`` (``Keras, Pytorch``) for MRI image segmentation, leveraging ``CNNs``, ``U-Net``, ``DeepLab V3+`` for high-precision tumor detection.
 
-- [Scalable-Cloud-Based-Credit-Card-Fraud-Detection-Vertex-AI-on-Google-Cloud-Platform-GCP (CSCI E-192 Modern Data Analytics)](https://github.com/daiphuongngo/Scalable-Cloud-Based-Credit-Card-Fraud-Detection-Vertex-AI-on-Google-Cloud-Platform-GCP/tree/main): - Applied modern data analytics and machine learning techniques to detect fraudulent credit card transactions using Google Cloud Platform. Built on BigQuery and Vertex AI, the pipeline includes data preprocessing, model training with multiple classifiers (Logistic Regression, Random Forest, XGBoost), evaluation, and deployment for real-time prediction while handling imbalanced data.
+- [Scalable-Cloud-Based-Credit-Card-Fraud-Detection-Vertex-AI-on-Google-Cloud-Platform-GCP (CSCI E-192 Modern Data Analytics)](https://github.com/daiphuongngo/Scalable-Cloud-Based-Credit-Card-Fraud-Detection-Vertex-AI-on-Google-Cloud-Platform-GCP/tree/main): - Applied modern data analytics and machine learning techniques to detect fraudulent credit card transactions using ``Google Cloud Platform``. Built on ``BigQuery`` & ``Vertex AI``, the pipeline includes data preprocessing, model training with multiple classifiers (``Logistic Regression, Random Forest, XGBoost``), evaluation, and deployment for real-time prediction while handling imbalanced data.
   
-- [Scalable Cloud-Based NLP Text Classification for Clinical Examination (CSCI E-192 Modern Data Analytics)](https://github.com/daiphuongngo/Scalable-Cloud-Based-NLP-Text-Classification-for-Clinical-Examination/tree/main): - Building a real-time Natural Language Processing feedback processing platform using Python, PySpark, SQL integrated with AWS SageMaker, Redshift, Glue, GCP Vertex AI, BigQuery, supporting Doctor to determine medical specialties for patients.
+- [Scalable Cloud-Based NLP Text Classification for Clinical Examination (CSCI E-192 Modern Data Analytics)](https://github.com/daiphuongngo/Scalable-Cloud-Based-NLP-Text-Classification-for-Clinical-Examination/tree/main): - Building a real-time Natural Language Processing feedback processing platform using ``Python``, ``PySpark``, ``SQL`` integrated with ``AWS SageMaker, Redshift, Glue, GCP Vertex AI, BigQuery``, supporting Doctor to determine medical specialties for patients.
   
-- [Housing Affordability Statistical Inferences (CSCI E-83 Fundamentals of Data Science in Python)](https://github.com/daiphuongngo/Analyzing-Housing-Affordability-with-Statistical-Inference-using-OLS-Regression-Bayesian-Models): - Applied Bayesian models (pooled, unpooled, hierarchical), Linear Regression, and Maximum Likelihood Estimation (MLE) to analyze key housing affordability indicators and posterior distributions.
+- [Housing Affordability Statistical Inferences (CSCI E-83 Fundamentals of Data Science in Python)](https://github.com/daiphuongngo/Analyzing-Housing-Affordability-with-Statistical-Inference-using-OLS-Regression-Bayesian-Models): - Applied ``Bayesian causal inference models (pooled, unpooled, hierarchical)``, ``Linear Regression``, and Maximum Likelihood Estimation (MLE) to analyze key housing affordability indicators and posterior distributions.
   
 - [Hotel Daily Room Rate & Booking Cancellation Prediction (STAT E-109 Statistical Modeling in R)](https://github.com/daiphuongngo/Hotel-Daily-Room-Rate-Booking-Cancellation-Prediction): - Implemented XGBoost, Random Forest, and Deep Neural Networks (DNNs) to predict ADR (Average Daily Rate) and booking cancellation probability, and applied logistic regression, hypothesis testing, and ensemble models with increased revenue forecast accuracy using grid search hyperparameter tuning
 
 `Jan 2023 - Apr 2023` - `Alteryx Administrator`, AWS Cloud Ops Data Migration - [Billennium IT Inc](https://billennium.com/) for [Roche](https://www.roche.com/) (Swiss BioTech), Data Engineering - Integration, Data Services & Insights Foundational Domain  - Mississauga, Ontario, Canada 🍁🇨🇦 
 
-- Data Governance & Log Analysis: Monitored and analyzed IT log data from MongoDB on Alteryx Designer to track user activities, workflow hubs, and server performance across Roche’s North America & Europe operations.  
-- Automation & Performance Optimization: Collaborated with team leader to develop Alteryx-based automation flows to enhance user’s workflow performance and identify bottlenecks in data processing.  
+- Data Governance & Log Analysis: Monitored and analyzed IT log data from ``MongoDB`` on ``Alteryx Designer`` to track user activities, workflow hubs, and ``Alteryx Server`` performance across ``Roche``’s North America & Europe operations.  
+- Automation & Performance Optimization: Collaborated with team leader to develop Alteryx-based automatable flows to enhance user’s workflow performance and identify bottlenecks in data processing.  
 - System Monitoring & Security: Evaluated user authentication, server logs, and data access patterns to ensure compliance with Roche’s data protection standards and global security policies.  
 - Alteryx Server Administration: Optimized server configurations, managed workflow execution, and collaborated with IT teams to troubleshoot high-performance computing issues.
 
@@ -61,16 +61,16 @@ Contact | BI | ETL / Automation | Cloud / ML | Hackathon | Server | E- Learning
 
 `Jan'22 - Apr 2022` - `Product Data Analyst Intern` - iRestify Inc. (based in Toronto, Canada) - Toronto, Ontario, Canada 🍁🇨🇦 
 
-- Geospatial & Business Intelligence Analytics: Built GIS-based Power BI dashboards to analyze revenue performance by location, optimizing territory-based pricing and operations.  
-- Data Cleansing & Feature Engineering: Applied Python & SQL for data wrangling, increasing accuracy by 20% for key KPIs.  
+- Geospatial & Business Intelligence Analytics: Built ``GIS-based Power BI`` dashboards to analyze revenue performance by location, optimizing territory-based pricing and operations.  
+- Data Cleansing & Feature Engineering: Applied ``Python`` & ``SQL`` for data wrangling, increasing accuracy by 20% for key KPIs.  
 - Data Automation: Designed workflow automations in Power BI’s DAX and MDX, reducing manual reporting efforts by 30%.
 
 `Aug-Dec 2021` - `Data Engineering & Analytics Intern` (remote) - Center of Talent in AI (CoTAI, based in Ho Chi Minh City, Viet Nam) - Toronto, Ontario, Canada 🍁🇨🇦 
 
 - Big Data Engineering: Managed 4M+ data records, optimizing ETL pipelines between Vietnam & North America for [Sentiment Analysis](https://github.com/daiphuongngo/Sentiment-Analysis-Python-SQL-Tableau) & behavior detection.  
-- Sentiment Analysis & Target Detection: Developed NLP-based classification models in Python to detect sentiment and reaction from customer feedback on e-commerce platforms.  
-- Visualization & Predictive Insights: Designed Tableau dashboards to track consumer sentiment trends and signals.  
-- Compiled Machine & Deep Learning classifiers tackling imbalanced datasets to detect target customers for [Banking’s Marketing Targets](https://github.com/daiphuongngo/Banking-Dataset-Imbalanced-Learn-Comparison)
+- Sentiment Analysis & Target Detection: Developed NLP-based classification models in ``Python`` to detect sentiment and reaction from customer feedback on e-commerce platforms.  
+- Visualization & Predictive Insights: Designed ``Tableau`` dashboards to track consumer sentiment trends and signals.  
+- Compiled ``Machine & Deep Learning classifiers`` tackling imbalanced datasets to detect target customers for [Banking’s Marketing Targets](https://github.com/daiphuongngo/Banking-Dataset-Imbalanced-Learn-Comparison)
 
 `Jun 2017 - Jun 2019` - `Sales Executive & Sales Coordinator` - Sofitel Saigon Plaza - Ho Chi Minh City, Viet Nam
 
