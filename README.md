@@ -49,7 +49,7 @@ Contact | BI | ETL / Automation | Cloud / ML | Hackathon | Server | E- Learning
 - System Monitoring & Security: Evaluated user authentication, server logs, and data access patterns to ensure compliance with Roche’s data protection standards and global security policies.  
 - Alteryx Server Administration: Optimized server configurations, managed workflow execution, and collaborated with IT teams to troubleshoot high-performance computing issues.
 
-`Jan 2021 - Aug 2022` - `Business Insights & Analytics Post-Graduate Program` - Humber College  - Toronto, Ontario, Canada 🍁🇨🇦 
+`Jan 2021 - Aug 2022` - `Business Insights & Analytics Post-Graduate Program` - [Humber College](https://business.humber.ca/programs/business-insights-and-analytics.html)  - Toronto, Ontario, Canada 🍁🇨🇦 
 
 - [IEEE-CIS Fraud Detection (Capstone, Humber College)](https://github.com/daiphuongngo/IEEE-CIS-Fraud-Detection-Python-Machine-Learning): - Preprocessed data in `Python`, designed architecture solution, analyzed performance between ML classifiers to determine the best performers on the imbalanced dataset, `Balanced Random Forest` with ROC AUC around 0.9 & `Random Forest` with ROC AUC, Precision around 0.9
 - [Safe Roads 2022 Competition - Toronto Police Service](https://github.com/daiphuongngo/Safe-Roads-Competition-2022-SAS-Power-BI-Toronto-Police-Services-Geotab): - Used `Power BI, Python, Azure Machine Learning` to analyze geospatial datasets, provide interpretation, conduct `A/B testing`, determine factors, recommend on road conditions, awareness, top fatal intersections to enhance traffic safety, prevent fatal accidents, achieve prediction using `Random Forest`’s ROC AUC & Precision around 0.8
@@ -65,14 +65,14 @@ Contact | BI | ETL / Automation | Cloud / ML | Hackathon | Server | E- Learning
 - Data Cleansing & Feature Engineering: Applied ``Python`` & ``SQL`` for data wrangling, increasing accuracy by 20% for key KPIs.  
 - Data Automation: Designed workflow automations in Power BI’s DAX and MDX, reducing manual reporting efforts by 30%.
 
-`Aug-Dec 2021` - `Data Engineering & Analytics Intern` (remote) - Center of Talent in AI (CoTAI, based in Ho Chi Minh City, Viet Nam) - Toronto, Ontario, Canada 🍁🇨🇦 
+`Aug-Dec 2021` - `Data Engineering & Analytics Intern` (remote) - [Center of Talent in AI (CoTAI)](https://www.linkedin.com/company/cotai/posts/?feedView=all) - Toronto, Ontario, Canada 🍁🇨🇦 
 
 - Big Data Engineering: Managed 4M+ data records, optimizing ETL pipelines between Vietnam & North America for [Sentiment Analysis](https://github.com/daiphuongngo/Sentiment-Analysis-Python-SQL-Tableau) & behavior detection.  
 - Sentiment Analysis & Target Detection: Developed NLP-based classification models in ``Python`` to detect sentiment and reaction from customer feedback on e-commerce platforms.  
 - Visualization & Predictive Insights: Designed ``Tableau`` dashboards to track consumer sentiment trends and signals.  
 - Compiled ``Machine & Deep Learning classifiers`` tackling imbalanced datasets to detect target customers for [Banking’s Marketing Targets](https://github.com/daiphuongngo/Banking-Dataset-Imbalanced-Learn-Comparison)
 
-`Jun 2017 - Jun 2019` - `Sales Executive & Sales Coordinator` - Sofitel Saigon Plaza - Ho Chi Minh City, Viet Nam
+`Jun 2017 - Jun 2019` - `Sales Executive & Sales Coordinator` - [Sofitel Saigon Plaza](https://sofitel.accor.com/en/hotels/2077.html?merchantid=ppc-sof-nom-msn-ww-en-sear&sourceid=bp-cen&utm_source=bing&utm_medium=cpc&utm_campaign=ppc-sof-nom-msn-ww-en-ww-mix-sear-bp&utm_term=nom&utm_content=ww-en-VN-V5627&msclkid=df7901b715311a866de869b9e8aaf6b5&utm_source=bing&utm_medium=cpc&utm_campaign=ppc-sof-nom-msn-ww-en-ww-mix-sear-bp-cen&utm_term=Sofitel%20Saigon%20Plaza&utm_content=sof-v5627-ho_chi_minh_city%2F2077) - Ho Chi Minh City, Viet Nam
 
 - Revenue Forecasting: Prepared, consolidated financial Excel & Power BI reports to track sales performance and forecast departmental revenue targets, supporting executive decision-making and driving quarterly sales growth by 1-10% per account.
 - Revenue Generation: Managed key accounts, segments, and markets, consistently meeting and exceeding team & personal revenue targets for approximately 16 months, contributing to 65% of sales duration while consulting with the Revenue team on target settings.
