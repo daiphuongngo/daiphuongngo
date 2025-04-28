@@ -54,12 +54,12 @@ Contact | BI | ETL / Automation | Cloud / ML | Hackathon | Server | E- Learning
 - [IEEE-CIS Fraud Detection (Capstone, Humber College)](https://github.com/daiphuongngo/IEEE-CIS-Fraud-Detection-Python-Machine-Learning): - Preprocessed data in `Python`, designed architecture solution, analyzed performance between ML classifiers to determine the best performers on the imbalanced dataset, `Balanced Random Forest` with ROC AUC around 0.9 & `Random Forest` with ROC AUC, Precision around 0.9
 - [Safe Roads 2022 Competition - Toronto Police Service](https://github.com/daiphuongngo/Safe-Roads-Competition-2022-SAS-Power-BI-Toronto-Police-Services-Geotab): - Used `Power BI, Python, Azure Machine Learning` to analyze geospatial datasets, provide interpretation, conduct `A/B testing`, determine factors, recommend on road conditions, awareness, top fatal intersections to enhance traffic safety, prevent fatal accidents, achieve prediction using `Random Forest`’s ROC AUC & Precision around 0.8
 
-`May 2022 - Aug 2022` - `Data Science Intern` (remote) - Cohost AI (founded in San Francisco, USA, based in Ha Noi, Viet Nam) - Toronto, Ontario, Canada 🍁🇨🇦 
+`May 2022 - Aug 2022` - `Data Science Intern` (remote) - [Cohost AI](https://cohost.ai/) - Toronto, Ontario, Canada 🍁🇨🇦 
 
 - Data Pipeline Automation: Automated data ingestion from multiple APIs & databases into Python, SQL, enabling real-time financial reporting, improving analytics accuracy with domain expertise by 40-60%.
 - Visualization & Reporting: Created domain-based KPIs to embed with developed interactive Power BI dashboards in advanced DAX to support revenue decision-making, boosting user engagement by 10-25%.  
 
-`Jan'22 - Apr 2022` - `Product Data Analyst Intern` - iRestify Inc. (based in Toronto, Canada) - Toronto, Ontario, Canada 🍁🇨🇦 
+`Jan'22 - Apr 2022` - `Product Data Analyst Intern` - [iRestify Inc.](https://irestify.com/) - Toronto, Ontario, Canada 🍁🇨🇦 
 
 - Geospatial & Business Intelligence Analytics: Built ``GIS-based Power BI`` dashboards to analyze revenue performance by location, optimizing territory-based pricing and operations.  
 - Data Cleansing & Feature Engineering: Applied ``Python`` & ``SQL`` for data wrangling, increasing accuracy by 20% for key KPIs.  
