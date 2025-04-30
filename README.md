@@ -1,6 +1,6 @@
-# Hi, I’m Dai-Phuong Ngo (Liam Ngo) 👋 🇨🇦 🍁 👏 
+# Hi, I’m Dai-Phuong Ngo (Liam Ngo) 👋 👏 
 
-## Permanent Resident of Canada
+## Permanent Resident of Canada 🇨🇦 🍁
 
 Contact | BI | ETL / Automation | Cloud / ML | Hackathon | Server | E- Learning
 --------|---------|------------|------------|------------|------------|------------
@@ -32,7 +32,7 @@ Contact | BI | ETL / Automation | Cloud / ML | Hackathon | Server | E- Learning
 
 `Jan 2024 - Dec 2026` - `Master of Liberal Arts (ALM), Extension Studies, Admitted Candidate` - [Harvard University](https://extension.harvard.edu/academics/programs/data-science-graduate-program/) (online part-time evening) - Cambridge, Massachusetts, USA 🇺🇸
 
-- [Brain Tumor MRI Image Segmentation & Detection (CSCI E-25 Computer Vision)](https://github.com/daiphuongngo/Brain-Tumor-Deep-Learning-Detection-CNN-VGG-ResNet50-EfficientNet-ConvNeXt-and-Segmentation-SAM-UNet/tree/main): - Designed ``Deep Learning pipelines`` (``Keras, Pytorch``) for MRI image segmentation, leveraging ``CNNs``, ``U-Net``, ``DeepLab V3+`` for high-precision tumor detection.
+- [Brain Tumor MRI Image Segmentation & Detection (CSCI E-25 Computer Vision)](https://github.com/daiphuongngo/Brain-Tumor-Deep-Learning-Detection-CNN-VGG-ResNet50-EfficientNet-ConvNeXt-and-Segmentation-SAM-UNet/tree/main): - Designed & fine-tuned ``Deep Learning pipelines`` (``Keras, Pytorch``) for MRI image segmentation, leveraging ``CNNs``, ``U-Net``, ``DeepLab V3+`` for high-precision tumor detection.
 
 - [Scalable-Cloud-Based-Credit-Card-Fraud-Detection-Vertex-AI-on-Google-Cloud-Platform-GCP (CSCI E-192 Modern Data Analytics)](https://github.com/daiphuongngo/Scalable-Cloud-Based-Credit-Card-Fraud-Detection-Vertex-AI-on-Google-Cloud-Platform-GCP/tree/main): - Applied modern data analytics and machine learning techniques to detect fraudulent credit card transactions using ``Google Cloud Platform``. Built on ``BigQuery`` & ``Vertex AI``, the pipeline includes data preprocessing, model training with multiple classifiers (``Logistic Regression, Random Forest, XGBoost``), evaluation, and deployment for real-time prediction while handling imbalanced data.
   
