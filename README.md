@@ -17,7 +17,7 @@ Contact | BI | ETL / Automation | Cloud / ML | Hackathon | Server | E- Learning
 
 ## Education & Experience:
 
-`Oct 2024 - now` - `Finance Data Transformation Analyst`, Finance & Controlling - [Haventree Bank](https://www.haventreebank.com/en/) - Toronto, Ontario, Canada 🍁🇨🇦 
+`Oct 2024 - Apr 2025` - `Finance Data Transformation Analyst`, Finance & Controlling - [Haventree Bank](https://www.haventreebank.com/en/) - Toronto, Ontario, Canada 🍁🇨🇦 
 
 - Advanced Analytics & Reporting: Supported risk analytics & credit risk team with logical development in ``Alteryx``, ``Python``, ``Tableau``’s KPIs, codes to transform data, plot geospatial visuals, analyze [fire weather climate risk & OSFI metrics](https://github.com/daiphuongngo/Mortgage-Accounting-and-Risk-Analytics/tree/main).
 - Data Automation & Workflow Optimization: Designed and deployed Alteryx, Python, SQL workflows to [consolidate accounting logics and automate bank account reconciliation](https://github.com/daiphuongngo/Mortgage-Accounting-and-Risk-Analytics/tree/main), match mortgage, deposit, corporate & funding transactions between banking partners vs. internal general ledger, integrating data from ``SharePoint``, ``Excel``, and ``SQL`` databases, improving reconciliation accuracy and efficiency by 90% and reducing manual reconciliation efforts by 70%.
