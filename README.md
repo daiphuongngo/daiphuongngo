@@ -56,8 +56,8 @@ Contact | BI | ETL / Automation | Cloud / ML | Hackathon | Server | E- Learning
 
 `May 2022 - Aug 2022` - `Data Science Intern` (remote) - [Cohost AI](https://cohost.ai/) - Toronto, Ontario, Canada 🍁🇨🇦 
 
-- Data Pipeline Automation: Automated data ingestion from multiple APIs & databases into Python, SQL, enabling real-time financial reporting, improving analytics accuracy with domain expertise by 40-60%.
-- Visualization & Reporting: Created domain-based KPIs to embed with developed interactive Power BI dashboards in advanced DAX to support revenue decision-making, boosting user engagement by 10-25%.  
+- Data Pipeline Automation: Automated data ingestion from multiple APIs & databases into `Python`, `SQL,` enabling real-time financial reporting, improving analytics accuracy with domain expertise by 40-60%.
+- Visualization & Reporting: Created domain-based KPIs to embed with developed interactive `Power BI` dashboards in advanced DAX to support revenue decision-making, boosting user engagement by 10-25%.  
 
 `Jan'22 - Apr 2022` - `Product Data Analyst Intern` - [iRestify Inc.](https://irestify.com/) - Toronto, Ontario, Canada 🍁🇨🇦 
 
