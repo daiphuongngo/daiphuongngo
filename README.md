@@ -2,18 +2,23 @@
 
 ## Permanent Resident of Canada 🇨🇦 🍁
 
-Contact | BI | ETL / Automation | Cloud / ML | Hackathon | Server | E- Learning
---------|---------|------------|------------|------------|------------|------------
-[Main Email](phuong.ngo5595@gmail.com) | [Microsoft Certified: Power BI Data Analyst Associate](https://www.credly.com/badges/94d81b5a-fb15-4edf-a31b-6e498ddaf76e/public_url) | [Alteryx Certified: Advanced Designer](https://www.credly.com/badges/1dc1ca90-0e57-4b96-8561-637c2bd1558b/public_url) | [Databricks Certified: Data Analyst](https://credentials.databricks.com/e6e4fbea-0c6e-4402-ad93-0f6b7b4be31b#gs.dpw59s) | [SQL Certified Advanced HackerRank](https://www.hackerrank.com/certificates/e1435c1487c7)  | [Alteryx Certified: Server Implementation](https://www.credly.com/badges/5fb8889d-edd1-4b5f-9010-7693ec2ca3a8/public_url)  | [Alteryx 9-Comet & Completed Challeges](https://community.alteryx.com/t5/user/viewprofilepage/user-id/288253)
-[Linkedin](https://www.linkedin.com/in/daiphuongngo/) | [Tableau Certified: Desktop Specialist](https://github.com/daiphuongngo/daiphuongngo/blob/main/Dai-Phuong%20Ngo%20(Liam)%20-%20Tableau%20Desktop%20Specialist%20-%20Passed%20Score.pdf)  | [Alteryx Certified: Advanced Designer Cloud](https://community.alteryx.com/t5/user/viewprofilepage/user-id/288253) | [Dataiku Certified: Machine Learning Practitioner](https://verify.skilljar.com/c/eufygnhqpyf4) | [Python Certified Problem Solving Intermediate HackerRank](https://www.hackerrank.com/certificates/b9463ba337a6) | [Alteryx Certified: Server Administration](https://www.credly.com/badges/38b6970d-5cee-48d0-aad0-0df1e8efe83e/public_url) | [GitHub](https://github.com/daiphuongngo) | [Tableau Creator](https://www.credly.com/badges/98eb88fd-e169-4e34-aca1-64b7d06a36a0/public_url)
-| [2nd Email](liam.ngo55.1@gmail.com) | | [Databricks Certified: Fundamentals of Databricks Lakehouse Platform](https://github.com/daiphuongngo/daiphuongngo/blob/main/Certified%20Databricks%20-%20Fundamentals%20of%20the%20Databricks%20Lakehouse%20Platform%20Accreditation%20-%20Dai-Phuong%20Ngo%20(Liam).pdf)  | Google Certified: Tensorflow Developer & Machine Learning Practitioner (soon) | R Certified Intermediate HackerRank (soon) | | [Tableau Public](https://public.tableau.com/app/profile/dai.phuong.ngo) | [Microsoft Learning](https://docs.microsoft.com/en-us/users/daiphuongngo-3267/achievements)
-| | | [Alteryx Certified: Core Designer](https://www.credly.com/badges/7a6ab86f-9d3d-4cf3-9d0f-62db4ef7424b/public_url) | [Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/badges/8ac05b83-b541-4f18-9758-710037e24fc6/public_url)  | [HackerRank](https://www.hackerrank.com/phuong_ngo5595) |  | [Credly](https://www.credly.com/users/dai-phuong-ngo/badges)
-| |    | [Alteryx Certified: Designer Cloud Core](https://www.credly.com/badges/a900c455-2590-444c-8600-fa3ed0bf8d4b/public_url) | [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/daiphuongngo-3267/certifications) | [CodeSignal](https://app.codesignal.com/profile/phuong_n_brd) |  | [Six Sigma Certified White Belt](https://github.com/daiphuongngo/daiphuongngo/blob/main/Six%20Sigma%20White%20Belt%20-%20Dai-Phuong%20Ngo%20(Liam).jpg)
-|  |  | Microsoft Certified: Azure Fabric Data Engineer (soon)  | [Alteryx Ceritified: Machine Learning Fundamentals](https://www.credly.com/badges/af9d92fe-1e6e-4107-8411-df8a712936c3/public_url) | [SAS Safe Roads 2022 Competition Participant](https://www.credly.com/badges/e481e0ee-79f2-4b09-9cee-55f3b1da7a56/public_url) |  | 
+Contact: [Main Email](phuong.ngo5595@gmail.com) | [Linkedin](https://www.linkedin.com/in/daiphuongngo/) | [2nd Email](liam.ngo55.1@gmail.com)
 
 ## My Motto:
 
 #### **"Don't let what you think you can’t do interfere with what you can do."**
+
+## Languages, Technologies, Skills:
+
+Criteria | Details
+--------|------------
+Programming	| [Certified SQL](https://www.hackerrank.com/certificates/e1435c1487c7), [Python](https://www.hackerrank.com/certificates/b9463ba337a6) (Pandas, Keras, SkLearn, PySpark, Tensorflow, Pytorch), R, Spark, Spark SQL, Shell, Scala, Cypher, Java
+Viz | [Certified Power BI](https://www.credly.com/badges/94d81b5a-fb15-4edf-a31b-6e498ddaf76e/public_url), [Tableau Desktop](https://www.credly.com/badges/e273971c-ae48-4fc3-9b5d-2191f5ef2db0/public_url), Tableau Prep, Cognos, Qlik
+Automation | [Alteryx Advanced Designer](https://www.credly.com/badges/1dc1ca90-0e57-4b96-8561-637c2bd1558b/public_url), [Alteryx Designer Cloud Advanced](https://community.alteryx.com/t5/user/viewprofilepage/user-id/288253), [Alteryx Machine Learning Fundamentals](https://www.credly.com/badges/af9d92fe-1e6e-4107-8411-df8a712936c3/public_url), Alteryx Intelligence Suite, [Dataiku Machine Learning Practitioner](https://verify.skilljar.com/c/eufygnhqpyf4), [Dataiku Developer](https://verify.skilljar.com/c/97spagfd9wax), KNIME, SPSS (Modeler, Statistics), SAS (Studio, Enterprise Miner)
+Big Data | [Certified Azure Data Fundamentals](https://www.credly.com/badges/8ac05b83-b541-4f18-9758-710037e24fc6/public_url), [Azure AI Fundamentals](https://www.credly.com/badges/9daa319c-7aa3-4fd4-ad63-a06457014bd9/public_url), [Alteryx Server Administration](https://www.credly.com/badges/38b6970d-5cee-48d0-aad0-0df1e8efe83e/public_url), [Databricks Accredited Lakehouse Fundamentals](https://images.credential.net/embed/h1r895cp.png), AWS & GCP (Redshift, SageMaker, Vertex AI, BigQuery, GCS), Fivetran, Kafka, Azure (ML, Synapse), MySQL, MongoDB, MS SQL, Oracle, PostgreSQL, Hadoop (Hive, Zeppelin), Neo4j, Splunk
+Analytics | Excel (VBA, Pivot, Macros, Vlookup, Hlookup, Solver, GoalSeek, Macros), GDPR, ServiceNow, Causal Inference, Statistical Inference and Modelling (Sampling, A/B Testing, Bayesian), Financial Reporting, Tax Compliance and Recovery, Predictive Analytics (Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, AI, Generative AI, LLMs), UiPath
+Languages | **English** 🇺🇲 (fluent), **Vietnamese** (native), **French** 🇨🇦🇨🇵 (basic overall, intermediate reading), **German** 🇩🇪 (basic overall, intermediate reading) 
+Others | [Certified Six Sigma White Belt](https://github.com/daiphuongngo/daiphuongngo/blob/main/Six%20Sigma%20White%20Belt%20-%20Dai-Phuong%20Ngo%20(Liam).jpg), Atlassian Confluence, Jira, Trello
 
 ## Education & Experience:
 
@@ -109,18 +114,18 @@ Governance & Ethics in Data | - Gained the highest grade of 95% in all Professor
 
 Courses | Grade (at Harvard University, the highest grade is an "A," (93-100%) equivalent to a 4.00 on the 4-point scale) / Progress
 --------|------------
-CSCI E-25 Computer Vision in Python with Deep Learning, Deep CNN, Transfer Learning, Generative Models | In Progress, Grade A (93-100%)
-CSCI E-192 Modern Data Analytics with Spark Core, Spark SQL, Spark MLLib, GraphX, NLP, AWS, GCP, Python | In Progress, Grade A (93-100%)
-CSCI E-63C Elements of Machine Learning in R | Summer'25
+CSCI S-89	Deep Learning in Python | Summer'25
 DGMD S-14 Wearable Devices and Computer Vision in Python | Summer'25 
 CSCI E-89B Natural Language Processing in Python | Fall'25
-CSCI E-89 Deep Learning in Python | Fall'25
+CSCI E-116	Dynamic Modeling and Forecasting in Big Data| Fall'25
 CSCI E-104 Advanced Deep Learning | Spring'26
 CSCI E-102 Econometrics and Causal Inference with R | Spring'26
 CSCI E-597 Pre-Capstone & CSCI E-599A Capstone | Summer'26 & Fall'26
-CSCI E-83 Fundamentals in Data Science in Python (computational statistical inference with maximum likelihood, modern resampling methods, and Bayesian models) | Grade A (93-100%)
-STAT E-109 Introduction to Statistical Modelling in R | Grade A- (90-92%)
-CSCI E-101 Foundations of Data Science & Engineering in Python, SQL, Tableau | Grade A (93-100%)
+CSCI E-25 Computer Vision in Python with Deep Learning, Deep CNN, Transfer Learning, Generative Models ✅ | Grade A (93-100%)
+CSCI E-192 Modern Data Analytics with Spark Core, Spark SQL, Spark MLLib, GraphX, NLP, AWS, GCP, Python  ✅ | Grade A (93-100%)
+CSCI E-83 Fundamentals in Data Science in Python (computational statistical inference with maximum likelihood, modern resampling methods, and Bayesian models)  ✅ | Grade A (93-100%)
+STAT E-109 Introduction to Statistical Modelling in R  ✅ | Grade A- (90-92%)
+CSCI E-101 Foundations of Data Science & Engineering in Python, SQL, Tableau ✅ | Grade A (93-100%)
 
 ## Humber College - Post Graduate, Business Insights and Analytics - Academic Progress:
 
@@ -142,18 +147,14 @@ Machine Learning and Programming 2 ✅ | Python: Time Series Forecasting, Market
 Capstone Course ✅ | [IEEE-CIS Fraud Detection (Capstone, Humber College)](https://github.com/daiphuongngo/IEEE-CIS-Fraud-Detection-Python-Machine-Learning)
 Project Management ✅ | Boeing Aviation Case Report of Sales and Supply Boost
 
-## Languages, Technologies, Skills:
-
-Criteria | Details
---------|------------
-Programming	| [Certified SQL](https://www.hackerrank.com/certificates/e1435c1487c7), [Python](https://www.hackerrank.com/certificates/b9463ba337a6) (Pandas, Keras, SkLearn, PySpark, Tensorflow, Pytorch), R, Spark, Spark SQL, Shell, Scala, Cypher, Java
-Viz | [Certified Power BI](https://www.credly.com/badges/94d81b5a-fb15-4edf-a31b-6e498ddaf76e/public_url), [Tableau Desktop](https://www.credly.com/badges/e273971c-ae48-4fc3-9b5d-2191f5ef2db0/public_url), Tableau Prep, Cognos, Qlik
-Automation | [Alteryx Advanced Designer](https://www.credly.com/badges/1dc1ca90-0e57-4b96-8561-637c2bd1558b/public_url), [Alteryx Designer Cloud Advanced](https://community.alteryx.com/t5/user/viewprofilepage/user-id/288253), [Alteryx Machine Learning Fundamentals](https://www.credly.com/badges/af9d92fe-1e6e-4107-8411-df8a712936c3/public_url), Alteryx Intelligence Suite, [Dataiku Machine Learning Practitioner](https://verify.skilljar.com/c/eufygnhqpyf4), [Dataiku Developer](https://verify.skilljar.com/c/97spagfd9wax), KNIME, SPSS (Modeler, Statistics), SAS (Studio, Enterprise Miner)
-Big Data | [Certified Azure Data Fundamentals](https://www.credly.com/badges/8ac05b83-b541-4f18-9758-710037e24fc6/public_url), [Azure AI Fundamentals](https://www.credly.com/badges/9daa319c-7aa3-4fd4-ad63-a06457014bd9/public_url), [Alteryx Server Administration](https://www.credly.com/badges/38b6970d-5cee-48d0-aad0-0df1e8efe83e/public_url), [Databricks Accredited Lakehouse Fundamentals](https://images.credential.net/embed/h1r895cp.png), AWS & GCP (Redshift, SageMaker, Vertex AI, BigQuery, GCS), Fivetran, Kafka, Azure (ML, Synapse), MySQL, MongoDB, MS SQL, Oracle, PostgreSQL, Hadoop (Hive, Zeppelin), Neo4j, Splunk
-Analytics | Excel (VBA, Pivot, Macros, Vlookup, Hlookup, Solver, GoalSeek, Macros), GDPR, ServiceNow, Causal Inference, Statistical Inference and Modelling (Sampling, A/B Testing, Bayesian), Financial Reporting, Tax Compliance and Recovery, Predictive Analytics (Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, AI, Generative AI, LLMs), UiPath
-Languages | **English** 🇺🇲 (fluent), **Vietnamese** (native), **French** 🇨🇦🇨🇵 (basic overall, intermediate reading), **German** 🇩🇪 (basic overall, intermediate reading) 
-Others | [Certified Six Sigma White Belt](https://github.com/daiphuongngo/daiphuongngo/blob/main/Six%20Sigma%20White%20Belt%20-%20Dai-Phuong%20Ngo%20(Liam).jpg), Atlassian Confluence, Jira, Trello
-
+Contact | BI | ETL / Automation | Cloud / ML | Hackathon | Server | E- Learning
+--------|---------|------------|------------|------------|------------|------------
+[Main Email](phuong.ngo5595@gmail.com) | [Microsoft Certified: Power BI Data Analyst Associate](https://www.credly.com/badges/94d81b5a-fb15-4edf-a31b-6e498ddaf76e/public_url) | [Alteryx Certified: Advanced Designer](https://www.credly.com/badges/1dc1ca90-0e57-4b96-8561-637c2bd1558b/public_url) | [Databricks Certified: Data Analyst](https://credentials.databricks.com/e6e4fbea-0c6e-4402-ad93-0f6b7b4be31b#gs.dpw59s) | [SQL Certified Advanced HackerRank](https://www.hackerrank.com/certificates/e1435c1487c7)  | [Alteryx Certified: Server Implementation](https://www.credly.com/badges/5fb8889d-edd1-4b5f-9010-7693ec2ca3a8/public_url)  | [Alteryx 9-Comet & Completed Challeges](https://community.alteryx.com/t5/user/viewprofilepage/user-id/288253)
+[Linkedin](https://www.linkedin.com/in/daiphuongngo/) | [Tableau Certified: Desktop Specialist](https://github.com/daiphuongngo/daiphuongngo/blob/main/Dai-Phuong%20Ngo%20(Liam)%20-%20Tableau%20Desktop%20Specialist%20-%20Passed%20Score.pdf)  | [Alteryx Certified: Advanced Designer Cloud](https://community.alteryx.com/t5/user/viewprofilepage/user-id/288253) | [Dataiku Certified: Machine Learning Practitioner](https://verify.skilljar.com/c/eufygnhqpyf4) | [Python Certified Problem Solving Intermediate HackerRank](https://www.hackerrank.com/certificates/b9463ba337a6) | [Alteryx Certified: Server Administration](https://www.credly.com/badges/38b6970d-5cee-48d0-aad0-0df1e8efe83e/public_url) | [GitHub](https://github.com/daiphuongngo) | [Tableau Creator](https://www.credly.com/badges/98eb88fd-e169-4e34-aca1-64b7d06a36a0/public_url)
+| [2nd Email](liam.ngo55.1@gmail.com) | | [Databricks Certified: Fundamentals of Databricks Lakehouse Platform](https://github.com/daiphuongngo/daiphuongngo/blob/main/Certified%20Databricks%20-%20Fundamentals%20of%20the%20Databricks%20Lakehouse%20Platform%20Accreditation%20-%20Dai-Phuong%20Ngo%20(Liam).pdf)  | Google Certified: Tensorflow Developer & Machine Learning Practitioner (soon) | R Certified Intermediate HackerRank (soon) | | [Tableau Public](https://public.tableau.com/app/profile/dai.phuong.ngo) | [Microsoft Learning](https://docs.microsoft.com/en-us/users/daiphuongngo-3267/achievements)
+| | | [Alteryx Certified: Core Designer](https://www.credly.com/badges/7a6ab86f-9d3d-4cf3-9d0f-62db4ef7424b/public_url) | [Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/badges/8ac05b83-b541-4f18-9758-710037e24fc6/public_url)  | [HackerRank](https://www.hackerrank.com/phuong_ngo5595) |  | [Credly](https://www.credly.com/users/dai-phuong-ngo/badges)
+| |    | [Alteryx Certified: Designer Cloud Core](https://www.credly.com/badges/a900c455-2590-444c-8600-fa3ed0bf8d4b/public_url) | [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/daiphuongngo-3267/certifications) | [CodeSignal](https://app.codesignal.com/profile/phuong_n_brd) |  | [Six Sigma Certified White Belt](https://github.com/daiphuongngo/daiphuongngo/blob/main/Six%20Sigma%20White%20Belt%20-%20Dai-Phuong%20Ngo%20(Liam).jpg)
+|  |  | Microsoft Certified: Azure Fabric Data Engineer (soon)  | [Alteryx Ceritified: Machine Learning Fundamentals](https://www.credly.com/badges/af9d92fe-1e6e-4107-8411-df8a712936c3/public_url) | [SAS Safe Roads 2022 Competition Participant](https://www.credly.com/badges/e481e0ee-79f2-4b09-9cee-55f3b1da7a56/public_url) |  | 
 ## Other Certificates:
 
 Earned 🏅 | Details
