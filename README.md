@@ -22,8 +22,6 @@ Others | [Certified Six Sigma White Belt](https://github.com/daiphuongngo/daiphu
 
 ## Education & Experience:
 
-`Apr 2025 - now` - `Data Scientist` - [Ceasura Tech](https://ceasuratech.com/) - Toronto, Ontario, Canada 🍁🇨🇦 
-
 `Oct 2024 - Apr 2025` - `Finance Data Transformation Analyst`, Finance & Controlling - [Haventree Bank](https://www.haventreebank.com/en/) - Toronto, Ontario, Canada 🍁🇨🇦 
 
 - Advanced Analytics & Reporting: Supported risk analytics & credit risk team with logical development in ``Alteryx``, ``Python``, ``Tableau``’s KPIs, codes to transform data, plot geospatial visuals, analyze [fire weather climate risk & OSFI metrics](https://github.com/daiphuongngo/Mortgage-Accounting-and-Risk-Analytics/tree/main).
