@@ -20,6 +20,7 @@ Analytics | Causal Inference, Statistical Inference and Modelling (Sampling, A/B
 Languages | **English** 🇺🇲 (fluent), **Vietnamese** (native), **French** 🇨🇦🇨🇵 (basic overall, intermediate reading), **German** 🇩🇪 (basic overall, intermediate reading) 
 Others | [Certified Six Sigma White Belt](https://github.com/daiphuongngo/daiphuongngo/blob/main/Six%20Sigma%20White%20Belt%20-%20Dai-Phuong%20Ngo%20(Liam).jpg), Atlassian Confluence, Jira, Trello
 
+---
 ## Education & Experience:
 
 `Oct 2024 - Apr 2025` - `Finance Data Transformation Analyst`, Finance & Controlling - [Haventree Bank](https://www.haventreebank.com/en/) 🏦 - Toronto, Ontario, Canada 🍁🇨🇦 
