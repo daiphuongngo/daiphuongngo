@@ -25,16 +25,16 @@ Others | [Certified Six Sigma White Belt](https://github.com/daiphuongngo/daiphu
 
 `Oct 2024 - Apr 2025` - `Finance Data Transformation Analyst`, Finance & Controlling - [Haventree Bank](https://www.haventreebank.com/en/) 🏦 - Toronto, Ontario, Canada 🍁🇨🇦 
 
-- Advanced Analytics & Reporting: Supported risk analytics & credit risk team with logical development in ``Alteryx``, ``Python``, ``Tableau``’s KPIs, codes to transform data, plot geospatial visuals, analyze [fire weather climate risk & OSFI metrics](https://github.com/daiphuongngo/Mortgage-Accounting-and-Risk-Analytics/tree/main).
-- Data Automation & Workflow Optimization: Designed and deployed Alteryx, Python, SQL workflows to [consolidate accounting logics and automate bank account reconciliation](https://github.com/daiphuongngo/Mortgage-Accounting-and-Risk-Analytics/tree/main), match mortgage, deposit, corporate & funding transactions between banking partners vs. internal general ledger, integrating data from ``SharePoint``, ``Excel``, and ``SQL`` databases, improving reconciliation accuracy and efficiency by 90% and reducing manual reconciliation efforts by 70%.
-- Collaboration & Governance: Worked closely with accounting, finance teams to deliver data analytics, insights and establish best translated rule-based logic solutions for financial data automation and reconciliation on ``Alteryx Designer`` workflows deployed to ``Alteryx Server``.
+- **Advanced Analytics & Reporting**: Supported risk analytics & credit risk team with logical development in ``Alteryx``, ``Python``, ``Tableau``’s KPIs, codes to transform data, plot geospatial visuals, analyze [fire weather climate risk & OSFI metrics](https://github.com/daiphuongngo/Mortgage-Accounting-and-Risk-Analytics/tree/main).
+- **Data Automation & Workflow Optimization**: Designed and deployed Alteryx, Python, SQL workflows to [consolidate accounting logics and automate bank account reconciliation](https://github.com/daiphuongngo/Mortgage-Accounting-and-Risk-Analytics/tree/main), match mortgage, deposit, corporate & funding transactions between banking partners vs. internal general ledger, integrating data from ``SharePoint``, ``Excel``, and ``SQL`` databases, improving reconciliation accuracy and efficiency by 90% and reducing manual reconciliation efforts by 70%.
+- **Collaboration & Governance**: Worked closely with accounting, finance teams to deliver data analytics, insights and establish best translated rule-based logic solutions for financial data automation and reconciliation on ``Alteryx Designer`` workflows deployed to ``Alteryx Server``.
 ---
 `Apr 2023 - Oct 2024` - `Analyst, Business Insights`, Accounting, Tax & Finance - [Hudson's Bay Company](https://www.hbc.com/) 🛍️ (HBC: Hudson’s Bay, The Bay, Saks Fifth Avenue, Saks Off Fifth) - Toronto, Ontario, Canada 🍁🇨🇦 🇺🇸
 
-- SQL, APA Pipelines & Data Engineering: Built ``SQL`` pipelines and automated ``Alteryx``, ``Dataiku`` workflows to streamline high-level reporting, reducing manual reconciliation efforts by 70-95%, integrated sources to enhance accuracy for tax & accounting teams, and discuss directly with VP – Tax, DVP – Indirect Tax for reports to CEO, ``US`` 🇺🇸, ``Puerto Rican`` 🇵🇷 & ``Canadian`` 🇨🇦 state & provincial auditors, Big 4 firms: ``Deloitte, KPMG, EY``
-- Machine Learning & AI: Implemented ``ML models``, ``NLP``, ``Computer Vision`` in ``Python`` to classify tax codes in SKU items in both the US & Canada, identify features from PDF invoices, increasing tax compliance and reducing manual efforts by 60%.
-- Data Architecture & Analytics: Cooperated with Data Engineer, Architect to design and develop a ``Snowflake``-based Data Hub to centralize tax data from Snowflake, ``Oracle`` for later reporting and analytics, optimizing ETL workflows and reducing reporting errors by 70%.
-- Data Visualization & Business Intelligence: Designed ``Tableau``, ``Power BI`` dashboards with advanced LOD, DAX, MDX measures, improving engagement and decision-making insights to replace static dashboards provided by Big 4 and save $20K annually.
+- **SQL, APA Pipelines & Data Engineering**: Built ``SQL`` pipelines and automated ``Alteryx``, ``Dataiku`` workflows to streamline high-level reporting, reducing manual reconciliation efforts by 70-95%, integrated sources to enhance accuracy for tax & accounting teams, and discuss directly with VP – Tax, DVP – Indirect Tax for reports to CEO, ``US`` 🇺🇸, ``Puerto Rican`` 🇵🇷 & ``Canadian`` 🇨🇦 state & provincial auditors, Big 4 firms: ``Deloitte, KPMG, EY``
+- **Machine Learning & AI**: Implemented ``ML models``, ``NLP``, ``Computer Vision`` in ``Python`` to classify tax codes in SKU items in both the US & Canada, identify features from PDF invoices, increasing tax compliance and reducing manual efforts by 60%.
+- **Data Architecture & Analytics**: Cooperated with Data Engineer, Architect to design and develop a ``Snowflake``-based Data Hub to centralize tax data from Snowflake, ``Oracle`` for later reporting and analytics, optimizing ETL workflows and reducing reporting errors by 70%.
+- **Data Visualization & Business Intelligence**: Designed ``Tableau``, ``Power BI`` dashboards with advanced LOD, DAX, MDX measures, improving engagement and decision-making insights to replace static dashboards provided by Big 4 and save $20K annually.
 - **Few-shot LLM Prompting for Tax Code Classification** (e.g., mapping product transactions to tax logic using OpenAI models, based on retail data) as one of my Classification Modelling layers
 - **Tax Slip PDF Signature Detection** using pretrained models like `fasterrcnn_resnet50_fpn` (developed by Microsoft and Meta), helping replicate manual audit marking using computer vision and replace manual tasks on non-structured data files
 ---
@@ -54,10 +54,10 @@ Others | [Certified Six Sigma White Belt](https://github.com/daiphuongngo/daiphu
 ---
 `Jan 2023 - Apr 2023` - `Alteryx Administrator`, AWS Cloud Ops Data Migration - [Billennium IT Inc](https://billennium.com/) 🖥️ for [Roche](https://www.roche.com/) ⚗️ (Swiss BioTech), Data Engineering - Integration, Data Services & Insights Foundational Domain  - Mississauga, Ontario, Canada 🍁🇨🇦 
 
-- Data Governance & Log Analysis: Monitored and analyzed IT log data from ``MongoDB`` on ``Alteryx Designer`` to track user activities, workflow hubs, and ``Alteryx Server`` performance across ``Roche``’s North America & Europe operations.  
-- Automation & Performance Optimization: Collaborated with team leader to develop Alteryx-based automatable flows to enhance user’s workflow performance and identify bottlenecks in data processing.  
-- System Monitoring & Security: Evaluated user authentication, server logs, and data access patterns to ensure compliance with Roche’s data protection standards and global security policies.  
-- Alteryx Server Administration: Optimized server configurations, managed workflow execution, and collaborated with IT teams to troubleshoot high-performance computing issues.
+- **Data Governance & Log Analysis**: Monitored and analyzed IT log data from ``MongoDB`` on ``Alteryx Designer`` to track user activities, workflow hubs, and ``Alteryx Server`` performance across ``Roche``’s North America & Europe operations.  
+- **Automation & Performance Optimization**: Collaborated with team leader to develop Alteryx-based automatable flows to enhance user’s workflow performance and identify bottlenecks in data processing.  
+- **System Monitoring & Security**: Evaluated user authentication, server logs, and data access patterns to ensure compliance with Roche’s data protection standards and global security policies.  
+- **Alteryx Server Administration**: Optimized server configurations, managed workflow execution, and collaborated with IT teams to troubleshoot high-performance computing issues.
 ---
 `Jan 2021 - Aug 2022` - `Business Insights & Analytics Post-Graduate Program` - [Humber College](https://business.humber.ca/programs/business-insights-and-analytics.html)  - Toronto, Ontario, Canada 🍁🇨🇦 
 
@@ -71,21 +71,21 @@ Others | [Certified Six Sigma White Belt](https://github.com/daiphuongngo/daiphu
 ---
 `Jan'22 - Apr 2022` - `Product Data Analyst Intern` - [iRestify Inc.](https://irestify.com/) 🏢👷 - Toronto, Ontario, Canada 🍁🇨🇦 
 
-- Geospatial & Business Intelligence Analytics: Built ``GIS-based Power BI`` dashboards to analyze revenue performance by location, optimizing territory-based pricing and operations.  
-- Data Cleansing & Feature Engineering: Applied ``Python`` & ``SQL`` for data wrangling, increasing accuracy by 20% for key KPIs.  
-- Data Automation: Designed workflow automations in Power BI’s DAX and MDX, reducing manual reporting efforts by 30%.
+- **Geospatial & Business Intelligence Analytics**: Built ``GIS-based Power BI`` dashboards to analyze revenue performance by location, optimizing territory-based pricing and operations.  
+- **Data Cleansing & Feature Engineering**: Applied ``Python`` & ``SQL`` for data wrangling, increasing accuracy by 20% for key KPIs.  
+- **Data Automation**: Designed workflow automations in Power BI’s DAX and MDX, reducing manual reporting efforts by 30%.
 ---
 `Aug-Dec 2021` - `Data Engineering & Analytics Intern` (remote) - [Center of Talent in AI (CoTAI)](https://www.linkedin.com/company/cotai/posts/?feedView=all) 🤖 - Toronto, Ontario, Canada 🍁🇨🇦 
 
-- Big Data Engineering: Managed 4M+ data records, optimizing ETL pipelines between Vietnam & North America for [Sentiment Analysis](https://github.com/daiphuongngo/Sentiment-Analysis-Python-SQL-Tableau) & behavior detection.  
-- Sentiment Analysis & Target Detection: Developed NLP-based classification models in ``Python`` to detect sentiment and reaction from customer feedback on e-commerce platforms.  
-- Visualization & Predictive Insights: Designed ``Tableau`` dashboards to track consumer sentiment trends and signals.  
+- **Big Data Engineering**: Managed 4M+ data records, optimizing ETL pipelines between Vietnam & North America for [Sentiment Analysis](https://github.com/daiphuongngo/Sentiment-Analysis-Python-SQL-Tableau) & behavior detection.  
+- Sentiment Analysis & Target Detection**: Developed NLP-based classification models in ``Python`` to detect sentiment and reaction from customer feedback on e-commerce platforms.  
+- **Visualization & Predictive Insights: Designed ``Tableau`` dashboards to track consumer sentiment trends and signals.  
 - Compiled ``Machine & Deep Learning classifiers`` tackling imbalanced datasets to detect target customers for [Banking’s Marketing Targets](https://github.com/daiphuongngo/Banking-Dataset-Imbalanced-Learn-Comparison)
 ---
 `Jun 2017 - Jun 2019` - `Sales Executive & Sales Coordinator` - [Sofitel Saigon Plaza](https://sofitel.accor.com/en/hotels/2077.html?merchantid=ppc-sof-nom-msn-ww-en-sear&sourceid=bp-cen&utm_source=bing&utm_medium=cpc&utm_campaign=ppc-sof-nom-msn-ww-en-ww-mix-sear-bp&utm_term=nom&utm_content=ww-en-VN-V5627&msclkid=df7901b715311a866de869b9e8aaf6b5&utm_source=bing&utm_medium=cpc&utm_campaign=ppc-sof-nom-msn-ww-en-ww-mix-sear-bp-cen&utm_term=Sofitel%20Saigon%20Plaza&utm_content=sof-v5627-ho_chi_minh_city%2F2077) 🏨 - Ho Chi Minh City, Viet Nam
 
-- Revenue Forecasting: Prepared, consolidated financial Excel & Power BI reports to track sales performance and forecast departmental revenue targets, supporting executive decision-making and driving quarterly sales growth by 1-10% per account.
-- Revenue Generation: Managed key accounts, segments, and markets, consistently meeting and exceeding team & personal revenue targets for approximately 16 months, contributing to 65% of sales duration while consulting with the Revenue team on target settings.
+- **Revenue Forecasting**: Prepared, consolidated financial Excel & Power BI reports to track sales performance and forecast departmental revenue targets, supporting executive decision-making and driving quarterly sales growth by 1-10% per account.
+- **Revenue Generation**: Managed key accounts, segments, and markets, consistently meeting and exceeding team & personal revenue targets for approximately 16 months, contributing to 65% of sales duration while consulting with the Revenue team on target settings.
 ---
 ## Projects:
 
