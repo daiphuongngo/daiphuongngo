@@ -126,7 +126,7 @@ CSCI S-278	Applied Quantitative Finance and Machine Learning in Python | Summer'
 CSCI E-89B Natural Language Processing in Python | Fall'25
 CSCI E-116	Dynamic Modeling and Forecasting in Big Data | Fall'25
 CSCI E-104 Advanced Deep Learning | Spring'26
-CSCI E-102 Econometrics and Causal Inference with R | Spring'26
+CSCI E-94 Fundamentals of Cloud Computing and OpenAI with Microsoft Azure | Spring'26
 CSCI E-597 Pre-Capstone & CSCI E-599A Capstone | Summer'26 & Fall'26
 CSCI E-25 Computer Vision in Python with Deep Learning, Deep CNN, Transfer Learning, Generative Models ✅ | Grade A (93-100%)
 CSCI E-192 Modern Data Analytics with Spark Core, Spark SQL, Spark MLLib, GraphX, NLP, AWS, GCP, Python  ✅ | Grade A (93-100%)
