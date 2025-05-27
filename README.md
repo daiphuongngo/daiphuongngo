@@ -132,7 +132,7 @@ CSCI E-25 Computer Vision in Python with Deep Learning, Deep CNN, Transfer Learn
 CSCI E-192 Modern Data Analytics with Spark Core, Spark SQL, Spark MLLib, GraphX, NLP, AWS, GCP, Python  ✅ | Grade A (93-100%)
 CSCI E-83 Fundamentals in Data Science in Python (computational statistical inference with maximum likelihood, modern resampling methods, and Bayesian models)  ✅ | Grade A (93-100%)
 STAT E-109 Introduction to Statistical Modelling in R  ✅ | Grade A- (90-92%)
-CSCI E-101 Foundations of Data Science & Engineering in Python, SQL, Tableau ✅ | Grade A (93-100%)
+CSCI E-101 Foundations of Data Science & Engineering in Python, SQL, Tableau ✅ | ✅ | Grade A (93-100%)
 
 ---
 ## Humber College - Post Graduate, Business Insights and Analytics - Academic Progress:
