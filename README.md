@@ -80,9 +80,9 @@ Others | [Certified Six Sigma White Belt](https://github.com/daiphuongngo/daiphu
 `Aug-Dec 2021` - `Data Engineering & Analytics Intern` (remote) - [Center of Talent in AI (CoTAI)](https://www.linkedin.com/company/cotai/posts/?feedView=all) 🤖 - Toronto, Ontario, Canada 🍁🇨🇦 
 
 - **Big Data Engineering**: Managed 4M+ data records, optimizing ETL pipelines between Vietnam & North America for [Sentiment Analysis](https://github.com/daiphuongngo/Sentiment-Analysis-Python-SQL-Tableau) & behavior detection.  
-- Sentiment Analysis & Target Detection**: Developed NLP-based classification models in ``Python`` to detect sentiment and reaction from customer feedback on e-commerce platforms.  
-- **Visualization & Predictive Insights: Designed ``Tableau`` dashboards to track consumer sentiment trends and signals.  
-- Compiled ``Machine & Deep Learning classifiers`` tackling imbalanced datasets to detect target customers for [Banking’s Marketing Targets](https://github.com/daiphuongngo/Banking-Dataset-Imbalanced-Learn-Comparison)
+- **Sentiment Analysis & Target Detection**: Developed NLP-based classification models in ``Python`` to detect sentiment and reaction from customer feedback on e-commerce platforms.  
+- **Visualization & Predictive Insights**: Designed ``Tableau`` dashboards to track consumer sentiment trends and signals.  
+- **Machine Learning Classification**: Compiled ``Machine & Deep Learning classifiers`` tackling imbalanced datasets to detect target customers for [Banking’s Marketing Targets](https://github.com/daiphuongngo/Banking-Dataset-Imbalanced-Learn-Comparison)
 ---
 `Jun 2017 - Jun 2019` - `Sales Executive & Sales Coordinator` - [Sofitel Saigon Plaza](https://sofitel.accor.com/en/hotels/2077.html?merchantid=ppc-sof-nom-msn-ww-en-sear&sourceid=bp-cen&utm_source=bing&utm_medium=cpc&utm_campaign=ppc-sof-nom-msn-ww-en-ww-mix-sear-bp&utm_term=nom&utm_content=ww-en-VN-V5627&msclkid=df7901b715311a866de869b9e8aaf6b5&utm_source=bing&utm_medium=cpc&utm_campaign=ppc-sof-nom-msn-ww-en-ww-mix-sear-bp-cen&utm_term=Sofitel%20Saigon%20Plaza&utm_content=sof-v5627-ho_chi_minh_city%2F2077) 🏨 - Ho Chi Minh City, Viet Nam
 
