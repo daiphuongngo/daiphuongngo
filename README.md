@@ -124,8 +124,8 @@ Governance & Ethics in Data | - Gained the highest grade of 95% in all Professor
 
 Courses | Grade (at Harvard University, the highest grade is an "A," (93-100%) equivalent to a 4.00 on the 4-point scale) / Progress
 --------|------------
-CSCI S-89	Deep Learning in Python | Summer'25
-CSCI S-278	Applied Quantitative Finance and Machine Learning in Python | Summer'25 
+CSCI S-89	Deep Learning in Python | Summer'25 (IP)
+CSCI S-278	Applied Quantitative Finance and Machine Learning in Python | Summer'25 (IP)
 CSCI E-89B Natural Language Processing in Python | Fall'25
 CSCI E-116	Dynamic Modeling and Forecasting in Big Data | Fall'25
 CSCI E-104 Advanced Deep Learning | Spring'26
@@ -135,7 +135,7 @@ CSCI E-25 Computer Vision in Python with Deep Learning, Deep CNN, Transfer Learn
 CSCI E-192 Modern Data Analytics with Spark Core, Spark SQL, Spark MLLib, GraphX, NLP, AWS, GCP, Python  ✅ | Grade A (93-100%)
 CSCI E-83 Fundamentals in Data Science in Python (computational statistical inference with maximum likelihood, modern resampling methods, and Bayesian models)  ✅ | Grade A (93-100%)
 STAT E-109 Introduction to Statistical Modelling in R  ✅ | Grade A- (90-92%)
-CSCI E-101 Foundations of Data Science & Engineering in Python, SQL, Tableau ✅ | ✅ | Grade A (93-100%)
+CSCI E-101 Foundations of Data Science & Engineering in Python, SQL, Tableau ✅ | Grade A (93-100%)
 
 ---
 ## Humber College - Post Graduate, Business Insights and Analytics - Academic Progress:
