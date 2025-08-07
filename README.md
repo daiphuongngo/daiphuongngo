@@ -44,11 +44,13 @@ Others | [Certified Six Sigma White Belt](https://github.com/daiphuongngo/daiphu
 ---
 `Jan 2024 - Dec 2026` - `Master of Liberal Arts (ALM), Extension Studies, Graduate Student` - [Harvard University](https://extension.harvard.edu/academics/programs/data-science-graduate-program/) (online part-time evening) - Cambridge, Massachusetts, USA 🇺🇸
 
+- [🛰️ Satellite & UAV Aerial Image Semantic Segmentation (CSCI S-89 Deep Learning)](https://github.com/daiphuongngo/Satellite-UAV-Aerial-Image-Semantic-Segmentation-DeepLabV3-UNet-ENet-PSPNet/tree/main): - Developed a deep learning project for multi-class semantic segmentation on aerial imagery using fine-tuned PSPNet, UNet, and DeepLabV3+, applied to three datasets: UAVID, modified Bhuvan Land Cover, and Dubai semantic tile datasets.
+  
+- [📈 Predicting Market Movements and Building Smart Portfolios with SVR, Random Forest, and LSTM Models: Evidence from Five Major Canadian Banks (CSCI S-278  Applied Quantitative Finance and Machine Learning](https://github.com/daiphuongngo/Predicting-Market-Movements-Building-Smart-Portfolios-with-ML-DL-RL-from-5-Major-Canadian-Banks/blob/main/README.md)
+  
 - [🧠 Brain Tumor MRI Image Segmentation & Detection (CSCI E-25 Computer Vision)](https://github.com/daiphuongngo/Brain-Tumor-Deep-Learning-Detection-CNN-VGG-ResNet50-EfficientNet-ConvNeXt-and-Segmentation-SAM-UNet/tree/main): - Designed & fine-tuned ``Deep Learning pipelines`` (``Keras, Pytorch``) for MRI image segmentation, leveraging ``CNNs``, ``U-Net``, ``DeepLab V3+`` for high-precision tumor detection.
 
 - [💳 Scalable Cloud-Based Credit Card Fraud Detection GCP AWS (CSCI E-192 Modern Data Analytics)](https://github.com/daiphuongngo/Scalable-Cloud-Based-Credit-Card-Fraud-Detection-Vertex-AI-on-Google-Cloud-Platform-GCP/tree/main): - Applied modern data analytics and machine learning techniques to detect fraudulent credit card transactions using ``Google Cloud Platform`` & ``AWS``. Built on ``BigQuery``, ``Vertex AI``, ``Dataproc``, ``GCS``, ``EMR``, ``Athena``, ``S3`` via ``PySpark``, ``SQL``, the pipeline includes data preprocessing, model training with ``Random Forest``, model evaluation, and deployment for real-time prediction while handling imbalanced data.
-
-- [🛰️ Satellite & UAV Aerial Image Semantic Segmentation (CSCI S-89 Deep Learning)](https://github.com/daiphuongngo/Satellite-UAV-Aerial-Image-Semantic-Segmentation-DeepLabV3-UNet-ENet-PSPNet/tree/main): - Developed a deep learning project for multi-class semantic segmentation on aerial imagery using fine-tuned PSPNet, UNet, and DeepLabV3+, applied to three datasets: UAVID, modified Bhuvan Land Cover, and Dubai semantic tile datasets.
 
 - [📈 Causal Aware Stock Prediction Integrating LSTM and Causal Inference for Tech Sector Asset Evaluation (CSCI S-278 Applied Quantitative Finance and Machine Learning)](https://github.com/daiphuongngo/Causal-Aware-Stock-Prediction-Integrating-LSTM-and-Causal-Inference-for-Tech-Sector-Asset-Evaluation/tree/main): - Integrated causal inference and deep learning in Python to improve stock prediction by combining LSTM forecasts with heterogeneous treatment effect models, enabling more confident, personalized trading decisions.
 
@@ -97,6 +99,7 @@ Others | [Certified Six Sigma White Belt](https://github.com/daiphuongngo/daiphu
 
 Topic | more projects available on [GitHub](https://github.com/daiphuongngo?tab=repositories) & [Tableau Public](https://public.tableau.com/app/profile/dai.phuong.ngo)
 --------|------------
+[📈 Predicting Market Movements and Building Smart Portfolios with SVR, Random Forest, and LSTM Models: Evidence from Five Major Canadian Banks (CSCI S-278  Applied Quantitative Finance and Machine Learning](https://github.com/daiphuongngo/Predicting-Market-Movements-Building-Smart-Portfolios-with-ML-DL-RL-from-5-Major-Canadian-Banks/blob/main/README.md)
 [🛰️ Satellite & UAV Aerial Image Semantic Segmentation (CSCI S-89 Deep Learning)](https://github.com/daiphuongngo/Satellite-UAV-Aerial-Image-Semantic-Segmentation-DeepLabV3-UNet-ENet-PSPNet/tree/main) | - Developed a deep learning project for multi-class semantic segmentation on aerial imagery using fine-tuned PSPNet, UNet, and DeepLabV3+, applied to three datasets: UAVID, modified Bhuvan Land Cover, and Dubai semantic tile datasets.
 [📈 Causal Aware Stock Prediction Integrating LSTM and Causal Inference for Tech Sector Asset Evaluation (CSCI S-278 Applied Quantitative Finance and Machine Learning)](https://github.com/daiphuongngo/Causal-Aware-Stock-Prediction-Integrating-LSTM-and-Causal-Inference-for-Tech-Sector-Asset-Evaluation/tree/main) | - Integrated causal inference and deep learning in Python to improve stock prediction by combining LSTM forecasts with heterogeneous treatment effect models, enabling more confident, personalized trading decisions.
 [🧠 Brain Tumor MRI Image Segmentation & Detection (CSCI E-25 Computer Vision)](https://github.com/daiphuongngo/Brain-Tumor-Deep-Learning-Detection-CNN-VGG-ResNet50-EfficientNet-ConvNeXt-and-Segmentation-SAM-UNet/tree/main) | - Designed deep learning pipelines (Keras, Pytorch) for MRI image segmentation, leveraging CNNs, U-Net for high-precision tumor detection.
@@ -128,13 +131,13 @@ Governance & Ethics in Data | - Gained the highest grade of 95% in all Professor
 
 Courses | Grade (at Harvard University, the highest grade is an "A," (93-100%) equivalent to a 4.00 on the 4-point scale) / Progress
 --------|------------
-CSCI S-89	Deep Learning in Python | Summer'25 (IP)
-CSCI S-278	Applied Quantitative Finance and Machine Learning in Python | Summer'25 (IP)
 CSCI E-89B Natural Language Processing in Python | Fall'25
 CSCI E-116	Dynamic Modeling and Forecasting in Big Data | Fall'25
 CSCI E-104 Advanced Deep Learning | Spring'26
 CSCI E-94 Fundamentals of Cloud Computing and OpenAI with Microsoft Azure | Spring'26
 CSCI E-597 Pre-Capstone & CSCI E-599A Capstone | Summer'26 & Fall'26
+CSCI S-89	Deep Learning in Python ✅ | Grade A (93-100%)
+CSCI S-278	Applied Quantitative Finance and Machine Learning in Python ✅ | Grade A (93-100%)
 CSCI E-25 Computer Vision in Python with Deep Learning, Deep CNN, Transfer Learning, Generative Models ✅ | Grade A (93-100%)
 CSCI E-192 Modern Data Analytics with Spark Core, Spark SQL, Spark MLLib, GraphX, NLP, AWS, GCP, Python  ✅ | Grade A (93-100%)
 CSCI E-83 Fundamentals in Data Science in Python (computational statistical inference with maximum likelihood, modern resampling methods, and Bayesian models)  ✅ | Grade A (93-100%)
