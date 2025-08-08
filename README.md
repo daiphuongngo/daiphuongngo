@@ -46,7 +46,7 @@ Others | [Certified Six Sigma White Belt](https://github.com/daiphuongngo/daiphu
 
 - [🛰️ Satellite & UAV Aerial Image Semantic Segmentation (CSCI S-89 Deep Learning)](https://github.com/daiphuongngo/Satellite-UAV-Aerial-Image-Semantic-Segmentation-DeepLabV3-UNet-ENet-PSPNet/tree/main): - Developed a deep learning project for multi-class semantic segmentation on aerial imagery using fine-tuned PSPNet, UNet, and DeepLabV3+, applied to three datasets: UAVID, modified Bhuvan Land Cover, and Dubai semantic tile datasets.
   
-- [📈 Predicting Market Movements and Building Smart Portfolios with SVR, Random Forest, and LSTM Models: Evidence from Five Major Canadian Banks (CSCI S-278  Applied Quantitative Finance and Machine Learning](https://github.com/daiphuongngo/Predicting-Market-Movements-Building-Smart-Portfolios-with-ML-DL-RL-from-5-Major-Canadian-Banks/blob/main/README.md)
+- [📈 Predicting Market Movements and Building Smart Portfolios with SVR, Random Forest, and LSTM Models: Evidence from Five Major Canadian Banks (CSCI S-278  Applied Quantitative Finance and Machine Learning])(https://github.com/daiphuongngo/Predicting-Market-Movements-Building-Smart-Portfolios-with-ML-DL-RL-from-5-Major-Canadian-Banks/blob/main/README.md)
   
 - [🧠 Brain Tumor MRI Image Segmentation & Detection (CSCI E-25 Computer Vision)](https://github.com/daiphuongngo/Brain-Tumor-Deep-Learning-Detection-CNN-VGG-ResNet50-EfficientNet-ConvNeXt-and-Segmentation-SAM-UNet/tree/main): - Designed & fine-tuned ``Deep Learning pipelines`` (``Keras, Pytorch``) for MRI image segmentation, leveraging ``CNNs``, ``U-Net``, ``DeepLab V3+`` for high-precision tumor detection.
 
