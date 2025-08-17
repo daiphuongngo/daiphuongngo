@@ -42,7 +42,7 @@ Others | [Certified Six Sigma White Belt](https://github.com/daiphuongngo/daiphu
 - **Multiclass Classification & Few-shot LLM Prompting for Tax Code Mapping** (e.g., concatenating product transactions to tax logic using OpenAI models, based on retail data) as one of my Classification Modelling layers.
 - **Tax Slip PDF Signature Detection** using pretrained models like `fasterrcnn_resnet50_fpn` (developed by Microsoft and Meta), helping replicate manual audit marking using computer vision and replace manual tasks on non-structured data files.
 ---
-`Jan 2024 - Dec 2026` - `Master of Liberal Arts (ALM), Extension Studies, Graduate Student` - [Harvard University](https://extension.harvard.edu/academics/programs/data-science-graduate-program/) (online part-time evening) - Cambridge, Massachusetts, USA 🇺🇸
+`Jan 2024 - Dec 2026` - `Master of Liberal Arts (ALM), Extension Studies, Data Science, Graduate Student` - [Harvard University](https://extension.harvard.edu/academics/programs/data-science-graduate-program/) (online part-time evening) - Cambridge, Massachusetts, USA 🇺🇸
 
 [🛰️ Satellite & UAV Aerial Image Semantic Segmentation (CSCI S-89 Deep Learning)](https://github.com/daiphuongngo/Satellite-UAV-Aerial-Image-Semantic-Segmentation-DeepLabV3-UNet-ENet-PSPNet/tree/main):
 - Developed a deep learning project for multi-class semantic segmentation on aerial imagery using fine-tuned PSPNet, UNet, and DeepLabV3+, applied to three datasets: UAVID, modified Bhuvan Land Cover, and Dubai semantic tile datasets.
