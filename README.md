@@ -141,7 +141,7 @@ Governance & Ethics in Data | - Gained the highest grade of 95% in all Professor
 Courses | Grade (at Harvard University, the highest grade is an "A," (93-100%) equivalent to a 4.00 on the 4-point scale) / Progress
 --------|------------
 CSCI E-89B Natural Language Processing in Python | Fall'25
-CSCI E-89	Deep Learning | Fall'25
+CSCI E-108 Data Mining, Discovery, and Exploration in Python | Fall'25
 CSCI E-104 Advanced Deep Learning | Spring'26
 CSCI E-94 Fundamentals of Cloud Computing and OpenAI with Microsoft Azure | Spring'26
 CSCI E-597 Pre-Capstone & CSCI E-599A Capstone | Summer'26 & Fall'26
