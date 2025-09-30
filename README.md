@@ -23,7 +23,7 @@ Others | [Certified Six Sigma White Belt](https://github.com/daiphuongngo/daiphu
 ---
 ## Education & Experience:
 
-`Jul 2025 - now` - `Manager, Data Analyst`, Canadian Corporate Tax, Tax Technology - Asset Management - [KPMG LLP](https://kpmg.com/ca/en/home.html) - Toronto, Ontario, Canada 🍁🇨🇦 
+`Jul 2025 - now` - `Manager, Data Analyst`, Canadian Corporate Tax, Tax Technology - Asset Management Digital Solutions - [KPMG LLP](https://kpmg.com/ca/en/home.html) - Toronto, Ontario, Canada 🍁🇨🇦 
 
 ---
 
