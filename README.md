@@ -26,7 +26,7 @@ Others | [Certified Six Sigma White Belt](https://github.com/daiphuongngo/daiphu
 `Jul 2025 - now` - `Manager, Data Analyst`, Canadian Corporate Tax, Tax Technology - Asset Management Digital Solutions - [KPMG Canada](https://kpmg.com/ca/en/home.html) - Toronto, Ontario, Canada 🍁🇨🇦 
 
 - Architected an enterprise-grade Intelligent Document Processing (IDP) ecosystem for U.S. and Canadian tax forms, combining applied AI (OCR) for deep-learning detection, PDF structural parsing, classification, and multi-stage data engineering pipelines.
-- Spearheaded Azure=cloud-integrated ingestion and extraction workflows using Azure Blob Storage and service-based Python, C#, Javascript orchestration, enabling automated tickmark detection, tax form template classification, and high-fidelity structured outputs for downstream analytics. 
+- Spearheaded Azure-cloud-integrated ingestion and extraction workflows using Azure storage and service-based Python, C#, Javascript orchestration, enabling automated object detection, tax form template classification, and high-fidelity structured outputs for downstream analytics. 
 - Enabled the modernization of tax reporting automation by transitioning fragmented Power BI-driven workflows into robust Alteryx pipelines, enabling scalable, multi-client, multi-form operational efficiency.
 
 ---
