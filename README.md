@@ -52,7 +52,7 @@ Others | [Certified Six Sigma White Belt](https://github.com/daiphuongngo/daiphu
 - Designed and evaluated a multi-version clustering and retrieval pipeline on ~47.5k medical chatbot questions, moving from TF-IDF/LSA + KMeans to BERT+tags with Nyström spectral clustering. Built a production-style hybrid similarity search and reranking stack (BERT dense vectors + BM25 + tag Jaccard) to support intent discovery, taxonomy building, and downstream RAG use cases.
 
 [Auto-Tagging Medical Questions with Multi-Label Learning: A Comparative Analysis of NLP-Based Deep Learning Models (CSCI E-89B Natural Language Processing)](https://github.com/daiphuongngo/Auto-Tagging-Medical-Questions-with-Multi-Label-Deep-Learning-Clustering-Similarity-Search-Reranking):
-- Developed model training pipeline to preprocess, embed, analyze text-based data and predict label for each incomin gconversational phrase efficiently and precisely while leveraging statistical metrics for unsupervised evaluation.
+- Developed model training pipeline to preprocess, embed, analyze text-based data and predict label for each incoming conversational phrase efficiently and precisely while leveraging statistical metrics for unsupervised evaluation.
 
 [🛰️🛸 Satellite & UAV Aerial Image Semantic Segmentation (CSCI S-89 Deep Learning)](https://github.com/daiphuongngo/Satellite-UAV-Aerial-Image-Semantic-Segmentation-DeepLabV3-UNet-ENet-PSPNet/tree/main):
 - Developed a deep learning project for multi-class semantic segmentation on aerial imagery using fine-tuned PSPNet, UNet, DeepLabV3+, applied to three datasets: UAVID, modified Bhuvan Land Cover, and Dubai semantic tile datasets in disregard to complex ground object types.
