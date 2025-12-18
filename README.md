@@ -152,10 +152,11 @@ Governance & Ethics in Data | - Gained the highest grade of 95% in all Professor
 
 Courses | Grade (at Harvard University, the highest grade is an "A," (93-100%) equivalent to a 4.00 on the 4-point scale) / Progress
 --------|------------
-CSCI E-89B Natural Language Processing in Python | Fall'25
-CSCI E-108 Data Mining, Discovery, and Exploration in Python | Fall'25
-CSCI E-104 Advanced Deep Learning | Spring'26
-CSCI E-94 Fundamentals of Cloud Computing and OpenAI with Microsoft Azure | Spring'26
+
+CSCI E-104 Advanced Deep Learning | Spring'26 (graduate) 🚀
+CSCI E-94 Fundamentals of Cloud Computing and OpenAI with Microsoft Azure | Spring'26 (non-credit) 🚀
+CSCI E-89B Natural Language Processing in Python | Fall'25 ✅ | Grade A (93-100%)
+CSCI E-108 Data Mining, Discovery, and Exploration in Python | Fall'25 ✅ | Grade A (93-100%)
 CSCI E-597 Pre-Capstone & CSCI E-599A Capstone | Summer'26 & Fall'26
 CSCI S-89	Deep Learning in Python ✅ | Grade A (93-100%)
 CSCI S-278	Applied Quantitative Finance and Machine Learning in Python ✅ | Grade A (93-100%)
@@ -175,7 +176,7 @@ Managerial Finance & Accounting ✅ | Excel (Investment Analysis of Shopify and 
 Big Data ✅ | **Hadoop, R, Neo4j, Cypher, Graph**
 Quantitative Research Methods I & II ✅ | **Descriptive & Inferential Statistics, Probability, Normal Distribution, Estimation, Hypothesis Testing**
 Database & SQL ✅ | **SQL**, **ERD, Normalization**
-Governance & Ethics in Data ✅ | Reflection & Integration of Knowledge: Governance & Ethics of Analytics in in Data, AI & Technology - *only available from hyperlink in my Resume* - (graded `95/100` & feedbacked by Professor. Kathleen Mcginn 😧 : `"My goodness Phuong,Thank you for sharing this with me. It is indeed a very deep, intelligent and meaningful piece of writing that deserves an excellent grade - 95 (!) - the highest grade I have given so far. Congratulations - you have truly earned it."`)
+Governance & Ethics in Data ✅ | Reflection & Integration of Knowledge: Governance & Ethics of Analytics in in Data, AI & Technology - *only available from hyperlink in my Resume* - (graded `95/100` & feedbacked by Professor. Kathleen Mcginn : `"My goodness Phuong,Thank you for sharing this with me. It is indeed a very deep, intelligent and meaningful piece of writing that deserves an excellent grade - 95 (!) - the highest grade I have given so far. Congratulations - you have truly earned it."`)
 Canadian Business & Strategy ✅ | [TD Bank's Porter’s Value Chain Analysis](https://hackmd.io/@PhuongDaiNgo/HJpUbXK3F) & Nucor Corporation Analysis
 Marketing ✅ | 
 Predictive Analytics ✅ | linear and multiple regression, decision trees, linear programming, factor analysis, cluster analysis, modelling
