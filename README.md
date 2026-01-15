@@ -25,6 +25,11 @@ Others | [Certified Six Sigma White Belt](https://github.com/daiphuongngo/daiphu
 
 `Jul 2025 - now` - `Manager, Data Analytics`, Canadian Corporate Tax, Tax Technology - Asset Management Digital Solutions - [KPMG Canada](https://kpmg.com/ca/en/home.html) - Toronto, Ontario, Canada 🍁🇨🇦 
 
+- Applied AI, NLP & Computer Vision: Designed and prototyped AI-assisted document understanding and information extraction pipelines using Python, NLP, and computer vision techniques, including OCR-adjacent workflows and layout-aware processing, with emphasis on accuracy, explainability, and human-in-the-loop validation.
+- Data Engineering, Automation & Analytics: Built scalable data and automation pipelines using Python, Alteryx, SQL, cloud storage, and workflow orchestration to support analytics, reconciliation, reporting, and end-to-end process automation.
+- Cloud & AI Platform Integration (Azure): Implemented cloud-native components on Azure: Function Apps, Containers, databases, Azure OpenAI services, to support controlled experimentation, API-based workflows, and modular AI prototypes.
+- Quality, Governance & Controls: Worked under strict compliance, auditability, and data governance requirements, emphasizing reproducibility, access controls, controlled experimentation, research prototypes and production systems.
+- Cross-Functional Collaboration: Partnered with SMEs to translate complex domain knowledge into structured data models, automation logic, and analytical workflows, reinforcing precise terminology usage and validation for executive reports.
 - Architected an enterprise-grade Intelligent Document Processing (IDP) ecosystem for U.S. and Canadian tax forms, combining applied AI (OCR) for deep-learning detection, PDF structural parsing, recognition, classification, and multi-stage data engineering pipelines.
 - Spearheaded Azure-cloud-integrated ingestion and extraction workflows using Azure storage and service-based Python, C#, Javascript orchestration, enabling automated object detection, file type classification (tax form vs. non-tax form, form template versions), and high-fidelity structured outputs for downstream analytics. 
 - Enabled the modernization of tax reporting automation by transitioning fragmented Power BI-driven workflows into robust Alteryx pipelines, enabling scalable, multi-client, multi-form operational efficiency.
