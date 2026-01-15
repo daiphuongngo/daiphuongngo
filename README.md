@@ -23,7 +23,7 @@ Others | [Certified Six Sigma White Belt](https://github.com/daiphuongngo/daiphu
 ---
 ## Education & Experience:
 
-`Jul 2025 - now` - `Manager, Data Analytics`, Canadian Corporate Tax, Tax Technology - Asset Management Digital Solutions - [KPMG Canada](https://kpmg.com/ca/en/home.html) - Toronto, Ontario, Canada 🍁🇨🇦 
+`Jul 2025 - now` - `Manager, Data Analytics`, 🍁🇨🇦 🇺🇸 Corporate Tax, Tax Technology - Asset Management Digital Solutions - [KPMG Canada](https://kpmg.com/ca/en/home.html) - Toronto, Ontario, Canada 🍁🇨🇦 
 
 - Applied AI, NLP & Computer Vision: Designed and prototyped AI-assisted document understanding and information extraction pipelines using Python, NLP, and computer vision techniques, including OCR-adjacent workflows and layout-aware processing, with emphasis on accuracy, explainability, and human-in-the-loop validation.
 - Data Engineering, Automation & Analytics: Built scalable data and automation pipelines using Python, Alteryx, SQL, cloud storage, and workflow orchestration to support analytics, reconciliation, reporting, and end-to-end process automation.
@@ -42,7 +42,7 @@ Others | [Certified Six Sigma White Belt](https://github.com/daiphuongngo/daiphu
 - **Data Automation & Workflow Optimization**: Designed and deployed Alteryx, Python, SQL workflows to [consolidate accounting logics and automate bank account reconciliation](https://github.com/daiphuongngo/Mortgage-Accounting-and-Risk-Analytics/tree/main), match mortgage, deposit, corporate & funding transactions between banking partners vs. internal general ledger, integrating data from ``SharePoint``, ``Excel``, and ``SQL`` databases, improving reconciliation accuracy and efficiency by 90% and reducing manual reconciliation efforts by 70%.
 - **Collaboration & Governance**: Worked closely with accounting, finance teams to deliver data analytics, insights and establish best translated rule-based logic solutions for financial data automation and reconciliation on ``Alteryx Designer`` workflows deployed to ``Alteryx Server``.
 ---
-`Apr 2023 - Oct 2024` - `Analyst, Business Insights`, Accounting, Tax & Finance - [Hudson's Bay Company](https://www.hbc.com/) 🛍️ (HBC: Hudson’s Bay, The Bay, Saks Fifth Avenue, Saks Off Fifth) - Toronto, Ontario, Canada 🍁🇨🇦 🇺🇸
+`Apr 2023 - Oct 2024` - `Analyst, Business Insights`, 🍁🇨🇦 🇺🇸 Accounting, Tax & Finance - [Hudson's Bay Company](https://www.hbc.com/) 🛍️ (HBC: Hudson’s Bay, The Bay, Saks Fifth Avenue, Saks Off Fifth) - Toronto, Ontario, Canada 🍁🇨🇦 
 
 - **SQL, APA Pipelines & Data Engineering**: Built ``SQL`` pipelines and automated ``Alteryx``, ``Dataiku`` workflows to streamline high-level reporting, reducing manual reconciliation efforts by 70-95%, integrated sources to enhance accuracy for tax & accounting teams, and discuss directly with VP – Tax, DVP – Indirect Tax for reports to CEO, ``US`` 🇺🇸, ``Puerto Rican`` 🇵🇷 & ``Canadian`` 🇨🇦 state & provincial auditors, Big 4 consulting firms: ``Deloitte, KPMG, EY``.
 - **Machine Learning & AI**: Implemented ``ML models``, ``NLP``, ``Computer Vision`` in ``Python`` to classify tax codes in SKU items in both the US & Canada, identify features from PDF invoices, increasing tax compliance and reducing manual efforts by 60%.
