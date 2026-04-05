@@ -159,8 +159,8 @@ Courses | Grade / cGPA 3.96 (at Harvard University, the highest grade is an "A,"
 --------|------------
 CSCI E-222 Large Language Models (Python) | Spring'26 (graduate, Grade A) 🚀
 CSCI E-94 Fundamentals of Cloud Computing and OpenAI with Microsoft Azure | Spring'26 (non-credit) 🚀
-CSCI E-89B Natural Language Processing in Python | Fall'25 ✅ | Grade A (93-100%)
-CSCI E-108 Data Mining, Discovery, and Exploration in Python | Fall'25 ✅ | Grade A (93-100%)
+CSCI E-89B Natural Language Processing in Python ✅ | Grade A (93-100%)
+CSCI E-108 Data Mining, Discovery, and Exploration in Python ✅ | Grade A (93-100%)
 CSCI E-597 Pre-Capstone & CSCI E-599A Capstone | Summer'26 & Fall'26
 CSCI S-89	Deep Learning in Python ✅ | Grade A (93-100%)
 CSCI S-278	Applied Quantitative Finance and Machine Learning in Python ✅ | Grade A (93-100%)
