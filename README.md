@@ -233,5 +233,153 @@ DataCamp | **SQL Intermediate**
 Microsoft Office Specialist | **Word, Excel, Powerpoint**
 Udemy | **Power BI for Business Intelligence**
 
+## Languages, Technologies, Skills
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### Programming
+
+[![Certified SQL](https://img.shields.io/badge/Certified%20SQL-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/e1435c1487c7)
+[![Python](https://img.shields.io/badge/Python-Certified-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.hackerrank.com/certificates/b9463ba337a6)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![H2O.ai](https://img.shields.io/badge/H2O.ai-1F77B4?style=for-the-badge)
+![PyTesseract](https://img.shields.io/badge/PyTesseract-5A5A5A?style=for-the-badge)
+![PyMuPDF](https://img.shields.io/badge/PyMuPDF-009688?style=for-the-badge)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge)
+![EasyOCR](https://img.shields.io/badge/EasyOCR-6B7280?style=for-the-badge)
+![PyWin32](https://img.shields.io/badge/PyWin32-0078D6?style=for-the-badge)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Spark SQL](https://img.shields.io/badge/Spark%20SQL-E25A1C?style=for-the-badge)
+![KQL](https://img.shields.io/badge/KQL-0078D4?style=for-the-badge)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Cypher](https://img.shields.io/badge/Cypher-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+    </td>
+    <td valign="top" width="50%">
+
+### Viz
+
+[![Power BI](https://img.shields.io/badge/Certified%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.credly.com/badges/94d81b5a-fb15-4edf-a31b-6e498ddaf76e/public_url)
+[![Tableau Desktop](https://img.shields.io/badge/Tableau%20Desktop-Certified-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.credly.com/badges/e273971c-ae48-4fc3-9b5d-2191f5ef2db0/public_url)
+![Tableau Prep](https://img.shields.io/badge/Tableau%20Prep-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Cognos](https://img.shields.io/badge/Cognos-B41F47?style=for-the-badge)
+![Qlik](https://img.shields.io/badge/Qlik-009845?style=for-the-badge&logo=qlik&logoColor=white)
+
+### Automation
+
+[![Alteryx Advanced Designer](https://img.shields.io/badge/Alteryx%20Advanced%20Designer-Certified-0078C0?style=for-the-badge)](https://www.credly.com/badges/1dc1ca90-0e57-4b96-8561-637c2bd1558b/public_url)
+[![Alteryx Designer Cloud Advanced](https://img.shields.io/badge/Alteryx%20Designer%20Cloud-Advanced-0078C0?style=for-the-badge)](https://community.alteryx.com/t5/user/viewprofilepage/user-id/288253)
+[![Alteryx Machine Learning Fundamentals](https://img.shields.io/badge/Alteryx%20ML-Fundamentals-0078C0?style=for-the-badge)](https://www.credly.com/badges/af9d92fe-1e6e-4107-8411-df8a712936c3/public_url)
+![Alteryx Intelligence Suite](https://img.shields.io/badge/Alteryx%20Intelligence%20Suite-0078C0?style=for-the-badge)
+[![Dataiku ML Practitioner](https://img.shields.io/badge/Dataiku%20ML%20Practitioner-Certified-00BFA5?style=for-the-badge&logo=dataiku&logoColor=white)](https://verify.skilljar.com/c/eufygnhqpyf4)
+[![Dataiku Developer](https://img.shields.io/badge/Dataiku%20Developer-Certified-00BFA5?style=for-the-badge&logo=dataiku&logoColor=white)](https://verify.skilljar.com/c/97spagfd9wax)
+![KNIME](https://img.shields.io/badge/KNIME-FDD800?style=for-the-badge&logo=knime&logoColor=black)
+![SPSS Modeler](https://img.shields.io/badge/SPSS%20Modeler-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![SPSS Statistics](https://img.shields.io/badge/SPSS%20Statistics-1261FE?style=for-the-badge&logo=ibm&logoColor=white)
+![SAS Studio](https://img.shields.io/badge/SAS%20Studio-0278D6?style=for-the-badge&logo=sas&logoColor=white)
+![Enterprise Miner](https://img.shields.io/badge/Enterprise%20Miner-0278D6?style=for-the-badge&logo=sas&logoColor=white)
+
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" width="50%">
+
+### Big Data
+
+[![Azure Data Fundamentals](https://img.shields.io/badge/Azure%20Data%20Fundamentals-Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com/badges/8ac05b83-b541-4f18-9758-710037e24fc6/public_url)
+[![Azure AI Fundamentals](https://img.shields.io/badge/Azure%20AI%20Fundamentals-Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com/badges/9daa319c-7aa3-4fd4-ad63-a06457014bd9/public_url)
+[![Alteryx Server Administration](https://img.shields.io/badge/Alteryx%20Server%20Administration-Certified-0078C0?style=for-the-badge)](https://www.credly.com/badges/38b6970d-5cee-48d0-aad0-0df1e8efe83e/public_url)
+[![Databricks Accredited Lakehouse Fundamentals](https://img.shields.io/badge/Databricks%20Lakehouse-Fundamentals-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)](https://images.credential.net/embed/h1r895cp.png)
+![AI Foundry](https://img.shields.io/badge/AI%20Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure ML](https://img.shields.io/badge/Azure%20ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Synapse](https://img.shields.io/badge/Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-6B46C1?style=for-the-badge)
+![Data Factory](https://img.shields.io/badge/Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Glue](https://img.shields.io/badge/Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kinesis](https://img.shields.io/badge/Kinesis-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Athena](https://img.shields.io/badge/Athena-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GCS](https://img.shields.io/badge/GCS-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Cloud Scheduler](https://img.shields.io/badge/Cloud%20Scheduler-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Fivetran](https://img.shields.io/badge/Fivetran-111827?style=for-the-badge)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge)
+![Zeppelin](https://img.shields.io/badge/Zeppelin-CB2027?style=for-the-badge)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+
+    </td>
+    <td valign="top" width="50%">
+
+### Data & AI Science
+
+![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-6A5ACD?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF6F61?style=for-the-badge)
+![Natural Language Processing](https://img.shields.io/badge/NLP-5B21B6?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-111827?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-9333EA?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge)
+![Causal Inference](https://img.shields.io/badge/Causal%20Inference-0F766E?style=for-the-badge)
+![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-2563EB?style=for-the-badge)
+![Sampling](https://img.shields.io/badge/Sampling-0891B2?style=for-the-badge)
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-DB2777?style=for-the-badge)
+![Bayesian](https://img.shields.io/badge/Bayesian-7C2D12?style=for-the-badge)
+![Financial Reporting](https://img.shields.io/badge/Financial%20Reporting-1D4ED8?style=for-the-badge)
+![Tax Compliance](https://img.shields.io/badge/Tax%20Compliance-7C3AED?style=for-the-badge)
+![Tax Recovery](https://img.shields.io/badge/Tax%20Recovery-6D28D9?style=for-the-badge)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
+![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![VLOOKUP](https://img.shields.io/badge/VLOOKUP-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![HLOOKUP](https://img.shields.io/badge/HLOOKUP-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Solver](https://img.shields.io/badge/Solver-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Goal Seek](https://img.shields.io/badge/Goal%20Seek-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Macros](https://img.shields.io/badge/Macros-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![GDPR](https://img.shields.io/badge/GDPR-003399?style=for-the-badge)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-1CB3A8?style=for-the-badge&logo=servicenow&logoColor=white)
+
+### Languages
+
+![English](https://img.shields.io/badge/English-Fluent-1F6FEB?style=for-the-badge)
+![Vietnamese](https://img.shields.io/badge/Vietnamese-Native-DA251D?style=for-the-badge)
+![French](https://img.shields.io/badge/French-Basic%20%7C%20Reading%20Intermediate-0055A4?style=for-the-badge)
+![German](https://img.shields.io/badge/German-Basic%20%7C%20Reading%20Intermediate-111827?style=for-the-badge)
+
+### Others
+
+[![Six Sigma White Belt](https://img.shields.io/badge/Six%20Sigma-White%20Belt-9CA3AF?style=for-the-badge)](https://github.com/daiphuongngo/daiphuongngo/blob/main/Six%20Sigma%20White%20Belt%20-%20Dai-Phuong%20Ngo%20(Liam).jpg)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
+    </td>
+  </tr>
+</table>
 
