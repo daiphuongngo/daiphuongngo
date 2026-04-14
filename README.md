@@ -37,30 +37,13 @@ Others | [Certified Six Sigma White Belt](https://github.com/daiphuongngo/daiphu
 - Enabled the modernization of tax reporting automation by transitioning fragmented Power BI-driven workflows into robust Alteryx pipelines, enabling scalable, multi-client, multi-form operational efficiency.
 
 ---
-<img width="117" height="42" alt="haventree-bank-36-card" src="https://github.com/user-attachments/assets/34052fc0-cbe1-4e0a-a7bf-84ff7480a534" />
-
-`Oct 2024 - Apr 2025` - `Finance Transformation Analyst`, Finance & Controlling - [Haventree Bank](https://www.haventreebank.com/en/) 🏦 - Toronto, Ontario, Canada 🍁🇨🇦 
-
-- **Advanced Analytics & Reporting**: Supported risk analytics & credit risk team with logical development in ``Alteryx``, ``Python``, ``Tableau``’s KPIs, codes to transform data, plot geospatial visuals, analyze [fire weather climate risk & OSFI metrics](https://github.com/daiphuongngo/Mortgage-Accounting-and-Risk-Analytics/tree/main).
-- **Data Automation & Workflow Optimization**: Designed and deployed Alteryx, Python, SQL workflows to [consolidate accounting logics and automate bank account reconciliation](https://github.com/daiphuongngo/Mortgage-Accounting-and-Risk-Analytics/tree/main), match mortgage, deposit, corporate & funding transactions between banking partners vs. internal general ledger, integrating data from ``SharePoint``, ``Excel``, and ``SQL`` databases, improving reconciliation accuracy and efficiency by 90% and reducing manual reconciliation efforts by 70%.
-- **Collaboration & Governance**: Worked closely with accounting, finance teams to deliver data analytics, insights and establish best translated rule-based logic solutions for financial data automation and reconciliation on ``Alteryx Designer`` workflows deployed to ``Alteryx Server``.
----
-
-<img width="64" height="42" alt="hudsons-bay-36-card" src="https://github.com/user-attachments/assets/5a9cd8f3-dcaa-4607-89ac-b7fc923eaee1" />
-
-`Apr 2023 - Oct 2024` - `Analyst, Business Insights`, 🍁🇨🇦 🇺🇸 Accounting, Tax & Finance - [Hudson's Bay Company](https://www.hbc.com/) 🛍️ (HBC: Hudson’s Bay, The Bay, Saks Fifth Avenue, Saks Off Fifth) - Toronto, Ontario, Canada 🍁🇨🇦 
-
-- **SQL, APA Pipelines & Data Engineering**: Built ``SQL`` pipelines and automated ``Alteryx``, ``Dataiku`` workflows to streamline high-level reporting, reducing manual reconciliation efforts by 70-95%, integrated sources to enhance accuracy for tax & accounting teams, and discuss directly with VP – Tax, DVP – Indirect Tax for reports to CEO, ``US`` 🇺🇸, ``Puerto Rican`` 🇵🇷 & ``Canadian`` 🇨🇦 state & provincial auditors, Big 4 consulting firms: ``Deloitte, KPMG, EY``.
-- **Machine Learning & AI**: Implemented ``ML models``, ``NLP``, ``Computer Vision`` in ``Python`` to classify tax codes in SKU items in both the US & Canada, identify features from PDF invoices, increasing tax compliance and reducing manual efforts by 60%.
-- **Data Architecture & Analytics**: Cooperated with Data Engineer, Architect to design and develop a ``Snowflake``-based Data Hub to centralize tax data from Snowflake, ``Oracle`` for later reporting and analytics, optimizing ETL workflows and reducing reporting errors by 70%.
-- **Data Visualization & Business Intelligence**: Designed ``Tableau``, ``Power BI`` dashboards with advanced LOD, DAX, MDX measures, improving engagement and decision-making insights to replace static dashboards provided by Big 4 and save US$20K annually.
-- **Multiclass Classification & Few-shot LLM Prompting for Tax Code Mapping** (e.g., concatenating product transactions to tax logic using OpenAI models, based on retail data) as one of my Classification Modelling layers.
-- **Tax Slip PDF Signature Detection** using pretrained models like `fasterrcnn_resnet50_fpn` (developed by Microsoft and Meta), helping replicate manual audit marking using computer vision and replace manual tasks on non-structured data files.
----
 <img width="45" height="42" alt="harvard-36-card" src="https://github.com/user-attachments/assets/d7d835db-b668-4fb9-afe7-d24a3cd601e6" />
 
+<img width="151" height="42" alt="harvard-university-36-card" src="https://github.com/user-attachments/assets/007eaa14-1876-4561-b95f-76e173af9fb2" />
 
 `Jan 2024 - Dec 2026` - `Master of Liberal Arts (ALM), Extension Studies, Data Science, Graduate Student` - [Harvard University](https://extension.harvard.edu/academics/programs/data-science-graduate-program/) (online part-time evening) - Cambridge, Massachusetts, USA 🇺🇸
+
+[LLM-Assisted RAG for Domain-Specific QA over Canadian Corporate Tax Fact Documents on AWS SageMaker and Azure AI Search](https://github.com/daiphuongngo/LLM-Assisted-RAG-for-Domain-Specific-QA-over-Canadian-Corporate-Tax-Fact-AWS-SageMaker-Azure-AI/blob/main/README.md)
 
 [From Clusters to Retrieval: Hybrid BERT-Based Taxonomy and Similarity Search for Medical Chatbot Questions (CSCI E-108 Data Mining, Discovery & Exploration)](https://github.com/daiphuongngo/Multi-Version-NLP-Pipeline-for-Medical-Questions-Clustering-LSA-KMeans-to-BERT-Hybrid-Spectral): 
 - Designed and evaluated a multi-version clustering and retrieval pipeline on ~47.5k medical chatbot questions, moving from TF-IDF/LSA + KMeans to BERT+tags with Nyström spectral clustering. Built a production-style hybrid similarity search and reranking stack (BERT dense vectors + BM25 + tag Jaccard) to support intent discovery, taxonomy building, and downstream RAG use cases.
@@ -92,6 +75,29 @@ Others | [Certified Six Sigma White Belt](https://github.com/daiphuongngo/daiphu
 [🏨 Hotel Daily Room Rate & Booking Cancellation Prediction (STAT E-109 Statistical Modeling in R)](https://github.com/daiphuongngo/Hotel-Daily-Room-Rate-Booking-Cancellation-Prediction):
 - Implemented XGBoost, Random Forest, and Deep Neural Networks (DNNs) to predict ADR (Average Daily Rate) and booking cancellation probability, and applied logistic regression, hypothesis testing, and ensemble models with increased revenue forecast accuracy using grid search hyperparameter tuning.
     
+---
+<img width="117" height="42" alt="haventree-bank-36-card" src="https://github.com/user-attachments/assets/34052fc0-cbe1-4e0a-a7bf-84ff7480a534" />
+
+`Oct 2024 - Apr 2025` - `Finance Transformation Analyst`, Finance & Controlling - [Haventree Bank](https://www.haventreebank.com/en/) 🏦 - Toronto, Ontario, Canada 🍁🇨🇦 
+
+- **Advanced Analytics & Reporting**: Supported risk analytics & credit risk team with logical development in ``Alteryx``, ``Python``, ``Tableau``’s KPIs, codes to transform data, plot geospatial visuals, analyze [fire weather climate risk & OSFI metrics](https://github.com/daiphuongngo/Mortgage-Accounting-and-Risk-Analytics/tree/main).
+- **Data Automation & Workflow Optimization**: Designed and deployed Alteryx, Python, SQL workflows to [consolidate accounting logics and automate bank account reconciliation](https://github.com/daiphuongngo/Mortgage-Accounting-and-Risk-Analytics/tree/main), match mortgage, deposit, corporate & funding transactions between banking partners vs. internal general ledger, integrating data from ``SharePoint``, ``Excel``, and ``SQL`` databases, improving reconciliation accuracy and efficiency by 90% and reducing manual reconciliation efforts by 70%.
+- **Collaboration & Governance**: Worked closely with accounting, finance teams to deliver data analytics, insights and establish best translated rule-based logic solutions for financial data automation and reconciliation on ``Alteryx Designer`` workflows deployed to ``Alteryx Server``.
+---
+
+<img width="64" height="42" alt="hudsons-bay-36-card" src="https://github.com/user-attachments/assets/5a9cd8f3-dcaa-4607-89ac-b7fc923eaee1" />
+
+<img width="102" height="42" alt="hudsons-bay-company-36-card" src="https://github.com/user-attachments/assets/1bbd2238-a73c-4485-9f4b-d557369d3fa2" />
+
+`Apr 2023 - Oct 2024` - `Analyst, Business Insights`, 🍁🇨🇦 🇺🇸 Accounting, Tax & Finance - [Hudson's Bay Company](https://www.hbc.com/) 🛍️ (HBC: Hudson’s Bay, The Bay, Saks Fifth Avenue, Saks Off Fifth) - Toronto, Ontario, Canada 🍁🇨🇦 
+
+- **SQL, APA Pipelines & Data Engineering**: Built ``SQL`` pipelines and automated ``Alteryx``, ``Dataiku`` workflows to streamline high-level reporting, reducing manual reconciliation efforts by 70-95%, integrated sources to enhance accuracy for tax & accounting teams, and discuss directly with VP – Tax, DVP – Indirect Tax for reports to CEO, ``US`` 🇺🇸, ``Puerto Rican`` 🇵🇷 & ``Canadian`` 🇨🇦 state & provincial auditors, Big 4 consulting firms: ``Deloitte, KPMG, EY``.
+- **Machine Learning & AI**: Implemented ``ML models``, ``NLP``, ``Computer Vision`` in ``Python`` to classify tax codes in SKU items in both the US & Canada, identify features from PDF invoices, increasing tax compliance and reducing manual efforts by 60%.
+- **Data Architecture & Analytics**: Cooperated with Data Engineer, Architect to design and develop a ``Snowflake``-based Data Hub to centralize tax data from Snowflake, ``Oracle`` for later reporting and analytics, optimizing ETL workflows and reducing reporting errors by 70%.
+- **Data Visualization & Business Intelligence**: Designed ``Tableau``, ``Power BI`` dashboards with advanced LOD, DAX, MDX measures, improving engagement and decision-making insights to replace static dashboards provided by Big 4 and save US$20K annually.
+- **Multiclass Classification & Few-shot LLM Prompting for Tax Code Mapping** (e.g., concatenating product transactions to tax logic using OpenAI models, based on retail data) as one of my Classification Modelling layers.
+- **Tax Slip PDF Signature Detection** using pretrained models like `fasterrcnn_resnet50_fpn` (developed by Microsoft and Meta), helping replicate manual audit marking using computer vision and replace manual tasks on non-structured data files.
+
 ---
 <img width="149" height="42" alt="billennium-36-card" src="https://github.com/user-attachments/assets/00b07cb2-0b08-49ef-9b6b-0f216c1dce5e" />
 
