@@ -201,6 +201,8 @@ Contact: [phuong.ngo5595@gmail.com](phuong.ngo5595@gmail.com) | [Linkedin](https
 
 <img width="102" height="42" alt="hudsons-bay-company-36-card" src="https://github.com/user-attachments/assets/1bbd2238-a73c-4485-9f4b-d557369d3fa2" />
 
+<img width="54" height="36" alt="hbc-official-36px" src="https://github.com/user-attachments/assets/92b091dd-38db-4bfe-b231-f3855e840656" />
+
 `Apr 2023 - Oct 2024` - `Analyst, Business Insights`, 🍁🇨🇦 🇺🇸 Accounting, Tax & Finance - [Hudson's Bay Company](https://www.hbc.com/) 🛍️ (HBC: Hudson’s Bay, The Bay, Saks Fifth Avenue, Saks Off Fifth) - Toronto, Ontario, Canada 🍁🇨🇦 
 
 - **SQL, APA Pipelines & Data Engineering**: Built ``SQL`` pipelines and automated ``Alteryx``, ``Dataiku`` workflows to streamline high-level reporting, reducing manual reconciliation efforts by 70-95%, integrated sources to enhance accuracy for tax & accounting teams, and discuss directly with VP – Tax, DVP – Indirect Tax for reports to CEO, ``US`` 🇺🇸, ``Puerto Rican`` 🇵🇷 & ``Canadian`` 🇨🇦 state & provincial auditors, Big 4 consulting firms: ``Deloitte, KPMG, EY``.
