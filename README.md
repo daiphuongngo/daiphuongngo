@@ -156,7 +156,8 @@ Contact: [phuong.ngo5595@gmail.com](phuong.ngo5595@gmail.com) | [Linkedin](https
 `Jan 2024 - Dec 2026` - `Master of Liberal Arts (ALM), Extension Studies, Data Science, Graduate Student` - [Harvard University](https://extension.harvard.edu/academics/programs/data-science-graduate-program/) (online part-time evening) - Cambridge, Massachusetts, USA 🇺🇸
 
 [LLM-Assisted RAG for Domain-Specific QA over Canadian Corporate Tax Fact Documents on AWS SageMaker and Azure AI Search](https://github.com/daiphuongngo/LLM-Assisted-RAG-for-Domain-Specific-QA-over-Canadian-Corporate-Tax-Fact-AWS-SageMaker-Azure-AI/blob/main/README.md):
-— Built a domain-specific LLM + RAG system in Python using AWS SageMaker and Azure AI to answer Canadian corporate tax questions from official public-source documents with grounded, evidence-based responses.
+
+- Built a domain-specific LLM + RAG system in Python using AWS SageMaker and Azure AI to answer Canadian corporate tax questions from official public-source documents with grounded, evidence-based responses.
 
 [From Clusters to Retrieval: Hybrid BERT-Based Taxonomy and Similarity Search for Medical Chatbot Questions (CSCI E-108 Data Mining, Discovery & Exploration)](https://github.com/daiphuongngo/Multi-Version-NLP-Pipeline-for-Medical-Questions-Clustering-LSA-KMeans-to-BERT-Hybrid-Spectral): 
 - Designed and evaluated a multi-version clustering and retrieval pipeline on ~47.5k medical chatbot questions, moving from TF-IDF/LSA + KMeans to BERT+tags with Nyström spectral clustering. Built a production-style hybrid similarity search and reranking stack (BERT dense vectors + BM25 + tag Jaccard) to support intent discovery, taxonomy building, and downstream RAG use cases.
