@@ -23,6 +23,7 @@ Others | [Certified Six Sigma White Belt](https://github.com/daiphuongngo/daiphu
 ---
 ## Education & Experience:
 
+<img width="98" height="42" alt="kpmg-36-card" src="https://github.com/user-attachments/assets/98fb1589-ac73-463f-984a-a93e4bccdc18" />
 `Jul 2025 - now` - `Manager, Data Analytics`, 🍁🇨🇦 🇺🇸 Corporate Tax, Tax Technology - Asset Management Digital Solutions - [KPMG Canada](https://kpmg.com/ca/en/home.html) - Toronto, Ontario, Canada 🍁🇨🇦 
 
 - Applied AI, NLP & Computer Vision: Designed and prototyped AI-assisted document understanding and information extraction pipelines using Python, NLP, and computer vision techniques, including OCR-adjacent workflows and layout-aware processing, with emphasis on accuracy, explainability, and human-in-the-loop validation.
