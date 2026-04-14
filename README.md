@@ -2,7 +2,7 @@
 
 ## Permanent Resident of Canada 🇨🇦 🍁
 
-Contact: [Main Email](phuong.ngo5595@gmail.com) | [Linkedin](https://www.linkedin.com/in/daiphuongngo/) | [2nd Email](liam.ngo55.1@gmail.com) | [Tableau Public](https://public.tableau.com/app/profile/dai.phuong.ngo) | [Alteryx stack](https://community.alteryx.com/t5/user/viewprofilepage/user-id/288253) | [HackerRank](https://www.hackerrank.com/phuong_ngo5595) |
+Contact: [phuong.ngo5595@gmail.com](phuong.ngo5595@gmail.com) | [Linkedin](https://www.linkedin.com/in/daiphuongngo/) | [dan299@g.harvard.edu](dan299@g.harvard.edu) | [Tableau Public](https://public.tableau.com/app/profile/dai.phuong.ngo) | [Alteryx stack](https://community.alteryx.com/t5/user/viewprofilepage/user-id/288253) | [HackerRank](https://www.hackerrank.com/phuong_ngo5595) |
 
 ## My Motto:
 
